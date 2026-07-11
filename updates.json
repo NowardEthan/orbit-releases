@@ -1,0 +1,26 @@
+{
+  "app": "orbit-mobile",
+  "manifestVersion": 1,
+  "latestVersion": "2.0.1",
+  "latestVersionCode": 1,
+  "publishedAt": "2026-07-11",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
+  "minSupportedVersion": "2.0.0",
+  "mandatory": false,
+  "news": [
+    {
+      "id": "2026-07-11-mural",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "O Início virou um mural",
+      "body": "A aba Início agora mostra novidades, avisos e atualizações do Orbit aqui — em vez da lista de conversas. Suas conversas continuam na aba Conversas."
+    },
+    {
+      "id": "2026-07-11-auto-update",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "Atualizações automáticas",
+      "body": "Quando sair uma versão nova do Orbit, você vai ver um aviso aqui e poderá baixar e instalar com um toque."
+    }
+  ]
+}
