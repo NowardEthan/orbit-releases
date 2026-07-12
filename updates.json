@@ -1,13 +1,29 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.0",
-  "latestVersionCode": 9,
+  "latestVersion": "2.5.1",
+  "latestVersionCode": 10,
   "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.5.1-ferramentas",
+      "date": "2026-07-12",
+      "version": "2.5.1",
+      "tag": "correcao",
+      "title": "Dá pra ver o que a Luna está fazendo",
+      "body": "Olhar uma foto abria um painel de \"pesquisa profunda\" com barra de fases — sem pesquisa nenhuma. Agora cada ferramenta aparece como um selo discreto: ▣ olhando a imagem, ▶ assistindo o vídeo, ❖ consultando a memória. O painel de pesquisa só aparece quando ela realmente pesquisa na web."
+    },
+    {
+      "id": "2026-07-12-v2.5.1-raciocinio",
+      "date": "2026-07-12",
+      "version": "2.5.1",
+      "tag": "correcao",
+      "title": "Fim do raciocínio duplicado",
+      "body": "O mesmo texto de raciocínio aparecia duas vezes na mensagem. Agora aparece uma só."
+    },
     {
       "id": "2026-07-12-v2.5.0-visao",
       "date": "2026-07-12",
