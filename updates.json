@@ -1,13 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.2.0",
-  "latestVersionCode": 4,
+  "latestVersion": "2.2.1",
+  "latestVersionCode": 5,
   "publishedAt": "2026-07-11",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-11-v2.2.1-instantaneo",
+      "date": "2026-07-11",
+      "tag": "correcao",
+      "title": "Avisos de atualização na hora",
+      "body": "O app passou a detectar novas versões quase instantaneamente — antes o aviso podia demorar alguns minutos para aparecer."
+    },
     {
       "id": "2026-07-11-v2.2.0-instalador",
       "date": "2026-07-11",
