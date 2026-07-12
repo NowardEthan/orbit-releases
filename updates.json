@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.1",
-  "latestVersionCode": 10,
+  "latestVersion": "2.5.2",
+  "latestVersionCode": 11,
   "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.5.2-video-grande",
+      "date": "2026-07-12",
+      "version": "2.5.2",
+      "tag": "correcao",
+      "title": "O app não fecha mais com vídeo grande",
+      "body": "Anexar um vídeo pesado (uma gravação de tela, por exemplo) fechava o Orbit: o arquivo inteiro era carregado na memória antes de subir. Agora ele sobe direto do disco, sem passar pela memória — e o app fica de pé."
+    },
     {
       "id": "2026-07-12-v2.5.1-ferramentas",
       "date": "2026-07-12",
