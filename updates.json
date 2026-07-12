@@ -1,13 +1,34 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.3.0",
-  "latestVersionCode": 6,
-  "publishedAt": "2026-07-11",
+  "latestVersion": "2.4.0",
+  "latestVersionCode": 7,
+  "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.4.0-camera",
+      "date": "2026-07-12",
+      "tag": "novidade",
+      "title": "Câmera dentro do app",
+      "body": "Agora você tira fotos sem sair do Orbit — e sem o app reiniciar. A câmera do sistema fazia o Android matar o app em segundo plano; agora ela mora aqui dentro."
+    },
+    {
+      "id": "2026-07-12-v2.4.0-notificacao",
+      "date": "2026-07-12",
+      "tag": "novidade",
+      "title": "A Luna te avisa quando responde",
+      "body": "Mandou uma mensagem e saiu do app? Ela termina de pensar, responde, e te manda uma notificação. Toque nela e você cai direto na conversa."
+    },
+    {
+      "id": "2026-07-12-v2.4.0-fluidez",
+      "date": "2026-07-12",
+      "tag": "correcao",
+      "title": "Streaming fluido e mensagens em largura cheia",
+      "body": "Acabou o engasgo no texto e no raciocínio. As mensagens agora ocupam a tela toda, empilhadas, e o que você escreve também formata markdown."
+    },
     {
       "id": "2026-07-11-v2.3.0-repaginada",
       "date": "2026-07-11",
