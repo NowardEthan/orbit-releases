@@ -1,13 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.1.1",
-  "latestVersionCode": 3,
+  "latestVersion": "2.2.0",
+  "latestVersionCode": 4,
   "publishedAt": "2026-07-11",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-11-v2.2.0-instalador",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "Atualização sem sair do app",
+      "body": "Agora o download da nova versão acontece dentro do Orbit, com barra de progresso, e o instalador do Android abre direto — sem passar pelo navegador."
+    },
     {
       "id": "2026-07-11-v2.1.1-icone",
       "date": "2026-07-11",
