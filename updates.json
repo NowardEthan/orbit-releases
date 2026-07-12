@@ -1,13 +1,27 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.2.1",
-  "latestVersionCode": 5,
+  "latestVersion": "2.3.0",
+  "latestVersionCode": 6,
   "publishedAt": "2026-07-11",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-11-v2.3.0-repaginada",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "Perfil e login repaginados",
+      "body": "O perfil ficou mais limpo (estilo rede social) e a tela de login ganhou o novo visual do Orbit. O Início e o mural também receberam um acabamento."
+    },
+    {
+      "id": "2026-07-11-v2.3.0-fixes",
+      "date": "2026-07-11",
+      "tag": "correcao",
+      "title": "Correções nas conversas",
+      "body": "Palavras em itálico agora formatam certo, e a análise de fotos não vaza mais no texto da mensagem."
+    },
     {
       "id": "2026-07-11-v2.2.1-instantaneo",
       "date": "2026-07-11",
