@@ -1,13 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.1.0",
-  "latestVersionCode": 2,
+  "latestVersion": "2.1.1",
+  "latestVersionCode": 3,
   "publishedAt": "2026-07-11",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-11-v2.1.1-icone",
+      "date": "2026-07-11",
+      "tag": "correcao",
+      "title": "Ícone do Android corrigido",
+      "body": "No Android o ícone estava sendo recortado (sobrava só o planeta). Agora o logo completo aparece, centrado e sem cortes."
+    },
     {
       "id": "2026-07-11-v2.1.0",
       "date": "2026-07-11",
