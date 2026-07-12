@@ -11,6 +11,7 @@
     {
       "id": "2026-07-12-v2.4.1-background",
       "date": "2026-07-12",
+      "version": "2.4.1",
       "tag": "correcao",
       "title": "A resposta não se perde mais quando você sai do app",
       "body": "Mandava uma mensagem, saía do Orbit e, ao voltar, a conversa ficava girando para sempre — com um erro por cima de uma resposta que já estava pronta. Agora a notificação chega na hora e a resposta está lá esperando quando você volta."
@@ -18,6 +19,7 @@
     {
       "id": "2026-07-12-v2.4.0-camera",
       "date": "2026-07-12",
+      "version": "2.4.0",
       "tag": "novidade",
       "title": "Câmera dentro do app",
       "body": "Agora você tira fotos sem sair do Orbit — e sem o app reiniciar. A câmera do sistema fazia o Android matar o app em segundo plano; agora ela mora aqui dentro."
@@ -25,6 +27,7 @@
     {
       "id": "2026-07-12-v2.4.0-notificacao",
       "date": "2026-07-12",
+      "version": "2.4.0",
       "tag": "novidade",
       "title": "A Luna te avisa quando responde",
       "body": "Mandou uma mensagem e saiu do app? Ela termina de pensar, responde, e te manda uma notificação. Toque nela e você cai direto na conversa."
@@ -32,6 +35,7 @@
     {
       "id": "2026-07-12-v2.4.0-fluidez",
       "date": "2026-07-12",
+      "version": "2.4.0",
       "tag": "correcao",
       "title": "Streaming fluido e mensagens em largura cheia",
       "body": "Acabou o engasgo no texto e no raciocínio. As mensagens agora ocupam a tela toda, empilhadas, e o que você escreve também formata markdown."
@@ -39,6 +43,7 @@
     {
       "id": "2026-07-11-v2.3.0-repaginada",
       "date": "2026-07-11",
+      "version": "2.3.0",
       "tag": "novidade",
       "title": "Perfil e login repaginados",
       "body": "O perfil ficou mais limpo (estilo rede social) e a tela de login ganhou o novo visual do Orbit. O Início e o mural também receberam um acabamento."
@@ -46,6 +51,7 @@
     {
       "id": "2026-07-11-v2.3.0-fixes",
       "date": "2026-07-11",
+      "version": "2.3.0",
       "tag": "correcao",
       "title": "Correções nas conversas",
       "body": "Palavras em itálico agora formatam certo, e a análise de fotos não vaza mais no texto da mensagem."
@@ -53,6 +59,7 @@
     {
       "id": "2026-07-11-v2.2.1-instantaneo",
       "date": "2026-07-11",
+      "version": "2.2.1",
       "tag": "correcao",
       "title": "Avisos de atualização na hora",
       "body": "O app passou a detectar novas versões quase instantaneamente — antes o aviso podia demorar alguns minutos para aparecer."
@@ -60,6 +67,7 @@
     {
       "id": "2026-07-11-v2.2.0-instalador",
       "date": "2026-07-11",
+      "version": "2.2.0",
       "tag": "novidade",
       "title": "Atualização sem sair do app",
       "body": "Agora o download da nova versão acontece dentro do Orbit, com barra de progresso, e o instalador do Android abre direto — sem passar pelo navegador."
@@ -67,6 +75,7 @@
     {
       "id": "2026-07-11-v2.1.1-icone",
       "date": "2026-07-11",
+      "version": "2.1.1",
       "tag": "correcao",
       "title": "Ícone do Android corrigido",
       "body": "No Android o ícone estava sendo recortado (sobrava só o planeta). Agora o logo completo aparece, centrado e sem cortes."
@@ -74,6 +83,7 @@
     {
       "id": "2026-07-11-v2.1.0",
       "date": "2026-07-11",
+      "version": "2.1.0",
       "tag": "novidade",
       "title": "Orbit 2.1.0 no ar",
       "body": "Chegou a primeira versão com atualização automática: mural de novidades, exportar conversa, menu de opções no chat, ticks de envio e um novo ícone. Detalhes abaixo."
@@ -81,6 +91,7 @@
     {
       "id": "2026-07-11-auto-update",
       "date": "2026-07-11",
+      "version": "2.1.0",
       "tag": "novidade",
       "title": "Atualizações automáticas",
       "body": "Quando sair uma versão nova do Orbit, você vê um aviso aqui e baixa/instala com um toque. Sem precisar procurar nada."
@@ -88,6 +99,7 @@
     {
       "id": "2026-07-11-export",
       "date": "2026-07-11",
+      "version": "2.1.0",
       "tag": "novidade",
       "title": "Exportar conversa",
       "body": "No menu (⋮) do chat, exporte a conversa como arquivo .md — dá pra salvar no Drive ou abrir no Obsidian/Notion."
@@ -95,6 +107,7 @@
     {
       "id": "2026-07-11-mural",
       "date": "2026-07-11",
+      "version": "2.1.0",
       "tag": "novidade",
       "title": "O Início virou um mural",
       "body": "A aba Início mostra novidades e avisos aqui, em vez da lista de conversas. Suas conversas seguem na aba Conversas."
@@ -102,6 +115,7 @@
     {
       "id": "2026-07-11-fixes",
       "date": "2026-07-11",
+      "version": "2.1.0",
       "tag": "correcao",
       "title": "Correções de envio e anexos",
       "body": "Fim das respostas duplicadas e das bolhas de erro que acumulavam; seletor de anexos mais confiável; e respostas mais rápidas."
