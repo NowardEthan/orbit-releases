@@ -1,13 +1,45 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.4.1",
-  "latestVersionCode": 8,
+  "latestVersion": "2.5.0",
+  "latestVersionCode": 9,
   "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.5.0-visao",
+      "date": "2026-07-12",
+      "version": "2.5.0",
+      "tag": "novidade",
+      "title": "A Luna passou a ver de verdade",
+      "body": "Antes ela não via a sua foto: outro modelo escrevia um resumo dela, e era só esse texto que chegava até a Luna. Ela chutava o que faltava (um pano na cabeça de um jogador virou 'pacote de salgadinho'). Agora a imagem vai inteira e é ela quem olha — com a pergunta dela, lendo o que está escrito na foto."
+    },
+    {
+      "id": "2026-07-12-v2.5.0-video",
+      "date": "2026-07-12",
+      "version": "2.5.0",
+      "tag": "novidade",
+      "title": "Agora ela assiste vídeo",
+      "body": "Toque em Vídeo no menu de anexos e mande um clipe. Ela descreve o que acontece ao longo do vídeo, não só um quadro parado."
+    },
+    {
+      "id": "2026-07-12-v2.5.0-memoria-visual",
+      "date": "2026-07-12",
+      "version": "2.5.0",
+      "tag": "novidade",
+      "title": "Ela lembra das fotos da conversa",
+      "body": "Uma foto não vive mais só no instante em que você manda. Mais adiante na conversa você pode dizer \"volta naquela foto\" — e ela volta."
+    },
+    {
+      "id": "2026-07-12-v2.5.0-mural",
+      "date": "2026-07-12",
+      "version": "2.5.0",
+      "tag": "novidade",
+      "title": "Mural organizado por versão",
+      "body": "As novidades agora ficam agrupadas por versão, e um selo mostra em qual delas você está."
+    },
     {
       "id": "2026-07-12-v2.4.1-background",
       "date": "2026-07-12",
