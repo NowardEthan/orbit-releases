@@ -1,13 +1,29 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.2",
-  "latestVersionCode": 11,
+  "latestVersion": "2.5.3",
+  "latestVersionCode": 12,
   "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.5.3-horario",
+      "date": "2026-07-12",
+      "version": "2.5.3",
+      "tag": "novidade",
+      "title": "Horário nas mensagens",
+      "body": "Cada mensagem agora mostra a hora no cabeçalho. Se for de outro dia, aparece o dia junto (\"ontem 23:58\") — numa conversa que atravessa a madrugada, só a hora enganaria."
+    },
+    {
+      "id": "2026-07-12-v2.5.3-luna-tempo",
+      "date": "2026-07-12",
+      "version": "2.5.3",
+      "tag": "correcao",
+      "title": "A Luna não se perde mais no tempo",
+      "body": "Ela sabia que horas eram agora, mas não quando cada mensagem tinha acontecido — e chutava o dia (\"você passou o sábado inteiro codando\", num domingo). Agora ela vê a conversa datada. E parou de pedir desculpa por erros que não cometeu."
+    },
     {
       "id": "2026-07-12-v2.5.2-video-grande",
       "date": "2026-07-12",
