@@ -1,26 +1,47 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.0.1",
-  "latestVersionCode": 1,
+  "latestVersion": "2.1.0",
+  "latestVersionCode": 2,
   "publishedAt": "2026-07-11",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "2026-07-11-mural",
+      "id": "2026-07-11-v2.1.0",
       "date": "2026-07-11",
       "tag": "novidade",
-      "title": "O Início virou um mural",
-      "body": "A aba Início agora mostra novidades, avisos e atualizações do Orbit aqui — em vez da lista de conversas. Suas conversas continuam na aba Conversas."
+      "title": "Orbit 2.1.0 no ar",
+      "body": "Chegou a primeira versão com atualização automática: mural de novidades, exportar conversa, menu de opções no chat, ticks de envio e um novo ícone. Detalhes abaixo."
     },
     {
       "id": "2026-07-11-auto-update",
       "date": "2026-07-11",
       "tag": "novidade",
       "title": "Atualizações automáticas",
-      "body": "Quando sair uma versão nova do Orbit, você vai ver um aviso aqui e poderá baixar e instalar com um toque."
+      "body": "Quando sair uma versão nova do Orbit, você vê um aviso aqui e baixa/instala com um toque. Sem precisar procurar nada."
+    },
+    {
+      "id": "2026-07-11-export",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "Exportar conversa",
+      "body": "No menu (⋮) do chat, exporte a conversa como arquivo .md — dá pra salvar no Drive ou abrir no Obsidian/Notion."
+    },
+    {
+      "id": "2026-07-11-mural",
+      "date": "2026-07-11",
+      "tag": "novidade",
+      "title": "O Início virou um mural",
+      "body": "A aba Início mostra novidades e avisos aqui, em vez da lista de conversas. Suas conversas seguem na aba Conversas."
+    },
+    {
+      "id": "2026-07-11-fixes",
+      "date": "2026-07-11",
+      "tag": "correcao",
+      "title": "Correções de envio e anexos",
+      "body": "Fim das respostas duplicadas e das bolhas de erro que acumulavam; seletor de anexos mais confiável; e respostas mais rápidas."
     }
   ]
 }
