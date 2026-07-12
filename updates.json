@@ -1,13 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.4.0",
-  "latestVersionCode": 7,
+  "latestVersion": "2.4.1",
+  "latestVersionCode": 8,
   "publishedAt": "2026-07-12",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-12-v2.4.1-background",
+      "date": "2026-07-12",
+      "tag": "correcao",
+      "title": "A resposta não se perde mais quando você sai do app",
+      "body": "Mandava uma mensagem, saía do Orbit e, ao voltar, a conversa ficava girando para sempre — com um erro por cima de uma resposta que já estava pronta. Agora a notificação chega na hora e a resposta está lá esperando quando você volta."
+    },
     {
       "id": "2026-07-12-v2.4.0-camera",
       "date": "2026-07-12",
