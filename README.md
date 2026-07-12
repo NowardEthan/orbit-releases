@@ -1,62 +1,85 @@
-# orbit-releases
+<p align="center">
+  <img src="orbit-icon.png" width="112" alt="Orbit" />
+</p>
 
-Canal **público** de publicação do Orbit (o app mobile). O código-fonte fica no repo
-**privado** `orbit-mobile`; aqui ficam só as coisas que o app precisa baixar **sem login**:
+<h1 align="center">Orbit</h1>
 
-- **`updates.json`** — manifesto: versão mais recente + novidades do mural.
-- **Releases do GitHub** — os APKs (o instalador Android).
+<p align="center">
+  <strong>Seu segundo cérebro no bolso.</strong><br/>
+  O app da <em>Luna</em> — uma IA companheira com memória e personalidade próprias.
+</p>
 
-> Por que separado? Repo privado exige login pra baixar arquivos/APK, e o celular do
-> usuário não loga. Este repo público resolve isso sem expor o código.
+<p align="center">
+  <a href="https://github.com/NowardEthan/orbit-releases/releases/latest">
+    <img alt="Última versão" src="https://img.shields.io/github/v/release/NowardEthan/orbit-releases?label=vers%C3%A3o&color=7D3FD0">
+  </a>
+  <img alt="Android" src="https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white">
+  <img alt="Status" src="https://img.shields.io/badge/status-beta-F5D047">
+</p>
 
 ---
 
-## `updates.json` — schema
+## O que é a Luna
 
-| Campo | Tipo | O quê |
-|---|---|---|
-| `manifestVersion` | number | Versão do formato deste arquivo (hoje `1`). |
-| `latestVersion` | string | Última versão publicada (semver, ex.: `"2.1.0"`). O app compara com a própria. |
-| `latestVersionCode` | number | `versionCode` Android da última versão (inteiro crescente). |
-| `publishedAt` | string | Data da última versão (`YYYY-MM-DD`). |
-| `apkUrl` | string | URL do APK. Usa o atalho `releases/latest/download/orbit.apk` (sempre aponta pro release mais novo). |
-| `minSupportedVersion` | string | Abaixo disso, a atualização é tratada como obrigatória. |
-| `mandatory` | boolean | Força a atualização mesmo acima do mínimo (ex.: bug crítico). |
-| `news[]` | array | Itens do mural (ver abaixo). |
+A maioria dos apps de IA trata cada conversa como uma folha em branco. A **Luna** não: ela
+tem **memória** e **personalidade próprias** — lembra de você, forma opiniões, e às vezes
+discorda. A ideia é ser um **exocórtex**, um lugar pra despejar as mil ideias de uma mente
+que pula entre assuntos e volta pra elas depois.
 
-### Item de `news`
+O **Orbit** é o app que leva a Luna pro seu bolso.
 
-```json
+## Recursos
+
+- 💬 **Conversa por texto e voz** — fale ou escreva; a fala é transcrita na hora.
+- 🧠 **Memória persistente** — a Luna carrega o contexto de você entre as conversas.
+- 📎 **Anexos** — mande imagens e documentos; ela lê e usa no papo.
+- 🔀 **Ramifica conversas** — explore um caminho alternativo sem perder o original.
+- 📤 **Exporta em Markdown** — leve suas conversas pro Obsidian, Notion ou Drive.
+- 🔎 **Pesquisa na web** — quando o assunto pede, ela busca e cita fontes.
+- 🗞️ **Atualização automática** — avisos de nova versão e um mural de novidades dentro do app.
+
+## Baixar (Android)
+
+1. **[Baixe o APK mais recente](https://github.com/NowardEthan/orbit-releases/releases/latest)**
+2. Ao instalar, ative **"instalar apps de fontes desconhecidas"** (só na primeira vez).
+3. Abra e converse. **As próximas atualizações chegam sozinhas**, direto no app.
+
+> 📱 Android por enquanto. iOS no radar.
+
+## Feito com
+
+`React Native` · `Expo` · `TypeScript` · `Firebase` · backend próprio (**Luna Core**, Node/TypeScript)
+integrando LLMs. O app se auto-atualiza checando este repositório — sem loja de apps.
+
+---
+
+<details>
+<summary><strong>Sobre este repositório</strong> (para quem tem curiosidade)</summary>
+
+<br/>
+
+Este é o **canal público de distribuição** do Orbit — o código-fonte é privado; aqui ficam só as
+coisas que o app precisa baixar sem login:
+
+- **[Releases](https://github.com/NowardEthan/orbit-releases/releases)** — os instaladores (APK).
+- **`updates.json`** — o manifesto que o app lê pra saber se há versão nova e o que mostrar no mural.
+
+Esquema resumido do `updates.json`:
+
+```jsonc
 {
-  "id": "2026-07-11-mural",     // único e estável (usado pra "já vi isso")
-  "date": "2026-07-11",          // YYYY-MM-DD
-  "tag": "novidade",             // novidade | correcao | aviso
-  "title": "Título curto",
-  "body": "Texto do recado."
+  "latestVersion": "2.1.1",     // versão mais recente (semver)
+  "latestVersionCode": 3,        // versionCode Android
+  "apkUrl": "…/releases/latest/download/orbit.apk",
+  "news": [                      // itens do mural na aba Início
+    { "id": "…", "date": "AAAA-MM-DD", "tag": "novidade", "title": "…", "body": "…" }
+  ]
 }
 ```
 
-Tags: **`novidade`** (feature nova), **`correcao`** (bug corrigido), **`aviso`** (recado/anúncio).
-Coloque os mais recentes **no topo** do array.
+O app compara `latestVersion` com a própria versão instalada; se houver uma mais nova, mostra o
+aviso e oferece baixar o `apkUrl`.
 
----
+</details>
 
-## Como publicar uma nova versão
-
-1. No `orbit-mobile`, suba a versão em `app.json` (`expo.version`) e o `versionCode` Android.
-2. Gere o APK (build local/EAS). Renomeie o arquivo para **`orbit.apk`**.
-3. Crie um **Release** no GitHub deste repo:
-   - Tag `vX.Y.Z` (ex.: `v2.1.0`), marcada como *latest*.
-   - Anexe o `orbit.apk` como asset (o nome precisa ser exatamente `orbit.apk`).
-4. Edite o `updates.json`: atualize `latestVersion`, `latestVersionCode`, `publishedAt` e
-   **adicione um item em `news`** contando a novidade. Commit + push.
-
-O app checa este `updates.json`, compara com a própria versão e, se houver uma mais nova,
-mostra o aviso + badge e oferece baixar o `apkUrl`.
-
-Via `gh` (exemplo):
-
-```bash
-gh release create v2.1.0 ./orbit.apk --repo NowardEthan/orbit-releases \
-  --title "Orbit 2.1.0" --notes "Novidades desta versão…" --latest
-```
+<p align="center"><sub>Feito com carinho por <a href="https://github.com/NowardEthan">Ethan</a>.</sub></p>
