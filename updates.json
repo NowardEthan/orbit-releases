@@ -1,13 +1,29 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.3",
-  "latestVersionCode": 12,
-  "publishedAt": "2026-07-12",
+  "latestVersion": "2.5.4",
+  "latestVersionCode": 13,
+  "publishedAt": "2026-07-13",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-13-v2.5.4-arquivos",
+      "date": "2026-07-13",
+      "version": "2.5.4",
+      "tag": "correcao",
+      "title": "Ela voltou a ler seus arquivos — e agora lê os grandes também",
+      "body": "PDF, Word, Markdown e HTML não estavam chegando até ela: qualquer documento com mais de ~15 páginas era rejeitado antes de sair do app. Agora chega. E os grandes ela lê por partes: pede o sumário, procura o trecho que interessa, e te diz honestamente o que já leu (\"li 1 de 14 — quer que eu continue?\")."
+    },
+    {
+      "id": "2026-07-13-v2.5.4-visao",
+      "date": "2026-07-13",
+      "version": "2.5.4",
+      "tag": "correcao",
+      "title": "Ela olha suas fotos sem você pedir",
+      "body": "Antes você mandava um print e ela respondia \"manda aí\" — com a imagem na mão. Agora ela olha primeiro e comenta depois. E pode olhar de novo, procurando outro detalhe."
+    },
     {
       "id": "2026-07-12-v2.5.3-horario",
       "date": "2026-07-12",
