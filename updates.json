@@ -1,13 +1,29 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.4",
-  "latestVersionCode": 13,
+  "latestVersion": "2.5.5",
+  "latestVersionCode": 14,
   "publishedAt": "2026-07-13",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-13-v2.5.5-foto-errada",
+      "date": "2026-07-13",
+      "version": "2.5.5",
+      "tag": "correcao",
+      "title": "Ela olhava a foto errada",
+      "body": "Você mandava uma foto nova e ela comentava, com toda a confiança, uma foto de horas antes. Não era percepção — era um erro de índice: ao ganhar a capacidade de voltar em fotos antigas, \"a mais recente\" virou literalmente \"a mais velha\"."
+    },
+    {
+      "id": "2026-07-13-v2.5.5-arquivos-recentes",
+      "date": "2026-07-13",
+      "version": "2.5.5",
+      "tag": "correcao",
+      "title": "Arquivos dos \"recentes\" voltam a enviar",
+      "body": "O app ainda lia o arquivo do disco antes de enviar, e nos recentes o cache expira — o envio morria mesmo com o upload funcionando. Agora quem lê o documento é o servidor. Enviar arquivo sem mensagem também voltou a funcionar."
+    },
     {
       "id": "2026-07-13-v2.5.4-arquivos",
       "date": "2026-07-13",
