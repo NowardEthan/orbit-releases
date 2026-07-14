@@ -1,13 +1,37 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.6.0",
-  "latestVersionCode": 15,
+  "latestVersion": "2.6.1",
+  "latestVersionCode": 16,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.6.1-detalhe",
+      "date": "2026-07-14",
+      "version": "2.6.1",
+      "tag": "novidade",
+      "title": "Toque num bloco: ela te diz por onde começar",
+      "body": "O bloco deixou de abrir o editor e passou a abrir o roteiro. \"Almoço 12h–13h\" não faz ninguém começar — mas \"tira da geladeira tudo que vai usar · panela no fogo primeiro · monta o prato e já senta\" faz. A Luna escreve sozinha, com passos pra riscar. E você negocia ali dentro: \"faz mais simples\" e ela reescreve. Um roteiro que você não pode contestar é uma imposição."
+    },
+    {
+      "id": "2026-07-14-v2.6.1-polish",
+      "date": "2026-07-14",
+      "version": "2.6.1",
+      "tag": "correcao",
+      "title": "A Rotina ficou legível",
+      "body": "O bloco de 9h virava um retângulo preto de meia tela. A altura agora é fixa e o peso vive na barra lateral. O tempo livre entre os blocos apareceu (já era calculado e não era mostrado). E o cartão de cima parou de falar de hoje enquanto a lista mostrava outro dia — a tela contradizia a si mesma."
+    },
+    {
+      "id": "2026-07-14-v2.6.1-vazia",
+      "date": "2026-07-14",
+      "version": "2.6.1",
+      "tag": "correcao",
+      "title": "Ela criava a rotina e a tela mostrava vazio",
+      "body": "A Luna criava o bloco de verdade, dizia \"criei\" — era verdade — e a tela aparecia vazia. Do seu lado, ela parecia estar mentindo. Faltava a permissão de LEITURA no banco: o servidor escrevia com privilégio de admin e o app batia num muro que os testes nunca tocaram."
+    },
     {
       "id": "2026-07-14-v2.6.0-rotina",
       "date": "2026-07-14",
