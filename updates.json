@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.6.2",
-  "latestVersionCode": 17,
+  "latestVersion": "2.6.3",
+  "latestVersionCode": 18,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.6.3-guia",
+      "date": "2026-07-14",
+      "version": "2.6.3",
+      "tag": "novidade",
+      "title": "Pede o guia completo: a receita inteira",
+      "body": "Os passos são o empurrão pra começar (curtos, até 6). Mas às vezes você quer fundo — a receita com ingredientes e quantidades, o treino inteiro. Agora tem um botão \"Detalhar mais\" no bloco: a Luna escreve o guia completo, sem limite. Só quando você pede — porque um manual que você não pediu vira babá."
+    },
     {
       "id": "2026-07-14-v2.6.2-chips",
       "date": "2026-07-14",
