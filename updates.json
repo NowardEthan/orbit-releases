@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.6.1",
-  "latestVersionCode": 16,
+  "latestVersion": "2.6.2",
+  "latestVersionCode": 17,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.6.2-chips",
+      "date": "2026-07-14",
+      "version": "2.6.2",
+      "tag": "correcao",
+      "title": "Os dias da semana estavam esticando",
+      "body": "Num dia com poucos blocos, os botões dos dias viravam torres gigantes; num dia cheio, ficavam normais. A faixa dos dias brigava com a lista pelo espaço e esticava pra ocupar o vazio. Agora têm tamanho fixo."
+    },
     {
       "id": "2026-07-14-v2.6.1-detalhe",
       "date": "2026-07-14",
