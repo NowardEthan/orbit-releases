@@ -1,13 +1,61 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.5.5",
-  "latestVersionCode": 14,
-  "publishedAt": "2026-07-13",
+  "latestVersion": "2.6.0",
+  "latestVersionCode": 15,
+  "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.6.0-rotina",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "novidade",
+      "title": "A Rotina — e a Luna sabe onde você está",
+      "body": "Monte o seu dia em blocos (7h30 ônibus + duolingo, 9h trabalho) e a Luna passa a saber onde você está. Não é um app de horários com um chat colado: um organizador comum notifica; ela SABE. \"Faltam 20 minutos pro trabalho — dá pra fechar a lição.\" Abre pelo menu do +."
+    },
+    {
+      "id": "2026-07-14-v2.6.0-cobranca",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "novidade",
+      "title": "Alguém pra te puxar a orelha",
+      "body": "Uma notificação comum assume que o problema é lembrar. Não é — o que não acontece é o arranque. Então a cobrança não desiste: cutuca, insiste, e no fim é a própria Luna que te chama. Um toque em \"Comecei\" mata tudo, sem tela e sem confirmação. E \"hoje não\" é uma resposta legítima: nunca há culpa."
+    },
+    {
+      "id": "2026-07-14-v2.6.0-ela-repara",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "novidade",
+      "title": "E ela repara quando você some",
+      "body": "A cobrança tem teto — ela não persegue ninguém. Mas o que ficou por fazer vira memória dela: \"faz três dias que o duolingo passa batido, tá tudo bem?\". Dizer \"hoje não\" é falar com ela; o silêncio é sumir. Ela sabe a diferença."
+    },
+    {
+      "id": "2026-07-14-v2.6.0-nao-massante",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "correcao",
+      "title": "Ela parou de escrever ensaios",
+      "body": "Você escrevia 17 palavras e ela devolvia 160 — em quase 80% das mensagens ela passava de 120 palavras. Agora um detector conta o que ela escreveu e um editor corta o excesso depois, preservando as palavras dela. Menos monólogo, mesmo humor: os \"kkk\" continuam todos lá."
+    },
+    {
+      "id": "2026-07-14-v2.6.0-verdade",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "correcao",
+      "title": "Ela te diz a verdade em vez de te agradar",
+      "body": "Você pedia crítica e ela te dava abraço. Agora um revisor externo — que não está na conversa e não paga o custo de discordar — procura o furo antes dela responder, e a resposta não passa se o furo ficar de fora. Ela discordava com substância em 2 de 4 casos; agora são 4 de 4."
+    },
+    {
+      "id": "2026-07-14-v2.6.0-nao-finge",
+      "date": "2026-07-14",
+      "version": "2.6.0",
+      "tag": "correcao",
+      "title": "Ela não finge mais que lembra",
+      "body": "\"Já que ontem você concordou comigo…\" — e ela ia junto, mesmo nunca tendo concordado. Agora o sistema procura esse passado na memória antes dela responder e entrega o resultado. Ela deixou de ser instruída a ser honesta: recebe o fato."
+    },
     {
       "id": "2026-07-13-v2.5.5-foto-errada",
       "date": "2026-07-13",
