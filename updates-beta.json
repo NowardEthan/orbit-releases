@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.5",
-  "latestVersionCode": 36,
+  "latestVersion": "2.9.6",
+  "latestVersionCode": 37,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.5-vibra-longa",
+      "id": "beta-2.9.6-toggle-alarme",
       "date": "2026-07-15",
-      "version": "2.9.5",
+      "version": "2.9.6",
       "tag": "correcao",
-      "title": "rc: vibração da cobrança mais longa (5 pulsos)",
-      "body": "A vibração tava curta porque o Android tranca o canal depois de criado — mudança no código não pegava. Agora é um canal novo, com 5 pulsos longos, e o antigo é apagado. Testa pelo botão «Testar notificação». Se ainda quiser mais/menos, é só falar."
+      "title": "rc: o interruptor do «Modo alarme» voltou a aparecer",
+      "body": "Ele estava invisível — o texto longo empurrava o botão pra fora da tela, então dava pra ver o «Modo alarme» mas não ligar. Agora aparece certinho. Liga num bloco (com «Avisar» ligado) pra testar a vibração MAX do alarme."
     }
   ]
 }
