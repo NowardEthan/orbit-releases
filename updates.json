@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.7.1",
-  "latestVersionCode": 20,
+  "latestVersion": "2.7.2",
+  "latestVersionCode": 21,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.7.2-pensando",
+      "date": "2026-07-14",
+      "version": "2.7.2",
+      "tag": "correcao",
+      "title": "O \"pensando\" virou um balãozinho",
+      "body": "Aquele card grande e escuro com \"reunindo luz\" perdido no canto parecia uma caixa quebrada. Agora é um balãozinho compacto — três pontinhos pulsando e o texto do lado, encostado à esquerda, como o \"digitando\" de qualquer chat."
+    },
     {
       "id": "2026-07-14-v2.7.1-pensando",
       "date": "2026-07-14",
