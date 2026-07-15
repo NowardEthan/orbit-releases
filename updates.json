@@ -1,13 +1,37 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.6.3",
-  "latestVersionCode": 18,
+  "latestVersion": "2.7.0",
+  "latestVersionCode": 19,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.7.0-subtarefas",
+      "date": "2026-07-14",
+      "version": "2.7.0",
+      "tag": "novidade",
+      "title": "Tarefas dentro da tarefa",
+      "body": "Um bloco como \"Trabalho\" contém várias coisas — responder emails, a reunião, revisar o código. Agora dá pra ter essa lista dentro do bloco. Fala com a Luna (\"adiciona: emails, reunião das 10h\") ou digita à mão. E \"inclui mais uma\" acrescenta, não apaga o resto."
+    },
+    {
+      "id": "2026-07-14-v2.7.0-hora",
+      "date": "2026-07-14",
+      "version": "2.7.0",
+      "tag": "novidade",
+      "title": "A reunião das 10h te avisa às 10h",
+      "body": "A hora de uma sub-tarefa não é enfeite: se você marcar pra avisar, ela te cobra na hora. Um toque só — não a escada inteira. A escada é pro arranque do dia; a reunião só precisa de um lembrete pontual."
+    },
+    {
+      "id": "2026-07-14-v2.7.0-md",
+      "date": "2026-07-14",
+      "version": "2.7.0",
+      "tag": "correcao",
+      "title": "O detalhe ficou bonito",
+      "body": "O guia e o roteiro mostravam os símbolos do markdown crus (# e ** à vista). Agora renderizam de verdade — títulos, listas, negrito. E as tarefas saem capitalizadas e limpas, sem perder o jeito da Luna."
+    },
     {
       "id": "2026-07-14-v2.6.3-guia",
       "date": "2026-07-14",
