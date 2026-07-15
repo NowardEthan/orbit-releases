@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.2",
-  "latestVersionCode": 33,
+  "latestVersion": "2.9.3",
+  "latestVersionCode": 34,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.2-teste-notif",
+      "id": "beta-2.9.3-notif-latencia",
       "date": "2026-07-15",
-      "version": "2.9.2",
+      "version": "2.9.3",
       "tag": "correcao",
-      "title": "rc: botão pra testar notificação + cartão Agora",
-      "body": "Pra caçar o problema da notificação que não aparece: Ajustes → Notificações → «Testar notificação» dispara um aviso em 5s pelo caminho direto. Se ESSE aparecer, o bug tá no agendamento da semana; se não, é o sistema. Também repaginei o cartão «Agora» (o «agora» virou pílula na cor do bloco)."
+      "title": "rc: notificação da rotina agenda na hora",
+      "body": "O aviso da rotina agora é agendado no momento em que você salva o bloco, sem esperar o Firebase devolver — era a latência que fazia o bloco de «daqui 1 min» não notificar. E o «agora» reage mais rápido ao relógio. Testa criar um bloco pra daqui 1-2 min (com aviso ligado, na rotina de hoje) e vê se toca."
     }
   ]
 }
