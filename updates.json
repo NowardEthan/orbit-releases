@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.0",
-  "latestVersionCode": 23,
+  "latestVersion": "2.8.1",
+  "latestVersionCode": 24,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.1-calendario",
+      "date": "2026-07-15",
+      "version": "2.8.1",
+      "tag": "novidade",
+      "title": "Calendário das rotinas",
+      "body": "Um mês inteiro mostrando qual rotina vigora em cada dia. As faixas de Férias e provas aparecem coloridas, a Normal fica neutra — dá pra ver as trocas de longe. Toca num dia e a tela abre a rotina daquele dia. Abre pelo ícone de calendário na faixa de rotinas."
+    },
     {
       "id": "2026-07-15-v2.8.0-rotinas",
       "date": "2026-07-15",
