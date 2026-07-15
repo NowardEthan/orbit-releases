@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.8",
-  "latestVersionCode": 39,
+  "latestVersion": "2.9.9",
+  "latestVersionCode": 40,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.8-raw-fallback",
+      "id": "beta-2.9.9-alarme-nativo",
       "date": "2026-07-15",
-      "version": "2.9.8",
-      "tag": "correcao",
-      "title": "rc: o update não quebra mais por limite de rede",
-      "body": "Se a API do GitHub estourar o limite (comum quando o celular divide o Wi-Fi/IP com o PC), o app agora cai num caminho alternativo pra buscar as novidades — antes ficava cego. Também tem o botão «Testar alarme» (de 2.9.7) pra caçar o alarme que não disparava."
+      "version": "2.9.9",
+      "tag": "novidade",
+      "title": "rc: ALARME NATIVO (vibração longa de verdade)",
+      "body": "O grande teste: como a Samsung capa a vibração de notificação, fiz um alarme nativo que roda o vibrador e o som DIRETO (tipo despertador). Vai em Ajustes → Notificações → «Testar alarme NATIVO». Deve vibrar longo e tocar até você tocar «Comecei». Se funcionar, ligo isso no modo alarme dos blocos."
     }
   ]
 }
