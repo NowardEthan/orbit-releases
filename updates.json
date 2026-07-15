@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.4",
-  "latestVersionCode": 27,
+  "latestVersion": "2.8.5",
+  "latestVersionCode": 28,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.5-tarefas",
+      "date": "2026-07-15",
+      "version": "2.8.5",
+      "tag": "novidade",
+      "title": "Passos e tarefas viraram uma coisa só",
+      "body": "Antes tinha duas listas dentro do bloco (passos e tarefas) fazendo quase o mesmo — confuso. Agora é uma lista só: as tarefas do bloco, cada uma podendo ter horário, aviso e um × pra tirar. As antigas migram sozinhas. E cada tarefa concluída dá luz (+5), com o brilho subindo. Um bloco com tarefas tira a luz da soma delas; um bloco sem tarefas segue dando luz ao marcar."
+    },
     {
       "id": "2026-07-15-v2.8.4-luz",
       "date": "2026-07-15",
