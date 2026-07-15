@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.1",
-  "latestVersionCode": 32,
+  "latestVersion": "2.9.2",
+  "latestVersionCode": 33,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.1-clima",
+      "id": "beta-2.9.2-teste-notif",
       "date": "2026-07-15",
-      "version": "2.9.1",
-      "tag": "novidade",
-      "title": "rc: header de luz com a lua + switch removido",
-      "body": "Primeiro rc do canal beta. O topo da rotina agora é um cartão com a lua (a Luna) e a luz dourada — começo do clima novo. E o switch de canal saiu: o app que você abre já é o canal (este é o Orbit β). Reage à vontade, tem mais visual vindo."
+      "version": "2.9.2",
+      "tag": "correcao",
+      "title": "rc: botão pra testar notificação + cartão Agora",
+      "body": "Pra caçar o problema da notificação que não aparece: Ajustes → Notificações → «Testar notificação» dispara um aviso em 5s pelo caminho direto. Se ESSE aparecer, o bug tá no agendamento da semana; se não, é o sistema. Também repaginei o cartão «Agora» (o «agora» virou pílula na cor do bloco)."
     }
   ]
 }
