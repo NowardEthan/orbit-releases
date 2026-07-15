@@ -9,244 +9,52 @@
   "mandatory": false,
   "news": [
     {
-      "id": "2026-07-15-v2.8.7-detalhe-calendario",
+      "id": "m-2026-07-15-cara-nova",
       "date": "2026-07-15",
       "version": "2.8.7",
       "tag": "novidade",
-      "title": "Detalhe do bloco e calendário mais bonitos",
-      "body": "No detalhe do bloco, a luz entrou nas tarefas: um «+N hoje» dourado na seção e um «+5» em cada tarefa por riscar — dá pra ver que concluir acende luz. No calendário, um resumo no topo mostra em que rotina você está hoje (com a cor e o período), e as férias/provas viram faixas contínuas em vez de círculos soltos — dá pra ler o período de longe. Hoje ganhou um anel dourado."
+      "title": "A rotina ganhou cara nova",
+      "body": "Uma repaginada geral. O bloco de agora tem etiqueta viva na cor dele, o próximo mostra «a seguir», e o feito virou dourado (com cara de conquista, não de apagado). Cada card mostra o progresso das tarefas do dia. No detalhe do bloco, a luz aparece nas tarefas. E o calendário ganhou um resumo de «onde você está hoje» e faixas contínuas pras rotinas — dá pra ler os períodos de longe."
     },
     {
-      "id": "2026-07-15-v2.8.6-cards",
-      "date": "2026-07-15",
-      "version": "2.8.6",
-      "tag": "novidade",
-      "title": "Os blocos ficaram vivos",
-      "body": "Primeiro passo de repaginar o visual. O bloco de agora tem uma etiqueta «agora» pulsando na cor dele; o próximo mostra «a seguir». Bloco feito deixou de ficar apagado — agora fica dourado, com cara de conquista. Cada card mostra o progresso das tarefas de hoje (2/3, dourado quando fecha tudo) e a luz que você já acendeu ali. Alarme tem ícone próprio. Vêm mais dois passos de visual."
-    },
-    {
-      "id": "2026-07-15-v2.8.5-tarefas",
+      "id": "m-2026-07-15-luz",
       "date": "2026-07-15",
       "version": "2.8.5",
       "tag": "novidade",
-      "title": "Passos e tarefas viraram uma coisa só",
-      "body": "Antes tinha duas listas dentro do bloco (passos e tarefas) fazendo quase o mesmo — confuso. Agora é uma lista só: as tarefas do bloco, cada uma podendo ter horário, aviso e um × pra tirar. As antigas migram sozinhas. E cada tarefa concluída dá luz (+5), com o brilho subindo. Um bloco com tarefas tira a luz da soma delas; um bloco sem tarefas segue dando luz ao marcar."
+      "title": "A rotina virou um pouco jogo",
+      "body": "Concluir deixou de ser o relógio decidindo: você marca, e acende luz (+5 por tarefa, mais pra bloco com alarme), com brilho e um total crescendo no topo. Dias seguidos viram uma ofensiva. E os «passos» e as «subtarefas» viraram uma coisa só — a lista de tarefas do bloco, cada uma podendo ter horário e aviso."
     },
     {
-      "id": "2026-07-15-v2.8.4-luz",
-      "date": "2026-07-15",
-      "version": "2.8.4",
-      "tag": "novidade",
-      "title": "Concluir agora dá luz",
-      "body": "A rotina ganhou um começo de recompensa. Marcar uma tarefa como feita acende luz (+10, +15 com passos, +20 com alarme), com um brilho e um tremor — e o total aparece no topo, crescendo. Dias seguidos viram uma ofensiva (a chama). Sem rank nem perda ainda: por ora, só o gostinho de aparecer. E consertei o círculo de marcar feito, que tinha sumido da tela."
-    },
-    {
-      "id": "2026-07-15-v2.8.3-modo-alarme",
+      "id": "m-2026-07-15-alarme",
       "date": "2026-07-15",
       "version": "2.8.3",
       "tag": "novidade",
-      "title": "Modo alarme: pra tarefa que não pode passar batido",
-      "body": "No editor de um bloco, com o aviso ligado, aparece «Modo alarme». Ligado, o início da tarefa vira um aviso FIXO na barra, com vibração e som forte, que fica ali até você tocar «Comecei» — pela notificação ou pelo círculo do bloco. Se você ignorar, a cobrança normal segue. É pra acordar, remédio, o que não pode escapar. E consertei um bug: bloco criado dentro de uma rotina alternativa às vezes voltava pra Normal."
+      "title": "Modo alarme e o riscar do dia",
+      "body": "Uma tarefa pode virar alarme: um aviso fixo, com vibração e som forte, que só para quando você toca «Comecei» — pela notificação ou pelo bloco. E riscar uma tarefa passou a valer só pra hoje (amanhã a lista volta limpa). A Luna também aprendeu a criar e aplicar rotinas conversando de verdade, sem fingir que fez."
     },
     {
-      "id": "2026-07-15-v2.8.2-riscar-por-dia",
-      "date": "2026-07-15",
-      "version": "2.8.2",
-      "tag": "correcao",
-      "title": "Riscar uma tarefa vale só pra hoje",
-      "body": "Você apontou: riscar um passo na segunda deixava ele riscado em todos os dias. Agora o riscado é do dia — amanhã a lista volta limpa sozinha. E a Luna, quando cria ou aplica uma rotina conversando, faz de verdade: se ela não chamou a ferramenta, o sistema a obriga a refazer em vez de deixar ela dizer «pronto» sem ter feito."
-    },
-    {
-      "id": "2026-07-15-v2.8.1-calendario",
-      "date": "2026-07-15",
-      "version": "2.8.1",
-      "tag": "novidade",
-      "title": "Calendário das rotinas",
-      "body": "Um mês inteiro mostrando qual rotina vigora em cada dia. As faixas de Férias e provas aparecem coloridas, a Normal fica neutra — dá pra ver as trocas de longe. Toca num dia e a tela abre a rotina daquele dia. Abre pelo ícone de calendário na faixa de rotinas."
-    },
-    {
-      "id": "2026-07-15-v2.8.0-rotinas",
+      "id": "m-2026-07-15-rotinas",
       "date": "2026-07-15",
       "version": "2.8.0",
       "tag": "novidade",
-      "title": "Rotinas programáveis: Normal, Férias, e as que você quiser",
-      "body": "A rotina deixou de ser uma só. Agora tem a Normal e você cria alternativas (Férias, Semana de provas). No topo da tela, uma faixa pra trocar. Uma rotina com período (20/07 a 03/08) assume sozinha na data e a Normal volta no fim; sem período, você liga à mão no chip."
+      "title": "Rotinas programáveis e calendário",
+      "body": "A rotina deixou de ser uma só. Agora tem a Normal e alternativas (Férias, Semana de provas) que assumem sozinhas na data e devolvem a Normal no fim. Enquanto as férias vigoram, o trabalho não te cobra. E um calendário mostra qual rotina vale em cada dia."
     },
     {
-      "id": "2026-07-15-v2.8.0-vigente",
-      "date": "2026-07-15",
-      "version": "2.8.0",
-      "tag": "novidade",
-      "title": "De férias, o trabalho não te cobra",
-      "body": "A rotina que vigora hoje (ponto verde) é a única que cobra. Se as férias estão ativas, os blocos do normal não te cutucam — e voltam sozinhos quando o período acaba. Toque longo num chip pra editar ou apagar a rotina."
-    },
-    {
-      "id": "2026-07-15-v2.7.3-escada",
-      "date": "2026-07-15",
-      "version": "2.7.3",
-      "tag": "correcao",
-      "title": "A cobrança estava quebrada de três jeitos",
-      "body": "Um bloco de teste apagado continuava te cutucando (notificação-fantasma). As notificações saíam sem som (faltava o canal do Android). E os botões Comecei/5min/Hoje não caíam no vazio — no Android eles precisam abrir o app pra funcionar, e agora abrem. A escada volta a funcionar."
-    },
-    {
-      "id": "2026-07-15-v2.7.3-circulo",
-      "date": "2026-07-15",
-      "version": "2.7.3",
-      "tag": "novidade",
-      "title": "Marque feito direto no bloco",
-      "body": "Você fazia a task por conta própria e continuava sendo cobrado, porque o app não sabia. Agora cada bloco de hoje tem um círculo: toca e vira feito, a cobrança para na hora. É só de hoje — amanhã volta ao normal."
-    },
-    {
-      "id": "2026-07-15-v2.7.3-remover",
-      "date": "2026-07-15",
-      "version": "2.7.3",
-      "tag": "novidade",
-      "title": "Dá pra tirar as tarefas extras",
-      "body": "Antes só dava pra riscar um passo ou apagar o bloco todo. Agora tem um × em cada passo e sub-tarefa — se a Luna pôs algo que você não quer, tira só aquilo."
-    },
-    {
-      "id": "2026-07-14-v2.7.2-pensando",
-      "date": "2026-07-14",
-      "version": "2.7.2",
-      "tag": "correcao",
-      "title": "O \"pensando\" virou um balãozinho",
-      "body": "Aquele card grande e escuro com \"reunindo luz\" perdido no canto parecia uma caixa quebrada. Agora é um balãozinho compacto — três pontinhos pulsando e o texto do lado, encostado à esquerda, como o \"digitando\" de qualquer chat."
-    },
-    {
-      "id": "2026-07-14-v2.7.1-pensando",
-      "date": "2026-07-14",
-      "version": "2.7.1",
-      "tag": "correcao",
-      "title": "Você saía e voltava sem saber se a Luna respondia",
-      "body": "Mandava uma mensagem, saía do app, voltava — e via só a sua mensagem, sem o \"pensando\". Ficava a dúvida: será que ela ainda tá respondendo? Agora o indicador sobrevive: se sua última mensagem é recente e sem resposta, o \"pensando\" reaparece quando você volta."
-    },
-    {
-      "id": "2026-07-14-v2.7.1-ticks",
-      "date": "2026-07-14",
-      "version": "2.7.1",
-      "tag": "correcao",
-      "title": "Os ticks da mensagem",
-      "body": "Relógio enquanto envia, um tique quando o servidor recebe, dois tiques quando a Luna vê (começa a responder). Antes o relógio ficava preso mesmo com ela já escrevendo."
-    },
-    {
-      "id": "2026-07-14-v2.7.1-card",
-      "date": "2026-07-14",
-      "version": "2.7.1",
-      "tag": "correcao",
-      "title": "O card de \"pensando\" tava quebrado",
-      "body": "Tinha um círculo cortado e um quadrado escuro interno que pareciam bug. Agora é limpo: três pontinhos pulsando, numa superfície só."
-    },
-    {
-      "id": "2026-07-14-v2.7.0-subtarefas",
+      "id": "m-2026-07-14-cobranca",
       "date": "2026-07-14",
       "version": "2.7.0",
       "tag": "novidade",
-      "title": "Tarefas dentro da tarefa",
-      "body": "Um bloco como \"Trabalho\" contém várias coisas — responder emails, a reunião, revisar o código. Agora dá pra ter essa lista dentro do bloco. Fala com a Luna (\"adiciona: emails, reunião das 10h\") ou digita à mão. E \"inclui mais uma\" acrescenta, não apaga o resto."
+      "title": "A cobrança que funciona e as tarefas dentro do bloco",
+      "body": "A escada de cobrança foi consertada de ponta a ponta: os botões Comecei/5min/Hoje-não respondem, o som volta, e dá pra marcar feito direto no bloco. Um bloco como «Trabalho» passou a ter tarefas dentro (com hora que cobra na hora), e você pode pedir à Luna o guia completo — a receita inteira, o treino todo."
     },
     {
-      "id": "2026-07-14-v2.7.0-hora",
-      "date": "2026-07-14",
-      "version": "2.7.0",
-      "tag": "novidade",
-      "title": "A reunião das 10h te avisa às 10h",
-      "body": "A hora de uma sub-tarefa não é enfeite: se você marcar pra avisar, ela te cobra na hora. Um toque só — não a escada inteira. A escada é pro arranque do dia; a reunião só precisa de um lembrete pontual."
-    },
-    {
-      "id": "2026-07-14-v2.7.0-md",
-      "date": "2026-07-14",
-      "version": "2.7.0",
-      "tag": "correcao",
-      "title": "O detalhe ficou bonito",
-      "body": "O guia e o roteiro mostravam os símbolos do markdown crus (# e ** à vista). Agora renderizam de verdade — títulos, listas, negrito. E as tarefas saem capitalizadas e limpas, sem perder o jeito da Luna."
-    },
-    {
-      "id": "2026-07-14-v2.6.3-guia",
-      "date": "2026-07-14",
-      "version": "2.6.3",
-      "tag": "novidade",
-      "title": "Pede o guia completo: a receita inteira",
-      "body": "Os passos são o empurrão pra começar (curtos, até 6). Mas às vezes você quer fundo — a receita com ingredientes e quantidades, o treino inteiro. Agora tem um botão \"Detalhar mais\" no bloco: a Luna escreve o guia completo, sem limite. Só quando você pede — porque um manual que você não pediu vira babá."
-    },
-    {
-      "id": "2026-07-14-v2.6.2-chips",
-      "date": "2026-07-14",
-      "version": "2.6.2",
-      "tag": "correcao",
-      "title": "Os dias da semana estavam esticando",
-      "body": "Num dia com poucos blocos, os botões dos dias viravam torres gigantes; num dia cheio, ficavam normais. A faixa dos dias brigava com a lista pelo espaço e esticava pra ocupar o vazio. Agora têm tamanho fixo."
-    },
-    {
-      "id": "2026-07-14-v2.6.1-detalhe",
-      "date": "2026-07-14",
-      "version": "2.6.1",
-      "tag": "novidade",
-      "title": "Toque num bloco: ela te diz por onde começar",
-      "body": "O bloco deixou de abrir o editor e passou a abrir o roteiro. \"Almoço 12h–13h\" não faz ninguém começar — mas \"tira da geladeira tudo que vai usar · panela no fogo primeiro · monta o prato e já senta\" faz. A Luna escreve sozinha, com passos pra riscar. E você negocia ali dentro: \"faz mais simples\" e ela reescreve. Um roteiro que você não pode contestar é uma imposição."
-    },
-    {
-      "id": "2026-07-14-v2.6.1-polish",
-      "date": "2026-07-14",
-      "version": "2.6.1",
-      "tag": "correcao",
-      "title": "A Rotina ficou legível",
-      "body": "O bloco de 9h virava um retângulo preto de meia tela. A altura agora é fixa e o peso vive na barra lateral. O tempo livre entre os blocos apareceu (já era calculado e não era mostrado). E o cartão de cima parou de falar de hoje enquanto a lista mostrava outro dia — a tela contradizia a si mesma."
-    },
-    {
-      "id": "2026-07-14-v2.6.1-vazia",
-      "date": "2026-07-14",
-      "version": "2.6.1",
-      "tag": "correcao",
-      "title": "Ela criava a rotina e a tela mostrava vazio",
-      "body": "A Luna criava o bloco de verdade, dizia \"criei\" — era verdade — e a tela aparecia vazia. Do seu lado, ela parecia estar mentindo. Faltava a permissão de LEITURA no banco: o servidor escrevia com privilégio de admin e o app batia num muro que os testes nunca tocaram."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-rotina",
+      "id": "m-2026-07-14-rotina",
       "date": "2026-07-14",
       "version": "2.6.0",
       "tag": "novidade",
-      "title": "A Rotina — e a Luna sabe onde você está",
-      "body": "Monte o seu dia em blocos (7h30 ônibus + duolingo, 9h trabalho) e a Luna passa a saber onde você está. Não é um app de horários com um chat colado: um organizador comum notifica; ela SABE. \"Faltam 20 minutos pro trabalho — dá pra fechar a lição.\" Abre pelo menu do +."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-cobranca",
-      "date": "2026-07-14",
-      "version": "2.6.0",
-      "tag": "novidade",
-      "title": "Alguém pra te puxar a orelha",
-      "body": "Uma notificação comum assume que o problema é lembrar. Não é — o que não acontece é o arranque. Então a cobrança não desiste: cutuca, insiste, e no fim é a própria Luna que te chama. Um toque em \"Comecei\" mata tudo, sem tela e sem confirmação. E \"hoje não\" é uma resposta legítima: nunca há culpa."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-ela-repara",
-      "date": "2026-07-14",
-      "version": "2.6.0",
-      "tag": "novidade",
-      "title": "E ela repara quando você some",
-      "body": "A cobrança tem teto — ela não persegue ninguém. Mas o que ficou por fazer vira memória dela: \"faz três dias que o duolingo passa batido, tá tudo bem?\". Dizer \"hoje não\" é falar com ela; o silêncio é sumir. Ela sabe a diferença."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-nao-massante",
-      "date": "2026-07-14",
-      "version": "2.6.0",
-      "tag": "correcao",
-      "title": "Ela parou de escrever ensaios",
-      "body": "Você escrevia 17 palavras e ela devolvia 160 — em quase 80% das mensagens ela passava de 120 palavras. Agora um detector conta o que ela escreveu e um editor corta o excesso depois, preservando as palavras dela. Menos monólogo, mesmo humor: os \"kkk\" continuam todos lá."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-verdade",
-      "date": "2026-07-14",
-      "version": "2.6.0",
-      "tag": "correcao",
-      "title": "Ela te diz a verdade em vez de te agradar",
-      "body": "Você pedia crítica e ela te dava abraço. Agora um revisor externo — que não está na conversa e não paga o custo de discordar — procura o furo antes dela responder, e a resposta não passa se o furo ficar de fora. Ela discordava com substância em 2 de 4 casos; agora são 4 de 4."
-    },
-    {
-      "id": "2026-07-14-v2.6.0-nao-finge",
-      "date": "2026-07-14",
-      "version": "2.6.0",
-      "tag": "correcao",
-      "title": "Ela não finge mais que lembra",
-      "body": "\"Já que ontem você concordou comigo…\" — e ela ia junto, mesmo nunca tendo concordado. Agora o sistema procura esse passado na memória antes dela responder e entrega o resultado. Ela deixou de ser instruída a ser honesta: recebe o fato."
+      "title": "Nasceu a Rotina — e a Luna te cobra",
+      "body": "A grande novidade: uma rotina que a Luna VÊ. Ela sabe que você está no ônibus a caminho do trabalho, te puxa a orelha quando uma tarefa passa batido, e repara quando você some por dias. E ela ficou mais honesta no caminho: parou de escrever ensaios, de bajular, e de fingir que lembra do que não lembra."
     },
     {
       "id": "2026-07-13-v2.5.5-foto-errada",
