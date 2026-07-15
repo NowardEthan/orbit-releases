@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.3",
-  "latestVersionCode": 34,
+  "latestVersion": "2.9.4",
+  "latestVersionCode": 35,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.3-notif-latencia",
+      "id": "beta-2.9.4-cobranca-forte",
       "date": "2026-07-15",
-      "version": "2.9.3",
-      "tag": "correcao",
-      "title": "rc: notificação da rotina agenda na hora",
-      "body": "O aviso da rotina agora é agendado no momento em que você salva o bloco, sem esperar o Firebase devolver — era a latência que fazia o bloco de «daqui 1 min» não notificar. E o «agora» reage mais rápido ao relógio. Testa criar um bloco pra daqui 1-2 min (com aviso ligado, na rotina de hoje) e vê se toca."
+      "version": "2.9.4",
+      "tag": "novidade",
+      "title": "rc: a cobrança agora insiste (vibração longa)",
+      "body": "A cobrança da rotina ganhou canal próprio, com vibração longa e forte — antes usava o canal do chat, que só dava um pinguinho. Agora o cutucão é sentido. Fica entre o chat (gentil) e o modo alarme (fixo). Testa pelo botão «Testar notificação» pra sentir a vibração nova, ou cria um bloco na rotina de hoje."
     }
   ]
 }
