@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.0",
-  "latestVersionCode": 31,
+  "latestVersion": "2.9.1",
+  "latestVersionCode": 32,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-inicio",
+      "id": "beta-2.9.1-clima",
       "date": "2026-07-15",
-      "version": "2.8.7",
-      "tag": "aviso",
-      "title": "Canal de testes ligado",
-      "body": "Você está no canal beta. As novidades em teste (versões rc) chegam aqui primeiro, direto no celular. Pode ter arestas — é pra isso. Desligue nos ajustes pra voltar ao estável."
+      "version": "2.9.1",
+      "tag": "novidade",
+      "title": "rc: header de luz com a lua + switch removido",
+      "body": "Primeiro rc do canal beta. O topo da rotina agora é um cartão com a lua (a Luna) e a luz dourada — começo do clima novo. E o switch de canal saiu: o app que você abre já é o canal (este é o Orbit β). Reage à vontade, tem mais visual vindo."
     }
   ]
 }
