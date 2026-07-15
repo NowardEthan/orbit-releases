@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.4",
-  "latestVersionCode": 35,
+  "latestVersion": "2.9.5",
+  "latestVersionCode": 36,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.4-cobranca-forte",
+      "id": "beta-2.9.5-vibra-longa",
       "date": "2026-07-15",
-      "version": "2.9.4",
-      "tag": "novidade",
-      "title": "rc: a cobrança agora insiste (vibração longa)",
-      "body": "A cobrança da rotina ganhou canal próprio, com vibração longa e forte — antes usava o canal do chat, que só dava um pinguinho. Agora o cutucão é sentido. Fica entre o chat (gentil) e o modo alarme (fixo). Testa pelo botão «Testar notificação» pra sentir a vibração nova, ou cria um bloco na rotina de hoje."
+      "version": "2.9.5",
+      "tag": "correcao",
+      "title": "rc: vibração da cobrança mais longa (5 pulsos)",
+      "body": "A vibração tava curta porque o Android tranca o canal depois de criado — mudança no código não pegava. Agora é um canal novo, com 5 pulsos longos, e o antigo é apagado. Testa pelo botão «Testar notificação». Se ainda quiser mais/menos, é só falar."
     }
   ]
 }
