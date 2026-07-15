@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.3",
-  "latestVersionCode": 26,
+  "latestVersion": "2.8.4",
+  "latestVersionCode": 27,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.4-luz",
+      "date": "2026-07-15",
+      "version": "2.8.4",
+      "tag": "novidade",
+      "title": "Concluir agora dá luz",
+      "body": "A rotina ganhou um começo de recompensa. Marcar uma tarefa como feita acende luz (+10, +15 com passos, +20 com alarme), com um brilho e um tremor — e o total aparece no topo, crescendo. Dias seguidos viram uma ofensiva (a chama). Sem rank nem perda ainda: por ora, só o gostinho de aparecer. E consertei o círculo de marcar feito, que tinha sumido da tela."
+    },
     {
       "id": "2026-07-15-v2.8.3-modo-alarme",
       "date": "2026-07-15",
