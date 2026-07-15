@@ -1,13 +1,37 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.7.2",
-  "latestVersionCode": 21,
-  "publishedAt": "2026-07-14",
+  "latestVersion": "2.7.3",
+  "latestVersionCode": 22,
+  "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.7.3-escada",
+      "date": "2026-07-15",
+      "version": "2.7.3",
+      "tag": "correcao",
+      "title": "A cobrança estava quebrada de três jeitos",
+      "body": "Um bloco de teste apagado continuava te cutucando (notificação-fantasma). As notificações saíam sem som (faltava o canal do Android). E os botões Comecei/5min/Hoje não caíam no vazio — no Android eles precisam abrir o app pra funcionar, e agora abrem. A escada volta a funcionar."
+    },
+    {
+      "id": "2026-07-15-v2.7.3-circulo",
+      "date": "2026-07-15",
+      "version": "2.7.3",
+      "tag": "novidade",
+      "title": "Marque feito direto no bloco",
+      "body": "Você fazia a task por conta própria e continuava sendo cobrado, porque o app não sabia. Agora cada bloco de hoje tem um círculo: toca e vira feito, a cobrança para na hora. É só de hoje — amanhã volta ao normal."
+    },
+    {
+      "id": "2026-07-15-v2.7.3-remover",
+      "date": "2026-07-15",
+      "version": "2.7.3",
+      "tag": "novidade",
+      "title": "Dá pra tirar as tarefas extras",
+      "body": "Antes só dava pra riscar um passo ou apagar o bloco todo. Agora tem um × em cada passo e sub-tarefa — se a Luna pôs algo que você não quer, tira só aquilo."
+    },
     {
       "id": "2026-07-14-v2.7.2-pensando",
       "date": "2026-07-14",
