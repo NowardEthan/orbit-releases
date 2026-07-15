@@ -1,0 +1,2 @@
+# APKs vivem nos Releases do GitHub, não no repo (evita inchar o git).
+*.apk
