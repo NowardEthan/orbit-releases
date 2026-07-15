@@ -1,0 +1,20 @@
+{
+  "app": "orbit-mobile",
+  "manifestVersion": 1,
+  "latestVersion": "2.8.7",
+  "latestVersionCode": 30,
+  "publishedAt": "2026-07-15",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
+  "minSupportedVersion": "2.0.0",
+  "mandatory": false,
+  "news": [
+    {
+      "id": "beta-inicio",
+      "date": "2026-07-15",
+      "version": "2.8.7",
+      "tag": "aviso",
+      "title": "Canal de testes ligado",
+      "body": "Você está no canal beta. As novidades em teste (versões rc) chegam aqui primeiro, direto no celular. Pode ter arestas — é pra isso. Desligue nos ajustes pra voltar ao estável."
+    }
+  ]
+}
