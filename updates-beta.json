@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.7",
-  "latestVersionCode": 38,
+  "latestVersion": "2.9.8",
+  "latestVersionCode": 39,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.7-testar-alarme",
+      "id": "beta-2.9.8-raw-fallback",
       "date": "2026-07-15",
-      "version": "2.9.7",
+      "version": "2.9.8",
       "tag": "correcao",
-      "title": "rc: botão «Testar alarme» pra caçar o alarme que não dispara",
-      "body": "Ajustes → Notificações → «Testar alarme» dispara o modo alarme em 5s pelo caminho direto. Se aparecer (e ficar fixo), o problema é o agendamento; se nem aparecer, é a Samsung barrando o canal MAX — e aí a gente parte pro alarme nativo."
+      "title": "rc: o update não quebra mais por limite de rede",
+      "body": "Se a API do GitHub estourar o limite (comum quando o celular divide o Wi-Fi/IP com o PC), o app agora cai num caminho alternativo pra buscar as novidades — antes ficava cego. Também tem o botão «Testar alarme» (de 2.9.7) pra caçar o alarme que não disparava."
     }
   ]
 }
