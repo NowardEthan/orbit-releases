@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.6",
-  "latestVersionCode": 37,
+  "latestVersion": "2.9.7",
+  "latestVersionCode": 38,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.6-toggle-alarme",
+      "id": "beta-2.9.7-testar-alarme",
       "date": "2026-07-15",
-      "version": "2.9.6",
+      "version": "2.9.7",
       "tag": "correcao",
-      "title": "rc: o interruptor do «Modo alarme» voltou a aparecer",
-      "body": "Ele estava invisível — o texto longo empurrava o botão pra fora da tela, então dava pra ver o «Modo alarme» mas não ligar. Agora aparece certinho. Liga num bloco (com «Avisar» ligado) pra testar a vibração MAX do alarme."
+      "title": "rc: botão «Testar alarme» pra caçar o alarme que não dispara",
+      "body": "Ajustes → Notificações → «Testar alarme» dispara o modo alarme em 5s pelo caminho direto. Se aparecer (e ficar fixo), o problema é o agendamento; se nem aparecer, é a Samsung barrando o canal MAX — e aí a gente parte pro alarme nativo."
     }
   ]
 }
