@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.5",
-  "latestVersionCode": 28,
+  "latestVersion": "2.8.6",
+  "latestVersionCode": 29,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.6-cards",
+      "date": "2026-07-15",
+      "version": "2.8.6",
+      "tag": "novidade",
+      "title": "Os blocos ficaram vivos",
+      "body": "Primeiro passo de repaginar o visual. O bloco de agora tem uma etiqueta «agora» pulsando na cor dele; o próximo mostra «a seguir». Bloco feito deixou de ficar apagado — agora fica dourado, com cara de conquista. Cada card mostra o progresso das tarefas de hoje (2/3, dourado quando fecha tudo) e a luz que você já acendeu ali. Alarme tem ícone próprio. Vêm mais dois passos de visual."
+    },
     {
       "id": "2026-07-15-v2.8.5-tarefas",
       "date": "2026-07-15",
