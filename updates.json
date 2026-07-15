@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.7",
-  "latestVersionCode": 30,
+  "latestVersion": "2.9.0",
+  "latestVersionCode": 31,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.9.0-beta",
+      "date": "2026-07-15",
+      "version": "2.9.0",
+      "tag": "novidade",
+      "title": "Canal de testes, pra quem quer as novidades antes",
+      "body": "Nos ajustes tem agora um «Canal de testes (beta)». Ligado, você recebe as versões em teste direto no celular, antes de virarem oficiais — pra ajudar a validar sem complicação. Desligado, você fica só no estável. É o começo de um jeito mais caprichado de lançar: testar antes, publicar quando estiver redondo."
+    },
     {
       "id": "m-2026-07-15-cara-nova",
       "date": "2026-07-15",
