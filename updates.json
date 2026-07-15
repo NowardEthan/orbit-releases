@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.1",
-  "latestVersionCode": 24,
+  "latestVersion": "2.8.2",
+  "latestVersionCode": 25,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.2-riscar-por-dia",
+      "date": "2026-07-15",
+      "version": "2.8.2",
+      "tag": "correcao",
+      "title": "Riscar uma tarefa vale só pra hoje",
+      "body": "Você apontou: riscar um passo na segunda deixava ele riscado em todos os dias. Agora o riscado é do dia — amanhã a lista volta limpa sozinha. E a Luna, quando cria ou aplica uma rotina conversando, faz de verdade: se ela não chamou a ferramenta, o sistema a obriga a refazer em vez de deixar ela dizer «pronto» sem ter feito."
+    },
     {
       "id": "2026-07-15-v2.8.1-calendario",
       "date": "2026-07-15",
