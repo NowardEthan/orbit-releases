@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.8.2",
-  "latestVersionCode": 25,
+  "latestVersion": "2.8.3",
+  "latestVersionCode": 26,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-15-v2.8.3-modo-alarme",
+      "date": "2026-07-15",
+      "version": "2.8.3",
+      "tag": "novidade",
+      "title": "Modo alarme: pra tarefa que não pode passar batido",
+      "body": "No editor de um bloco, com o aviso ligado, aparece «Modo alarme». Ligado, o início da tarefa vira um aviso FIXO na barra, com vibração e som forte, que fica ali até você tocar «Comecei» — pela notificação ou pelo círculo do bloco. Se você ignorar, a cobrança normal segue. É pra acordar, remédio, o que não pode escapar. E consertei um bug: bloco criado dentro de uma rotina alternativa às vezes voltava pra Normal."
+    },
     {
       "id": "2026-07-15-v2.8.2-riscar-por-dia",
       "date": "2026-07-15",
