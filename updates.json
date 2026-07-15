@@ -1,13 +1,37 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.7.0",
-  "latestVersionCode": 19,
+  "latestVersion": "2.7.1",
+  "latestVersionCode": 20,
   "publishedAt": "2026-07-14",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-14-v2.7.1-pensando",
+      "date": "2026-07-14",
+      "version": "2.7.1",
+      "tag": "correcao",
+      "title": "Você saía e voltava sem saber se a Luna respondia",
+      "body": "Mandava uma mensagem, saía do app, voltava — e via só a sua mensagem, sem o \"pensando\". Ficava a dúvida: será que ela ainda tá respondendo? Agora o indicador sobrevive: se sua última mensagem é recente e sem resposta, o \"pensando\" reaparece quando você volta."
+    },
+    {
+      "id": "2026-07-14-v2.7.1-ticks",
+      "date": "2026-07-14",
+      "version": "2.7.1",
+      "tag": "correcao",
+      "title": "Os ticks da mensagem",
+      "body": "Relógio enquanto envia, um tique quando o servidor recebe, dois tiques quando a Luna vê (começa a responder). Antes o relógio ficava preso mesmo com ela já escrevendo."
+    },
+    {
+      "id": "2026-07-14-v2.7.1-card",
+      "date": "2026-07-14",
+      "version": "2.7.1",
+      "tag": "correcao",
+      "title": "O card de \"pensando\" tava quebrado",
+      "body": "Tinha um círculo cortado e um quadrado escuro interno que pareciam bug. Agora é limpo: três pontinhos pulsando, numa superfície só."
+    },
     {
       "id": "2026-07-14-v2.7.0-subtarefas",
       "date": "2026-07-14",
