@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.15",
-  "latestVersionCode": 46,
+  "latestVersion": "2.9.16",
+  "latestVersionCode": 47,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.15-checklist",
+      "id": "beta-2.9.16-lote",
       "date": "2026-07-16",
-      "version": "2.9.15",
-      "tag": "novidade",
-      "title": "rc: checklist clicável na notificação (marca qualquer tarefa)",
-      "body": "O painel «Agora» virou uma checklist de verdade: cada tarefa é uma linha clicável, dá pra riscar QUALQUER uma direto (inclusive do meio), sem o limite de 3 botões. Expande a notificação e toca na tarefa que fez. (No Samsung o visual pode variar um tico — me diz como ficou.)"
+      "version": "2.9.16",
+      "tag": "correcao",
+      "title": "rc: as tarefas da notificação sincronizam de uma vez",
+      "body": "Antes, ao abrir o detalhe, os checkboxes que você marcou pela barra enchiam um a um (com lag). Agora aplicam todas juntas — bem mais rápido e sem aquele «marcando aos poucos»."
     }
   ]
 }
