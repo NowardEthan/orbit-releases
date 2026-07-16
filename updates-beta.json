@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.10",
-  "latestVersionCode": 41,
+  "latestVersion": "2.9.11",
+  "latestVersionCode": 42,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.10-alarme-nos-blocos",
+      "id": "beta-2.9.11-painel-agora",
       "date": "2026-07-16",
-      "version": "2.9.10",
+      "version": "2.9.11",
       "tag": "novidade",
-      "title": "rc: o Modo alarme agora usa o alarme nativo",
-      "body": "O motor nativo (que venceu a Samsung) entrou no Modo alarme dos blocos. Liga o «Modo alarme» num bloco pra daqui 1-2 min (na rotina de hoje) e ele vai vibrar longo e tocar de verdade na hora, até você marcar «Comecei». Testa e me diz!"
+      "title": "rc: a tarefa de AGORA fixa na barra (estilo TimeTune)",
+      "body": "Ajustes → Rotina na barra → «Tarefa atual na barra». Liga e aparece uma notificação fixa mostrando o que você deveria estar fazendo agora e quanto falta, atualizando sozinha (mesmo com o app fechado). Um relance e o cérebro reancora. Se sumir, exclui o app da otimização de bateria."
     }
   ]
 }
