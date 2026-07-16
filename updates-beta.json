@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.11",
-  "latestVersionCode": 42,
+  "latestVersion": "2.9.12",
+  "latestVersionCode": 43,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.11-painel-agora",
+      "id": "beta-2.9.12-barra-progresso",
       "date": "2026-07-16",
-      "version": "2.9.11",
+      "version": "2.9.12",
       "tag": "novidade",
-      "title": "rc: a tarefa de AGORA fixa na barra (estilo TimeTune)",
-      "body": "Ajustes → Rotina na barra → «Tarefa atual na barra». Liga e aparece uma notificação fixa mostrando o que você deveria estar fazendo agora e quanto falta, atualizando sozinha (mesmo com o app fechado). Um relance e o cérebro reancora. Se sumir, exclui o app da otimização de bateria."
+      "title": "rc: barra de progresso no painel «Agora»",
+      "body": "O painel fixo da tarefa atual ganhou uma barra de progresso que enche conforme o bloco passa — dá pra ver de relance quanto já rolou. Enquanto você está livre (entre blocos), a barra some."
     }
   ]
 }
