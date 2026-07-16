@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.12",
-  "latestVersionCode": 43,
+  "latestVersion": "2.9.13",
+  "latestVersionCode": 44,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.12-barra-progresso",
+      "id": "beta-2.9.13-tarefas-na-barra",
       "date": "2026-07-16",
-      "version": "2.9.12",
+      "version": "2.9.13",
       "tag": "novidade",
-      "title": "rc: barra de progresso no painel «Agora»",
-      "body": "O painel fixo da tarefa atual ganhou uma barra de progresso que enche conforme o bloco passa — dá pra ver de relance quanto já rolou. Enquanto você está livre (entre blocos), a barra some."
+      "title": "rc: marcar as tarefas do bloco pela notificação",
+      "body": "Quando o bloco de agora tem tarefas dentro, o painel fixo expande e mostra a lista (✓/○), com um botão «✓ próxima» que risca a próxima pendente SEM abrir o app — e ainda te dá a luz. Testa: cria um bloco pra agora com 2-3 tarefas e vai riscando pela barra."
     }
   ]
 }
