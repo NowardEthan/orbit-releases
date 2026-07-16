@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.14",
-  "latestVersionCode": 45,
+  "latestVersion": "2.9.15",
+  "latestVersionCode": 46,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.14-botao-por-tarefa",
+      "id": "beta-2.9.15-checklist",
       "date": "2026-07-16",
-      "version": "2.9.14",
+      "version": "2.9.15",
       "tag": "novidade",
-      "title": "rc: risca a tarefa que você fez (não só a próxima)",
-      "body": "O painel da barra agora mostra um botão por tarefa pendente (até 3, o limite do Android) — toca exatamente a que você fez, inclusive uma do meio, fora de ordem. Conforme risca, as próximas aparecem nos botões."
+      "title": "rc: checklist clicável na notificação (marca qualquer tarefa)",
+      "body": "O painel «Agora» virou uma checklist de verdade: cada tarefa é uma linha clicável, dá pra riscar QUALQUER uma direto (inclusive do meio), sem o limite de 3 botões. Expande a notificação e toca na tarefa que fez. (No Samsung o visual pode variar um tico — me diz como ficou.)"
     }
   ]
 }
