@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.10.0",
-  "latestVersionCode": 49,
+  "latestVersion": "2.12.0",
+  "latestVersionCode": 51,
   "publishedAt": "2026-07-16",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-16-v2.12.0-privacidade",
+      "date": "2026-07-16",
+      "version": "2.12.0",
+      "tag": "novidade",
+      "title": "Seus dados, suas regras",
+      "body": "Agora o combinado está na mesa: uma tela de Privacidade que explica, sem juridiquês, o que a Luna guarda e que suas mensagens passam por uma IA — e o lembrete de que ela é companhia, não terapeuta (em crise, CVV 188). Você pode apagar sua conta e TODOS os seus dados num toque. E tem Política de Privacidade e Termos de Uso de verdade, com aceite no primeiro uso. É o capítulo de privacidade e direitos, do jeito certo."
+    },
     {
       "id": "2026-07-16-v2.10.0-alarme",
       "date": "2026-07-16",
