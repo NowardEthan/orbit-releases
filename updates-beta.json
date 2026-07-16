@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.13.0",
-  "latestVersionCode": 53,
+  "latestVersion": "2.13.1",
+  "latestVersionCode": 54,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.13.0",
+      "id": "beta-2.13.1",
       "date": "2026-07-16",
-      "version": "2.13.0",
+      "version": "2.13.1",
       "tag": "novidade",
-      "title": "A conversa mora na tarefa",
-      "body": "Falar com a Luna dentro de uma tarefa agora vira um mini-chat ali mesmo, rolando no detalhe — e não polui mais o histórico geral. Cada tarefa guarda a sua própria conversa."
+      "title": "A conversa vira um balão no canto",
+      "body": "A conversa da tarefa agora fica colapsada num botão flutuante no canto do detalhe — toca pra expandir o chat, toca fora pra recolher. O detalhe fica limpo, e a conversa continua ali quando você precisa."
     }
   ]
 }
