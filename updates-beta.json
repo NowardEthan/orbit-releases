@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.13",
-  "latestVersionCode": 44,
+  "latestVersion": "2.9.14",
+  "latestVersionCode": 45,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.13-tarefas-na-barra",
+      "id": "beta-2.9.14-botao-por-tarefa",
       "date": "2026-07-16",
-      "version": "2.9.13",
+      "version": "2.9.14",
       "tag": "novidade",
-      "title": "rc: marcar as tarefas do bloco pela notificação",
-      "body": "Quando o bloco de agora tem tarefas dentro, o painel fixo expande e mostra a lista (✓/○), com um botão «✓ próxima» que risca a próxima pendente SEM abrir o app — e ainda te dá a luz. Testa: cria um bloco pra agora com 2-3 tarefas e vai riscando pela barra."
+      "title": "rc: risca a tarefa que você fez (não só a próxima)",
+      "body": "O painel da barra agora mostra um botão por tarefa pendente (até 3, o limite do Android) — toca exatamente a que você fez, inclusive uma do meio, fora de ordem. Conforme risca, as próximas aparecem nos botões."
     }
   ]
 }
