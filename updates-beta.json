@@ -1,17 +1,17 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.17.1",
-  "latestVersionCode": 59,
+  "latestVersion": "2.17.2",
+  "latestVersionCode": 60,
   "publishedAt": "2026-07-16",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.17.1",
+      "id": "beta-2.17.2",
       "date": "2026-07-16",
-      "version": "2.17.1",
+      "version": "2.17.2",
       "tag": "novidade",
       "title": "Busca na Conversa",
       "body": "Agora você pode buscar mensagens antigas da Luna. Você pode fazer a busca pelo menu da conversa, ou apenas pedir para a Luna pesquisar no histórico."
