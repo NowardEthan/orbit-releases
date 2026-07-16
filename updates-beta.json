@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.19.0",
-  "latestVersionCode": 63,
+  "latestVersion": "2.19.1",
+  "latestVersionCode": 64,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.19.0",
+      "id": "beta-2.19.1",
       "date": "2026-07-16",
-      "version": "2.19.0",
-      "tag": "novidade",
-      "title": "Buscar na conversa (com a Luna)",
-      "body": "No menu da conversa (⋮) → «Buscar na conversa»: acha o texto na hora e navega pelas ocorrências. Se o literal não bastar, toca em «Pedir à Luna» — ela busca pelo SIGNIFICADO e te mostra os pontos que têm a ver, cada um clicável pra pular direto pro trecho."
+      "version": "2.19.1",
+      "tag": "ajuste",
+      "title": "Composers mais confortáveis",
+      "body": "O campo de conversa da rotina agora cresce conforme você digita (com quebra de linha), e as dicas dentro dos campos não ficam mais cortadas."
     }
   ]
 }
