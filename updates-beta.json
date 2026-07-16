@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.12.1",
-  "latestVersionCode": 52,
+  "latestVersion": "2.13.0",
+  "latestVersionCode": 53,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.12.0",
+      "id": "beta-2.13.0",
       "date": "2026-07-16",
-      "version": "2.12.0",
+      "version": "2.13.0",
       "tag": "novidade",
-      "title": "O combinado, na mesa",
-      "body": "Agora tem Política de Privacidade e Termos de Uso de verdade, escritos pra entender — e uma tela de aceite no primeiro uso. Fecha o capítulo de privacidade e direitos (LGPD). Continua o mesmo pente-fino: seus dados são seus."
+      "title": "A conversa mora na tarefa",
+      "body": "Falar com a Luna dentro de uma tarefa agora vira um mini-chat ali mesmo, rolando no detalhe — e não polui mais o histórico geral. Cada tarefa guarda a sua própria conversa."
     }
   ]
 }
