@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.14.0",
-  "latestVersionCode": 55,
+  "latestVersion": "2.15.0",
+  "latestVersionCode": 56,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.14.0",
+      "id": "beta-2.15.0",
       "date": "2026-07-16",
-      "version": "2.14.0",
+      "version": "2.15.0",
       "tag": "novidade",
-      "title": "Muitas tarefas, rapidinho",
-      "body": "Dentro de uma tarefa, agora dá pra emendar várias: o campo continua pronto depois de adicionar, e tem um «colar lista» pra jogar um monte de uma vez (uma por linha). Ótimo pra quando a tarefa do dia vira várias."
+      "title": "Adicionar tarefas por voz",
+      "body": "Mãos ocupadas? Toca no microfone no «adicionar tarefa» e fala as peças — a Luna transcreve e você revisa e adiciona todas de uma vez. E tem microfone no balão do chat também, pra falar com ela sem digitar."
     }
   ]
 }
