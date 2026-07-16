@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.16",
-  "latestVersionCode": 47,
+  "latestVersion": "2.9.17",
+  "latestVersionCode": 48,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.16-lote",
+      "id": "beta-2.9.17-seguranca-stt",
       "date": "2026-07-16",
-      "version": "2.9.16",
+      "version": "2.9.17",
       "tag": "correcao",
-      "title": "rc: as tarefas da notificação sincronizam de uma vez",
-      "body": "Antes, ao abrir o detalhe, os checkboxes que você marcou pela barra enchiam um a um (com lag). Agora aplicam todas juntas — bem mais rápido e sem aquele «marcando aos poucos»."
+      "title": "rc: segurança — chave de transcrição saiu do app",
+      "body": "Correção de segurança: a chave da transcrição de voz não fica mais dentro do app; a transcrição vai toda pelo servidor. Nada muda pra você no uso — só que agora está protegido."
     }
   ]
 }
