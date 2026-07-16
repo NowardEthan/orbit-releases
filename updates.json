@@ -1,8 +1,8 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.12.0",
-  "latestVersionCode": 51,
+  "latestVersion": "2.12.1",
+  "latestVersionCode": 52,
   "publishedAt": "2026-07-16",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
