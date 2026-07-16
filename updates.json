@@ -1,13 +1,37 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.0",
-  "latestVersionCode": 31,
-  "publishedAt": "2026-07-15",
+  "latestVersion": "2.10.0",
+  "latestVersionCode": 49,
+  "publishedAt": "2026-07-16",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/latest/download/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "2026-07-16-v2.10.0-alarme",
+      "date": "2026-07-16",
+      "version": "2.10.0",
+      "tag": "novidade",
+      "title": "Alarme de verdade + a tarefa de agora na barra",
+      "body": "O modo alarme virou um despertador real: vibração longa e som alto até você tocar «Comecei» (funciona mesmo no Samsung, que limita notificação comum). E tem um painel fixo na barra mostrando a tarefa de agora, com contador e barra de progresso — dá pra riscar as tarefas do bloco direto da notificação, sem abrir o app."
+    },
+    {
+      "id": "2026-07-16-v2.10.0-luz-visual",
+      "date": "2026-07-16",
+      "version": "2.10.0",
+      "tag": "novidade",
+      "title": "A rotina ganhou luz e cara nova",
+      "body": "Concluir tarefa agora acende «luz» (com brilho e uma ofensiva de dias seguidos) — um comecinho de gamificação, sem punição. E a tela foi repaginada: o bloco de agora com etiqueta viva, o feito em dourado, o detalhe e o calendário mais bonitos, e passos e tarefas viraram uma lista só."
+    },
+    {
+      "id": "2026-07-16-v2.10.0-seguranca",
+      "date": "2026-07-16",
+      "version": "2.10.0",
+      "tag": "correcao",
+      "title": "Segurança reforçada",
+      "body": "Passamos um pente-fino de segurança: a transcrição de voz agora vai toda pelo servidor, sem chave sensível dentro do app. Nada muda no uso — só ficou mais protegido."
+    },
     {
       "id": "2026-07-15-v2.9.0-beta",
       "date": "2026-07-15",
