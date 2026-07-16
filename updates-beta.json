@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.11.0",
-  "latestVersionCode": 50,
+  "latestVersion": "2.12.0",
+  "latestVersionCode": 51,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.11.0",
+      "id": "beta-2.12.0",
       "date": "2026-07-16",
-      "version": "2.11.0",
+      "version": "2.12.0",
       "tag": "novidade",
-      "title": "Seus dados, suas regras",
-      "body": "Nova tela de Privacidade: o que a Luna guarda, que suas mensagens passam por uma IA, e o lembrete de que ela é companhia — não terapeuta. E agora dá pra apagar sua conta e TODOS os seus dados num toque. (Cuidado ao testar: apaga de verdade!)"
+      "title": "O combinado, na mesa",
+      "body": "Agora tem Política de Privacidade e Termos de Uso de verdade, escritos pra entender — e uma tela de aceite no primeiro uso. Fecha o capítulo de privacidade e direitos (LGPD). Continua o mesmo pente-fino: seus dados são seus."
     }
   ]
 }
