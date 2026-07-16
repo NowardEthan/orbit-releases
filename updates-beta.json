@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.13.1",
-  "latestVersionCode": 54,
+  "latestVersion": "2.14.0",
+  "latestVersionCode": 55,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.13.1",
+      "id": "beta-2.14.0",
       "date": "2026-07-16",
-      "version": "2.13.1",
+      "version": "2.14.0",
       "tag": "novidade",
-      "title": "A conversa vira um balão no canto",
-      "body": "A conversa da tarefa agora fica colapsada num botão flutuante no canto do detalhe — toca pra expandir o chat, toca fora pra recolher. O detalhe fica limpo, e a conversa continua ali quando você precisa."
+      "title": "Muitas tarefas, rapidinho",
+      "body": "Dentro de uma tarefa, agora dá pra emendar várias: o campo continua pronto depois de adicionar, e tem um «colar lista» pra jogar um monte de uma vez (uma por linha). Ótimo pra quando a tarefa do dia vira várias."
     }
   ]
 }
