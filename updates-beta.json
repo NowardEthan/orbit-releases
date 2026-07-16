@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.17",
-  "latestVersionCode": 48,
+  "latestVersion": "2.10.0",
+  "latestVersionCode": 49,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.17-seguranca-stt",
+      "id": "beta-2.10.0",
       "date": "2026-07-16",
-      "version": "2.9.17",
-      "tag": "correcao",
-      "title": "rc: segurança — chave de transcrição saiu do app",
-      "body": "Correção de segurança: a chave da transcrição de voz não fica mais dentro do app; a transcrição vai toda pelo servidor. Nada muda pra você no uso — só que agora está protegido."
+      "version": "2.10.0",
+      "tag": "aviso",
+      "title": "beta alinhado ao estável 2.10.0",
+      "body": "Tudo que a gente validou aqui no beta virou oficial no Orbit estável (2.10.0). O beta segue à frente pros próximos testes."
     }
   ]
 }
