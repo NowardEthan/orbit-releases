@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.9.9",
-  "latestVersionCode": 40,
+  "latestVersion": "2.9.10",
+  "latestVersionCode": 41,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.9.9-alarme-nativo",
-      "date": "2026-07-15",
-      "version": "2.9.9",
+      "id": "beta-2.9.10-alarme-nos-blocos",
+      "date": "2026-07-16",
+      "version": "2.9.10",
       "tag": "novidade",
-      "title": "rc: ALARME NATIVO (vibração longa de verdade)",
-      "body": "O grande teste: como a Samsung capa a vibração de notificação, fiz um alarme nativo que roda o vibrador e o som DIRETO (tipo despertador). Vai em Ajustes → Notificações → «Testar alarme NATIVO». Deve vibrar longo e tocar até você tocar «Comecei». Se funcionar, ligo isso no modo alarme dos blocos."
+      "title": "rc: o Modo alarme agora usa o alarme nativo",
+      "body": "O motor nativo (que venceu a Samsung) entrou no Modo alarme dos blocos. Liga o «Modo alarme» num bloco pra daqui 1-2 min (na rotina de hoje) e ele vai vibrar longo e tocar de verdade na hora, até você marcar «Comecei». Testa e me diz!"
     }
   ]
 }
