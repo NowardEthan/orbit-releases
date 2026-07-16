@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.15.0",
-  "latestVersionCode": 56,
+  "latestVersion": "2.16.0",
+  "latestVersionCode": 57,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.15.0",
+      "id": "beta-2.16.0",
       "date": "2026-07-16",
-      "version": "2.15.0",
+      "version": "2.16.0",
       "tag": "novidade",
-      "title": "Adicionar tarefas por voz",
-      "body": "Mãos ocupadas? Toca no microfone no «adicionar tarefa» e fala as peças — a Luna transcreve e você revisa e adiciona todas de uma vez. E tem microfone no balão do chat também, pra falar com ela sem digitar."
+      "title": "Peça uma rotina sem sair do lugar",
+      "body": "A aba Rotina ganhou o balão da Luna no canto: toca e fala «cria uma rotina de trabalho de seg a sex, 8h às 17h, com almoço ao meio-dia» — ela monta os blocos ali mesmo. Com voz também. O mesmo balão do detalhe da tarefa, agora na rotina inteira."
     }
   ]
 }
