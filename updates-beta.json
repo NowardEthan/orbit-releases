@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.22.0",
-  "latestVersionCode": 71,
+  "latestVersion": "2.23.0",
+  "latestVersionCode": 72,
   "publishedAt": "2026-07-17",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "beta-2.23.0",
+      "date": "2026-07-17",
+      "version": "2.23.0",
+      "tag": "novo",
+      "title": "Caixa de Ideias 💡",
+      "body": "Nova Caixa de Entrada! Peça para a Luna 'anotar uma ideia' ou guardar um pensamento rápido e ela depositará na sua tela de Rotina para não poluir as tarefas fixas. Também corrigimos o erro onde reorganizar as tarefas removia as que já tinham sido concluídas."
+    },
     {
       "id": "beta-2.22.0",
       "date": "2026-07-17",
