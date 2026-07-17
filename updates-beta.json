@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.21.0",
-  "latestVersionCode": 66,
+  "latestVersion": "2.21.1",
+  "latestVersionCode": 67,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.21.0",
+      "id": "beta-2.21.1",
       "date": "2026-07-17",
-      "version": "2.21.0",
-      "tag": "novidade",
-      "title": "Tarefas de hoje ≠ tarefas fixas",
-      "body": "Consertamos a rotina repetir tudo igual todo dia: agora cada bloco tem duas listas — «de hoje» (as peças que mudam a cada dia) e «fixas» (o molde que se repete). O que você adiciona (e o que a Luna adiciona quando você pede) entra só no dia de hoje; se quiser que repita, é só «fixar». Some amanhã sozinho."
+      "version": "2.21.1",
+      "tag": "ajuste",
+      "title": "Chega de «erro» quando deu certo",
+      "body": "No balão da rotina, quando você pedia algo e a Luna demorava, aparecia «não consegui falar com o servidor» — mas ela tinha feito. Agora o balão espera a resposta chegar antes de reclamar; se deu certo (o caso comum), não mostra erro nenhum."
     }
   ]
 }
