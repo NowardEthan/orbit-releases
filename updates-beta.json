@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.21.3",
-  "latestVersionCode": 69,
+  "latestVersion": "2.21.4",
+  "latestVersionCode": 70,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.21.3",
+      "id": "beta-2.21.4",
       "date": "2026-07-17",
-      "version": "2.21.3",
+      "version": "2.21.4",
       "tag": "ajuste",
-      "title": "Marcar tarefa é instantâneo",
-      "body": "Aquele delayzinho ao marcar uma tarefa no detalhe acabou — agora o check aparece na hora, e o resto sincroniza por baixo."
+      "title": "Tarefa de hoje fica só no dia de hoje",
+      "body": "As «tarefas de hoje» estavam aparecendo ao abrir o bloco em outros dias — agora ficam só no próprio dia. Nos outros dias o detalhe mostra só o molde (as fixas que se repetem)."
     }
   ]
 }
