@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.21.2",
-  "latestVersionCode": 68,
+  "latestVersion": "2.21.3",
+  "latestVersionCode": 69,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.21.2",
+      "id": "beta-2.21.3",
       "date": "2026-07-17",
-      "version": "2.21.2",
+      "version": "2.21.3",
       "tag": "ajuste",
-      "title": "Hoje e Fixas, cada uma no seu card",
-      "body": "No detalhe da tarefa, «Tarefas de hoje» (as peças que mudam) e «Fixas» (o molde que repete) agora são dois cards separados — fica claro qual é qual. E o horário do card da rotina não quebra mais em duas linhas."
+      "title": "Marcar tarefa é instantâneo",
+      "body": "Aquele delayzinho ao marcar uma tarefa no detalhe acabou — agora o check aparece na hora, e o resto sincroniza por baixo."
     }
   ]
 }
