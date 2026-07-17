@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.21.1",
-  "latestVersionCode": 67,
+  "latestVersion": "2.21.2",
+  "latestVersionCode": 68,
   "publishedAt": "2026-07-15",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.21.1",
+      "id": "beta-2.21.2",
       "date": "2026-07-17",
-      "version": "2.21.1",
+      "version": "2.21.2",
       "tag": "ajuste",
-      "title": "Chega de «erro» quando deu certo",
-      "body": "No balão da rotina, quando você pedia algo e a Luna demorava, aparecia «não consegui falar com o servidor» — mas ela tinha feito. Agora o balão espera a resposta chegar antes de reclamar; se deu certo (o caso comum), não mostra erro nenhum."
+      "title": "Hoje e Fixas, cada uma no seu card",
+      "body": "No detalhe da tarefa, «Tarefas de hoje» (as peças que mudam) e «Fixas» (o molde que repete) agora são dois cards separados — fica claro qual é qual. E o horário do card da rotina não quebra mais em duas linhas."
     }
   ]
 }
