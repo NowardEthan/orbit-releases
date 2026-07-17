@@ -1,20 +1,20 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.23.0",
-  "latestVersionCode": 72,
+  "latestVersion": "2.23.1",
+  "latestVersionCode": 73,
   "publishedAt": "2026-07-17",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
     {
-      "id": "beta-2.23.0",
+      "id": "beta-2.23.1",
       "date": "2026-07-17",
-      "version": "2.23.0",
+      "version": "2.23.1",
       "tag": "novo",
-      "title": "Caixa de Ideias 💡",
-      "body": "Nova Caixa de Entrada! Peça para a Luna 'anotar uma ideia' ou guardar um pensamento rápido e ela depositará na sua tela de Rotina para não poluir as tarefas fixas. Também corrigimos o erro onde reorganizar as tarefas removia as que já tinham sido concluídas."
+      "title": "Caixa de Ideias, completa 💡",
+      "body": "O despejo mental do jeito certo: toque no «+» e jogue um pensamento na hora, sem abrir o chat. Depois, toque na ideia para triar — vira tarefa de um bloco, você guarda, ou joga no lixo. A Luna também continua anotando pelo chat (as dela ganham um ✨). Tire da cabeça agora, processe depois."
     },
     {
       "id": "beta-2.22.0",
