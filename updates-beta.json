@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.21.4",
-  "latestVersionCode": 70,
-  "publishedAt": "2026-07-15",
+  "latestVersion": "2.22.0",
+  "latestVersionCode": 71,
+  "publishedAt": "2026-07-17",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "beta-2.22.0",
+      "date": "2026-07-17",
+      "version": "2.22.0",
+      "tag": "novo",
+      "title": "A Lua chegou 🌙",
+      "body": "Além da luz (a tua história, que só cresce), agora tem a Lua — o teu estado de agora. Ela cresce quando você mantém a rotina e mingua quando você some, feito preparo físico: nunca perde o que já treinou, mas o de-hoje pede constância. Aparece no topo da Rotina, em violeta. Por enquanto ela só se mostra e vai ganhando forma nos próximos dias; a voz e a rede dela vêm nos próximos capítulos."
+    },
     {
       "id": "beta-2.21.4",
       "date": "2026-07-17",
