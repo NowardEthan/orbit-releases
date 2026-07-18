@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.23.1",
-  "latestVersionCode": 73,
+  "latestVersion": "2.24.0",
+  "latestVersionCode": 74,
   "publishedAt": "2026-07-17",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "beta-2.24.0",
+      "date": "2026-07-17",
+      "version": "2.24.0",
+      "tag": "novo",
+      "title": "A Rotina respira 🗓️",
+      "body": "Desafogamos a tela: os blocos do teu dia agora são a estrela, não um rodapé. A luz e a lua se mudaram pra um selo «Nv· 🌒» no topo (toque e veja o painel cheio), e a Caixa de Ideias virou o botão 💡 — as duas a um toque, sem roubar o espaço da agenda."
+    },
     {
       "id": "beta-2.23.1",
       "date": "2026-07-17",
