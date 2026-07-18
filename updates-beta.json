@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.24.2",
-  "latestVersionCode": 76,
+  "latestVersion": "2.24.3",
+  "latestVersionCode": 77,
   "publishedAt": "2026-07-18",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "beta-2.24.3",
+      "date": "2026-07-18",
+      "version": "2.24.3",
+      "tag": "polimento",
+      "title": "Polimento de UI da Caixa 💅",
+      "body": "Espaçamentos mais generosos, composer mais arredondado, botão Voltar alinhado, tudo mais bonito para a Caixa de Ideias."
+    },
     {
       "id": "beta-2.24.2",
       "date": "2026-07-18",
