@@ -1,13 +1,21 @@
 {
   "app": "orbit-mobile",
   "manifestVersion": 1,
-  "latestVersion": "2.24.3",
-  "latestVersionCode": 77,
+  "latestVersion": "2.24.4",
+  "latestVersionCode": 78,
   "publishedAt": "2026-07-18",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/beta/orbit.apk",
   "minSupportedVersion": "2.0.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "beta-2.24.4",
+      "date": "2026-07-18",
+      "version": "2.24.4",
+      "tag": "novo",
+      "title": "Ideias por voz 🎙️",
+      "body": "Agora você pode DESPEJAR uma ideia falando: grave, e ela vira texto (transcrito) com o áudio guardado pra você ouvir de novo. E a Luna entrou na Caixa — um balãozinho pra ela organizar, resgatar e gerar ideias com você."
+    },
     {
       "id": "beta-2.24.3",
       "date": "2026-07-18",
