@@ -1,28 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.0.2",
-  "latestVersionCode": 4,
+  "latestVersion": "0.0.3",
+  "latestVersionCode": 5,
   "publishedAt": "2026-07-20",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit-0.0.3.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.0.2-2026-07-20",
+      "id": "lab-0.0.3-2026-07-20",
       "date": "2026-07-20",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "tag": "novidade",
-      "title": "Ícone do Orbit",
-      "body": "O launcher passa a usar o ícone próprio do Lab (Orbit.ico), não o template do Android Studio."
-    },
-    {
-      "id": "lab-0.0.1-2026-07-20",
-      "date": "2026-07-20",
-      "version": "0.0.1",
-      "tag": "novidade",
-      "title": "Build pelo GitHub Actions",
-      "body": "APK 0.0.1 (code 3) publicado no canal lab."
+      "title": "APK 0.0.3 com ícone Orbit",
+      "body": "Link versionado (orbit-0.0.3.apk) para evitar cache do ficheiro antigo. Ícone próprio do Lab (Orbit.ico)."
     },
     {
       "id": "lab-0.2.0-primeiro-update",
