@@ -14,13 +14,16 @@ os APKs servidos pelos **GitHub Releases**:
 
 ## Sucessor: Orbit Compose (OrbitLab)
 
-O APK publicado aqui **vai passar a ser** o build do lab Compose (`OrbitLab/` /
-[`orbit-lab`](https://github.com/NowardEthan/orbit-lab)), não o Expo. Mesmo `orbit.apk`, mesmos
-manifestos, mesmos `applicationId` (`com.luna.orbitmobile` / `.beta`) e mesma assinatura.
+O APK publicado nos canais **estável/beta** **vai passar a ser** o build Compose
+(`OrbitLab/` / [`orbit-lab`](https://github.com/NowardEthan/orbit-lab)), não o Expo.
+Mesmo `orbit.apk`, mesmos `applicationId` e assinatura. Até lá, continua o APK do
+`orbit-mobile`. Ver `OrbitLab/RELEASING.md`.
 
-Até a troca: continua a publicar o APK do `orbit-mobile`. Quando o Compose estiver pronto, o
-binário muda de origem — o contrato dos `updates*.json` **não muda**. Ver
-`OrbitLab/RELEASING.md`.
+### Canal só do lab (teste)
+
+**`updates-lab.json`** — package `com.ethan.orbitlab`, tag de release **`lab`**.
+Serve para o Ethan testar o auto-update Compose→Compose **sem** tocar no Orbit
+instalado. Não é o canal de produção. Passos: `OrbitLab/TESTE-UPDATE.md`.
 
 ## 🛑 Regras que evitam estrago
 
@@ -38,7 +41,8 @@ binário muda de origem — o contrato dos `updates*.json` **não muda**. Ver
    - **Beta:** atualize `updates-beta.json` e suba o APK no tag fixo **`beta`** (que É pre-release):
      `gh release upload beta ./orbit.apk --clobber`.
    - Nunca publique um build de teste/beta como release estável.
-   - **Não** crie `updates-lab.json` — o Lab herda estes canais.
+   - **`updates-lab.json`** é só para o package do lab Compose (teste). Não mistures
+     com estável/beta do Expo.
 
 4. **Verifique pelo raw, não pela API.** Confira os manifestos em
    `raw.githubusercontent.com/NowardEthan/orbit-releases/main/updates.json` (e `…-beta.json`). A
