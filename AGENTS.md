@@ -12,6 +12,16 @@ os APKs servidos pelos **GitHub Releases**:
 - **`updates-beta.json`** — canal **beta** (o «Orbit β», app separado).
 - O app baixa o APK dos **Releases**, não do repositório.
 
+## Sucessor: Orbit Compose (OrbitLab)
+
+O APK publicado aqui **vai passar a ser** o build do lab Compose (`OrbitLab/` /
+[`orbit-lab`](https://github.com/NowardEthan/orbit-lab)), não o Expo. Mesmo `orbit.apk`, mesmos
+manifestos, mesmos `applicationId` (`com.luna.orbitmobile` / `.beta`) e mesma assinatura.
+
+Até a troca: continua a publicar o APK do `orbit-mobile`. Quando o Compose estiver pronto, o
+binário muda de origem — o contrato dos `updates*.json` **não muda**. Ver
+`OrbitLab/RELEASING.md`.
+
 ## 🛑 Regras que evitam estrago
 
 1. **`orbit.apk` é gitignored — de propósito.** O APK vai pelo **asset do Release**, nunca pelo
@@ -28,6 +38,7 @@ os APKs servidos pelos **GitHub Releases**:
    - **Beta:** atualize `updates-beta.json` e suba o APK no tag fixo **`beta`** (que É pre-release):
      `gh release upload beta ./orbit.apk --clobber`.
    - Nunca publique um build de teste/beta como release estável.
+   - **Não** crie `updates-lab.json` — o Lab herda estes canais.
 
 4. **Verifique pelo raw, não pela API.** Confira os manifestos em
    `raw.githubusercontent.com/NowardEthan/orbit-releases/main/updates.json` (e `…-beta.json`). A
