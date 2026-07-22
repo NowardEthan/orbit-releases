@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.6.0",
-  "latestVersionCode": 10,
+  "latestVersion": "0.6.1",
+  "latestVersionCode": 11,
   "publishedAt": "2026-07-22",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.6.1-exportar",
+      "date": "2026-07-22",
+      "version": "0.6.1",
+      "tag": "novidade",
+      "title": "Exportar conversa",
+      "body": "Exporte uma conversa pelo botão no topo do chat, ou várias de uma vez selecionando no histórico — sai em Markdown pra você guardar ou compartilhar."
+    },
     {
       "id": "lab-0.6.0-chat-flui",
       "date": "2026-07-22",
