@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.6.1",
-  "latestVersionCode": 11,
+  "latestVersion": "0.6.2",
+  "latestVersionCode": 12,
   "publishedAt": "2026-07-22",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.6.2-reenviar",
+      "date": "2026-07-22",
+      "version": "0.6.2",
+      "tag": "novidade",
+      "title": "Reenviar mensagem + conexão mais firme",
+      "body": "Segure qualquer mensagem (sua ou da Luna) e toque em «Reenviar a partir daqui» — a Luna responde de novo e o que vinha depois é apagado, igual ao ChatGPT. E aquele erro de conexão que insistia mesmo com internet boa foi corrigido (socket morto reusado)."
+    },
     {
       "id": "lab-0.6.1-exportar",
       "date": "2026-07-22",
