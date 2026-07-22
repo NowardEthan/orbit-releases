@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.5.1",
-  "latestVersionCode": 9,
-  "publishedAt": "2026-07-20",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.5.1/orbit.apk",
+  "latestVersion": "0.6.0",
+  "latestVersionCode": 10,
+  "publishedAt": "2026-07-22",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.6.0-chat-flui",
+      "date": "2026-07-22",
+      "version": "0.6.0",
+      "tag": "novidade",
+      "title": "Chat que flui de verdade",
+      "body": "A Luna agora escreve ao vivo (stream de verdade), o \"pensando\" pulsa, ela tenta de novo sozinha quando a rede falha, e dá pra retomar uma mensagem sem ela achar que você mandou duas iguais."
+    },
     {
       "id": "lab-0.5.1-2026-07-20",
       "date": "2026-07-20",
