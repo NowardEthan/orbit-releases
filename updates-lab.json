@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.6.2",
-  "latestVersionCode": 12,
+  "latestVersion": "0.6.3",
+  "latestVersionCode": 13,
   "publishedAt": "2026-07-22",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.6.3-conexao-servidor",
+      "date": "2026-07-22",
+      "version": "0.6.3",
+      "tag": "correcao",
+      "title": "Conexão firme (no caminho certo)",
+      "body": "O erro de conexão que insistia agora é tratado no caminho do servidor (a Luna de verdade, com memória) — ela evita o socket morto e tenta de novo sozinha. E o «Reenviar a partir daqui» parou de duplicar a tua mensagem."
+    },
     {
       "id": "lab-0.6.2-reenviar",
       "date": "2026-07-22",
