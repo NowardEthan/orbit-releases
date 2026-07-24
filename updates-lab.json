@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.1",
-  "latestVersionCode": 23,
+  "latestVersion": "0.8.2",
+  "latestVersionCode": 24,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.2-espera-que-nao-servia",
+      "date": "2026-07-24",
+      "version": "0.8.2",
+      "tag": "correcao",
+      "title": "A abertura para de esperar por uma conta que não vem",
+      "body": "A paciência de 10 segundos da versão anterior serviu pra uma coisa: provar que não havia nada pra esperar. A conta guardada nunca chegava — o que acordava o Firebase era o próprio app entrando de novo pela conta Google. Agora ele espera só 800ms e vai direto ao que funciona, o que devolve uns 5 segundos da abertura. E o diário passou a radiografar o cofre onde essa conta deveria estar guardada, na abertura e depois de entrar: é o que falta pra saber quem está deixando ele vazio."
+    },
     {
       "id": "lab-0.8.1-paciencia-no-restauro",
       "date": "2026-07-24",
