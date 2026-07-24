@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.1",
-  "latestVersionCode": 17,
+  "latestVersion": "0.7.2",
+  "latestVersionCode": 18,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.2-foto-enxuta",
+      "date": "2026-07-24",
+      "version": "0.7.2",
+      "tag": "correcao",
+      "title": "A foto para de custar um minuto",
+      "body": "Mandar uma foto demorava quase um minuto pra Luna responder: a câmera tira 12 megapixels e o app subia tudo isso, mesmo ela olhando a imagem bem menor. Agora a foto é reduzida antes de subir — dez a vinte vezes menos coisa pra rede carregar, sem mudar o que ela enxerga, e sem sair deitada. E enquanto o anexo sobe o app diz «Enviando a foto…» em vez de fingir que ela está pensando."
+    },
     {
       "id": "lab-0.7.1-anexo-erro-de-acesso",
       "date": "2026-07-24",
