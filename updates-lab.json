@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.6.3",
-  "latestVersionCode": 13,
-  "publishedAt": "2026-07-22",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.6.3/orbit.apk",
+  "latestVersion": "0.7.0",
+  "latestVersionCode": 16,
+  "publishedAt": "2026-07-24",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.0-busca-e-celular-apertado",
+      "date": "2026-07-24",
+      "version": "0.7.0",
+      "tag": "novidade",
+      "title": "Busca inteligente na conversa (e o app aguentando o celular apertado)",
+      "body": "Agora dá pra procurar por sentido dentro da conversa, não por palavra exata: o resultado é clicável, a tela rola até a mensagem e ela pisca. E um capítulo inteiro de correções pra pouca memória — a câmera abre DENTRO do app (foto e vídeo não derrubam mais nada), o login do Google não volta a cada vez que você sai, se o Android matar o app no meio da resposta o turno é retomado sozinho ao voltar, e a busca insiste igual o chat em vez de mostrar erro de servidor. Bônus: exportar a conversa agora também baixa no aparelho, em Markdown, texto ou HTML."
+    },
     {
       "id": "lab-0.6.3-conexao-servidor",
       "date": "2026-07-22",
