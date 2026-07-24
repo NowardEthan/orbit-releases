@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.4",
-  "latestVersionCode": 26,
+  "latestVersion": "0.8.5",
+  "latestVersionCode": 27,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.4/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.5/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.5-sem-espera-morta",
+      "date": "2026-07-24",
+      "version": "0.8.5",
+      "tag": "correcao",
+      "title": "A abertura para de esperar de graça",
+      "body": "O diário fechou o caso: neste aparelho a sua conta guardada nunca volta sozinha. Ela fica trancada num cofre criptografado, e a chave que abre esse cofre some do hardware de segurança a cada vez que o app fecha — então, ao abrir, não há o que recuperar, por mais que se espere. Quem te traz de volta é a reentrada pela sua conta Google (que segue autorizada no aparelho). Antes o app perdia 800ms parado esperando o cofre reabrir; agora vai direto à reentrada, na hora. Foi isso que sobrou pra cortar depois que a causa ficou clara — a abertura fica no seu mínimo."
+    },
     {
       "id": "lab-0.8.4-acordar-o-cofre",
       "date": "2026-07-24",
