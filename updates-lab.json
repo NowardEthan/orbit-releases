@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.2",
-  "latestVersionCode": 24,
+  "latestVersion": "0.8.3",
+  "latestVersionCode": 25,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.3-cofre-por-dentro",
+      "date": "2026-07-24",
+      "version": "0.8.3",
+      "tag": "correcao",
+      "title": "Chegando na causa: sua conta está no disco o tempo todo",
+      "body": "O diário que você mandou virou o caso: o cofre onde o Firebase guarda sua conta não está vazio — está cheio, já na abertura, antes de qualquer login. O problema nunca foi perder a conta; é o app não relê-la ao abrir, e a reentrada pela conta Google só tapava esse buraco. Esta versão não muda o que você sente ainda — ela afia o diário pra ver o que tem dentro do cofre e se a conta volta sozinha. Com essa última leitura eu mato a causa raiz, em vez de seguir escorando."
+    },
     {
       "id": "lab-0.8.2-espera-que-nao-servia",
       "date": "2026-07-24",
