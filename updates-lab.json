@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.4",
-  "latestVersionCode": 20,
+  "latestVersion": "0.7.5",
+  "latestVersionCode": 21,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.4/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.5/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.5-abertura-sem-espera-morta",
+      "date": "2026-07-24",
+      "version": "0.7.5",
+      "tag": "correcao",
+      "title": "A abertura para de te fazer esperar de graça",
+      "body": "Voltar pro app estava levando meia dúvida de vida na tela «Recuperando sua sessão…». Boa parte era espera pura: o app dava 8 segundos pro Firebase achar sua conta guardada antes de tentar qualquer outra coisa — e essa conta, quando existe, aparece no primeiro instante. Agora o prazo é 1,5 segundo e a reentrada automática começa junto, em paralelo, em vez de esperar a fila andar. O diário da abertura também passou a viver em Ajustes › Sobre › «Diário da sessão», com um toque pra copiar."
+    },
     {
       "id": "lab-0.7.4-por-que-pediram-login",
       "date": "2026-07-24",
