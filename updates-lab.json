@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.3",
-  "latestVersionCode": 25,
+  "latestVersion": "0.8.4",
+  "latestVersionCode": 26,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.3/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.4/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.4-acordar-o-cofre",
+      "date": "2026-07-24",
+      "version": "0.8.4",
+      "tag": "correcao",
+      "title": "A causa da sessão perdida (e a provável cura)",
+      "body": "Fechei o diagnóstico: sua conta fica guardada num cofre criptografado no aparelho, e a chave que abre esse cofre mora no hardware de segurança do Android. Na hora de abrir o app, esse hardware ainda não tinha ligado — então o Firebase tentava ler sua conta, falhava calado e concluía que você tinha saído; só recuperava segundos depois, no jeito improvisado. Agora o app acorda o cofre de hardware primeiro e só então pede sua conta. Se a teoria estiver certa, a abertura vira instantânea e o login para de piscar. O diário continua medindo pra eu confirmar que a cura pegou."
+    },
     {
       "id": "lab-0.8.3-cofre-por-dentro",
       "date": "2026-07-24",
