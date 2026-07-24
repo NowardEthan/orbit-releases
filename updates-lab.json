@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.0",
-  "latestVersionCode": 16,
+  "latestVersion": "0.7.1",
+  "latestVersionCode": 17,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.1-anexo-erro-de-acesso",
+      "date": "2026-07-24",
+      "version": "0.7.1",
+      "tag": "correcao",
+      "title": "A foto volta a subir",
+      "body": "Tirar foto e enviar dava «erro de acesso» e a mensagem não ia. O envio do anexo agora fala direto com o servidor de arquivos levando a tua sessão na mão, tenta de novo sozinho até três vezes (renovando a sessão se precisar) e não sobe o mesmo arquivo duas vezes ao mesmo tempo. Vale também pra foto de perfil e capa. Se ainda falhar, o balão vermelho passa a dizer exatamente o porquê."
+    },
     {
       "id": "lab-0.7.0-busca-e-celular-apertado",
       "date": "2026-07-24",
