@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.2",
-  "latestVersionCode": 18,
+  "latestVersion": "0.7.3",
+  "latestVersionCode": 19,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.3-sessao-nao-cai-mais",
+      "date": "2026-07-24",
+      "version": "0.7.3",
+      "tag": "correcao",
+      "title": "Ele para de te pedir a conta Google toda vez",
+      "body": "Fechar o app e abrir de novo estava jogando você na tela de login. Quando o app demorava pra achar sua conta guardada, ele concluía que você tinha saído e apagava a pista de que já havia sessão aqui — e sem essa pista, a abertura seguinte nem esperava mais. Agora demora não é o mesmo que saiu: só sair de verdade limpa a sessão. E se a conta guardada realmente sumir, o app reentra sozinho na sua conta Google (que continua autorizada no aparelho) antes de te pedir qualquer coisa."
+    },
     {
       "id": "lab-0.7.2-foto-enxuta",
       "date": "2026-07-24",
