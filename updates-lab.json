@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.5",
-  "latestVersionCode": 27,
+  "latestVersion": "0.8.6",
+  "latestVersionCode": 28,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.5/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.6/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.6-topo-e-composer",
+      "date": "2026-07-24",
+      "version": "0.8.6",
+      "tag": "melhoria",
+      "title": "Um topo mais leve e um campo de escrever novo",
+      "body": "Duas afinações no chat. Em cima: o ícone de exportar estava brigando com o título e deixando o topo bagunçado — agora ele mora num menuzinho de três pontinhos (⋮) no canto, e o título e o status ficam com o espaço que é deles. Embaixo: o campo de escrever virou um cartão único, mais alto, que cresce pra cima conforme você digita, com os botões (o «+» de anexo e o de enviar/microfone) dentro dele, lá embaixo — no capricho do estilo do Claude. Mesmas funções de sempre, só que mais bonito e mais confortável de usar."
+    },
     {
       "id": "lab-0.8.5-sem-espera-morta",
       "date": "2026-07-24",
