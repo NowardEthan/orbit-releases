@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.0",
-  "latestVersionCode": 22,
+  "latestVersion": "0.8.1",
+  "latestVersionCode": 23,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.1-paciencia-no-restauro",
+      "date": "2026-07-24",
+      "version": "0.8.1",
+      "tag": "correcao",
+      "title": "A abertura para de disputar a sua conta consigo mesma",
+      "body": "O diário que você me mandou resolveu o caso: a sua conta guardada está lá, o Firebase só demora uns 6 segundos pra devolvê-la. Eu tinha entendido errado e feito o app desistir em 1,5 segundo — ele mostrava login, chamava o Google por outra porta, e as duas entradas corriam atrás da mesma conta. Agora ele espera de verdade (até 10s) e só tenta a outra porta se a conta não vier mesmo; a tela avisa quando muda de plano. O diário também ficou mais fundo: passou a medir quanto custa acordar o Firebase e se a travada é da rede ou do nosso próprio arranque."
+    },
     {
       "id": "lab-0.8.0-volta-onde-parou",
       "date": "2026-07-24",
