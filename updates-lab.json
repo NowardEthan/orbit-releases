@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.5",
-  "latestVersionCode": 21,
+  "latestVersion": "0.8.0",
+  "latestVersionCode": 22,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.5/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.0-volta-onde-parou",
+      "date": "2026-07-24",
+      "version": "0.8.0",
+      "tag": "novidade",
+      "title": "Ele volta exatamente onde você parou",
+      "body": "Sair e voltar recomeçava tudo no Início, mesmo que você estivesse no meio de uma conversa com a Luna. Agora o app lembra a aba, a conversa aberta e até o ponto do histórico onde você estava lendo — se você tinha parado no meio de uma conversa longa, volta ali, não no fim. Se estava no fim, volta no fim, que é onde a próxima mensagem aparece. E trocar de conversa já não herda a rolagem da anterior.\n\nJunto disso: segurar uma mensagem agora se vê. A escolhida acende e cresce um tiquinho, as vizinhas recuam pro fundo, e se ela ia ficar escondida atrás da folha de ações, ela sobe pro alto da tela — pra você ter certeza de qual vai copiar ou reenviar antes de tocar."
+    },
     {
       "id": "lab-0.7.5-abertura-sem-espera-morta",
       "date": "2026-07-24",
