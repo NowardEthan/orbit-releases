@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.7.3",
-  "latestVersionCode": 19,
+  "latestVersion": "0.7.4",
+  "latestVersionCode": 20,
   "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.3/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.7.4/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.7.4-por-que-pediram-login",
+      "date": "2026-07-24",
+      "version": "0.7.4",
+      "tag": "correcao",
+      "title": "Se ele te pedir login, agora ele te conta por quê",
+      "body": "A sessão ainda cai no seu aparelho e daqui eu não consigo ver o motivo. Então o app passou a anotar tudo o que acontece quando abre: se achou sua conta guardada, quanto tempo demorou, e se a reentrada automática falhou, por qual erro. Quando a tela de login aparecer, tem uma linha embaixo — «Por que pediram login? Toque aqui». Toque pra abrir, toque de novo pra copiar, e me manda o texto. Ele guarda também o diário da abertura anterior, que costuma ser onde a coisa aconteceu."
+    },
     {
       "id": "lab-0.7.3-sessao-nao-cai-mais",
       "date": "2026-07-24",
