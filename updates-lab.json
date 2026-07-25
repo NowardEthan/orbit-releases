@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.6",
-  "latestVersionCode": 28,
-  "publishedAt": "2026-07-24",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.6/orbit.apk",
+  "latestVersion": "0.8.7",
+  "latestVersionCode": 29,
+  "publishedAt": "2026-07-25",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.7/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.7-resposta-dupla-e-composer",
+      "date": "2026-07-25",
+      "version": "0.8.7",
+      "tag": "correcao",
+      "title": "Fim da resposta dupla — e dois retoques no campo de escrever",
+      "body": "O caso da manhã: às vezes a Luna respondia, você lia, e a fala se reescrevia sozinha mais curta — parecia que ela tinha respondido duas vezes. Era isso mesmo. Quando o servidor demora pra acordar e a conexão cai no meio, o app tentava de novo por baixo dos panos; só que o servidor já tinha gerado a resposta, então a segunda tentativa gerava OUTRA e reescrevia a primeira. Agora o app só repete quando o servidor não deu nenhum sinal de ter recebido, e se a resposta já chegou ele adota ela em vez de refazer. Uma fala, uma resposta. No campo de escrever: o balãozinho de «arraste pra travar» o áudio não fica mais cortado, e o «+» de anexo ficou estável durante a gravação."
+    },
     {
       "id": "lab-0.8.6-topo-e-composer",
       "date": "2026-07-24",
