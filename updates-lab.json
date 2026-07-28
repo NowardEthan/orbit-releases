@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.9",
-  "latestVersionCode": 31,
-  "publishedAt": "2026-07-27",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.9/orbit.apk",
+  "latestVersion": "0.9.0",
+  "latestVersionCode": 32,
+  "publishedAt": "2026-07-28",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.0-localizacao-e-clima",
+      "date": "2026-07-28",
+      "version": "0.9.0",
+      "tag": "novidade",
+      "title": "A Luna agora sabe onde você está — e o Início ganhou o tempo",
+      "body": "Até agora a Luna só tinha o relógio: sabia a hora, mas não o lugar. Faltava o chão. Agora, se você deixar, ela passa a saber onde você está — a cidade, e o tempo que faz aí fora nesse instante. Isso chega junto de cada mensagem, então ela para de perguntar o que já poderia saber, e ganha aquele grounding de quem está no mesmo mundo que você: o calor, a chuva, o fim de tarde.\n\nE o Início ganhou um card de clima de verdade — sol, chuva, temperatura, com o fundo mudando conforme o tempo lá fora. É opt-in: tem um botão «Localização e clima» em Ajustes, e o Android vai te pedir a permissão na primeira vez. Sem ligar, nada muda — a localização só sai daqui quando você abre a porta. O clima vem do Open-Meteo (sem custo, sem chave), buscado no próprio aparelho pra não deixar a Luna mais lenta."
+    },
     {
       "id": "lab-0.8.9-timeline-passo-a-passo",
       "date": "2026-07-27",
