@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.7",
-  "latestVersionCode": 29,
-  "publishedAt": "2026-07-25",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.7/orbit.apk",
+  "latestVersion": "0.8.8",
+  "latestVersionCode": 30,
+  "publishedAt": "2026-07-27",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.8/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.8-dossie-pesquisa",
+      "date": "2026-07-27",
+      "version": "0.8.8",
+      "tag": "novidade",
+      "title": "Modo pesquisa com cara própria: um dossiê que se monta ao vivo",
+      "body": "Quando você pede algo que faz a Luna pesquisar de verdade na web, a resposta parava de parecer pesquisa — chegava como uma mensagem comum. Agora ela vira um dossiê: um cartão violeta, separado do papo, com um cabeçalho que conta quantas fontes ela abriu, quantas consultas fez e quantas referências citou — e esses números sobem ao vivo enquanto ela trabalha. Por dentro roda uma timeline no estilo das IDEs: cada passo desliza pra dentro na hora que acontece («Pesquisou X», «Leu Y», «Cruzando as fontes…»), com o passo atual pulsando num halo. Quando ela termina, o mesmo cartão se acalma e vira o relatório — sem trocar de tela, sem susto. A resposta final aterrissa inteirinha no fim (parte do mesmo conserto que matou a resposta dupla e a travada de antes)."
+    },
     {
       "id": "lab-0.8.7-resposta-dupla-e-composer",
       "date": "2026-07-25",
