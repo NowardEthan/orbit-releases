@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.8.8",
-  "latestVersionCode": 30,
+  "latestVersion": "0.8.9",
+  "latestVersionCode": 31,
   "publishedAt": "2026-07-27",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.8/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.8.9/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.8.9-timeline-passo-a-passo",
+      "date": "2026-07-27",
+      "version": "0.8.9",
+      "tag": "melhoria",
+      "title": "A pesquisa agora dá pra acompanhar — passo a passo",
+      "body": "No dossiê de ontem os passos apareciam todos de uma vez — «woow», e já era. É que a Luna pesquisa rápido e em paralelo (dispara vários sites ao mesmo tempo), então os passos chegavam quase todos no mesmo instante. Agora a timeline revela um passo de cada vez, no ritmo de olhar: cada um desliza pra dentro, o passo da frente pulsa com o halo violeta como se ela estivesse nele, e os anteriores ficam com o ponto cheio. Quando ela acumula fila (aquele monte de sites de uma vez), a revelação acelera sozinha pra não ficar pra trás do que ela já fez de verdade. A pesquisa continua tão rápida quanto antes — só a apresentação é que desenrola pra você acompanhar."
+    },
     {
       "id": "lab-0.8.8-dossie-pesquisa",
       "date": "2026-07-27",
