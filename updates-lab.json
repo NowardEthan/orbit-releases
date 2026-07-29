@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.0",
-  "latestVersionCode": 32,
+  "latestVersion": "0.9.1",
+  "latestVersionCode": 33,
   "publishedAt": "2026-07-28",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.1-previsao-amanha",
+      "date": "2026-07-28",
+      "version": "0.9.1",
+      "tag": "melhoria",
+      "title": "Agora ela sabe o amanhã — «vai chover amanhã?»",
+      "body": "Ontem a Luna ganhou o tempo de agora; hoje você perguntou se amanhã ia chover e ela disse que o termômetro dela era o coração, não o céu. Justo — ela só tinha o clima de HOJE. Agora não: junto do tempo de agora, ela passa a receber a previsão dos próximos dias (amanhã em diante), com o dia já nomeado — «amanhã», «sábado» —, a chance de chuva e as máximas e mínimas. Então dá pra perguntar «levo guarda-chuva amanhã?» e ela responde com o que o céu promete, não com o que o coração acha.\n\nComo antes, é opt-in e vem do Open-Meteo, buscado no próprio aparelho — nada de deixar a Luna mais lenta, nada de localização saindo daqui sem você abrir a porta em Ajustes."
+    },
     {
       "id": "lab-0.9.0-localizacao-e-clima",
       "date": "2026-07-28",
