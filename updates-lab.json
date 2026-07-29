@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.2",
-  "latestVersionCode": 34,
+  "latestVersion": "0.9.3",
+  "latestVersionCode": 35,
   "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.3-clima-puxar-pra-atualizar",
+      "date": "2026-07-29",
+      "version": "0.9.3",
+      "tag": "melhoria",
+      "title": "A folha de clima agora atualiza puxando pra baixo",
+      "body": "Um retoque na folha detalhada do clima que estreou hoje mais cedo. Saiu o botãozinho de recarregar no canto — o topo ficou limpo, só o lugar e o «atualizado há X». No lugar dele, o gesto que a mão já conhece: puxe o conteúdo pra baixo e ele atualiza, com aquele rodinho aparecendo enquanto busca. Nada de procurar botão; é só puxar."
+    },
     {
       "id": "lab-0.9.2-clima-card-detalhe",
       "date": "2026-07-29",
