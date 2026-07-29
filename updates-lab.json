@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.1",
-  "latestVersionCode": 33,
-  "publishedAt": "2026-07-28",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.1/orbit.apk",
+  "latestVersion": "0.9.2",
+  "latestVersionCode": 34,
+  "publishedAt": "2026-07-29",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.2-clima-card-detalhe",
+      "date": "2026-07-29",
+      "version": "0.9.2",
+      "tag": "melhoria",
+      "title": "O card de clima agora se atualiza sozinho — e toca pra ver tudo",
+      "body": "Duas afinações no card de clima do Início. A primeira: ele se atualiza sozinho. Antes você tinha que tocar nele pra puxar o tempo de novo (e nem dava pra saber que o toque fazia isso); agora, enquanto o Início está aberto, ele busca o tempo ao abrir e depois de tempos em tempos, sem você fazer nada — sempre com cuidado pra não ficar chamando a rede à toa.\n\nA segunda: tocar no card abre uma folha bonita e detalhada. Em cima, o lugar, o «atualizado há X» e um botãozinho de recarregar na mão. No meio, o tempo de agora em grande, com sensação, umidade, vento, chance de chuva, máxima e mínima. E embaixo — o que o card nunca mostrou — os PRÓXIMOS DIAS: aquela previsão do «amanhã» que ela ganhou ontem, agora pra você ver também, dia a dia, com emoji, chance de chuva e as máximas e mínimas."
+    },
     {
       "id": "lab-0.9.1-previsao-amanha",
       "date": "2026-07-28",
