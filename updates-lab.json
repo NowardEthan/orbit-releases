@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.3",
-  "latestVersionCode": 35,
+  "latestVersion": "0.9.4",
+  "latestVersionCode": 36,
   "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.3/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.4/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.4-ceu-vivo-e-puxar-pra-atualizar",
+      "date": "2026-07-29",
+      "version": "0.9.4",
+      "tag": "novidade",
+      "title": "Céu Vivo: o clima agora tem um céu que muda com o tempo — e o Início atualiza puxando",
+      "body": "O card de clima e a folha detalhada ganharam um fundo vivo. Em vez de uma cor fixa, agora é um céu que reflete o que faz lá fora e a hora do dia: o amanhecer puxa o âmbar-rosado, a tarde limpa fica num azul quente, a noite vira índigo com uma luz de lua; a chuva esfria pro azul-petróleo, a tempestade puxa o violeta. Por cima, um brilho de sol ou lua no canto que respira devagar, e uma atmosfera de leve — fios de chuva caindo, flocos na neve, ou estrelas piscando no céu limpo à noite. Tudo suave, sem flash nem susto, e leve pro aparelho.\n\nE o gesto de puxar-pra-atualizar, que estreou na folha de clima, agora está na tela de Início inteira e na de Novidades: puxe o topo pra baixo e ele busca o tempo e as novidades de novo, com o rodinho aparecendo enquanto trabalha. A folha detalhada do clima também atualiza sozinha por esse gesto agora."
+    },
     {
       "id": "lab-0.9.3-clima-puxar-pra-atualizar",
       "date": "2026-07-29",
