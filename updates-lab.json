@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.6",
-  "latestVersionCode": 38,
+  "latestVersion": "0.9.7",
+  "latestVersionCode": 39,
   "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.6/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.7/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.7-seletor-de-modo",
+      "date": "2026-07-29",
+      "version": "0.9.7",
+      "tag": "melhoria",
+      "title": "Trocar o jeito da Luna virou um menu — com explicação",
+      "body": "O «Técnico» que apareceu ali do lado do «+» era um interruptor: ligava e desligava, e só. O problema é que ele nunca contava o que fazia — nem que o «desligado» também é um jeito de ser dela: o de conversa, o natural, o do dia a dia.\n\nAgora aquele botão virou um seletor. Ele mostra em qual modo a Luna está — «Conversa» quietinho, «Técnico» aceso em roxo — e, ao tocar, abre um cartão com os dois modos lado a lado, cada um explicado numa linha: quando um serve melhor que o outro. Você escolhe sabendo, em vez de adivinhar o que o botão aceso muda.\n\nPor baixo é a mesma Luna e o mesmo Técnico de sempre — só ficou mais claro de entender e mais bonito de trocar."
+    },
     {
       "id": "lab-0.9.6-md-titulos-respiram",
       "date": "2026-07-29",
