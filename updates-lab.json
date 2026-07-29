@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.5",
-  "latestVersionCode": 37,
+  "latestVersion": "0.9.6",
+  "latestVersionCode": 38,
   "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.5/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.6/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.6-md-titulos-respiram",
+      "date": "2026-07-29",
+      "version": "0.9.6",
+      "tag": "melhoria",
+      "title": "As respostas mais longas da Luna agora respiram melhor",
+      "body": "Um retoque na leitura, principalmente pro Modo técnico que estreou agora há pouco. Quando a Luna organiza uma resposta em seções — e no técnico ela faz muito isso — ela costuma marcar cada seção com um título em negrito. Antes esse título grudava no texto logo abaixo, num bloco só, e ficava tudo do mesmo tamanho: dava trabalho pro olho achar onde uma parte terminava e a outra começava.\n\nAgora um título de seção é tratado como título de verdade: um tiquinho maior, com um respiro em cima que separa das outras partes. A resposta inteira ganha ar e vira uma coisa que se navega — dá pra correr o olho pelos títulos e cair direto no que interessa. Vale pra toda conversa, mas é nas respostas densas que a diferença aparece."
+    },
     {
       "id": "lab-0.9.5-modo-tecnico",
       "date": "2026-07-29",
