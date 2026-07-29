@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.4",
-  "latestVersionCode": 36,
+  "latestVersion": "0.9.5",
+  "latestVersionCode": 37,
   "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.4/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.5/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.5-modo-tecnico",
+      "date": "2026-07-29",
+      "version": "0.9.5",
+      "tag": "novidade",
+      "title": "Modo técnico: um toque e a Luna vai mais a fundo — sem você precisar insistir",
+      "body": "A Luna responde do jeito dela: calorosa, direta, no ponto. E é pra ser assim mesmo, na maioria das vezes. Mas às vezes você quer que ela vá fundo — analisar um documento, destrinchar um problema, ser detalhista e técnica de verdade — e antes você tinha que insistir um pouco pra ela abrir a profundidade.\n\nAgora tem um caminho de um toque. No campo de mensagem, do lado do «+», apareceu um chip «Técnico». Ligue e a Luna passa a responder com mais rigor de primeira: termos exatos, números e critérios, as premissas na mesa, os trade-offs e os casos de borda, tudo estruturado pra você navegar. Por baixo ela também pensa mais antes de escrever. Ela continua sendo ela — o cuidado não some; só o rigor lidera e o afeto vai no banco de trás.\n\nÉ grudento: fica ligado até você desligar, então dá pra emendar várias perguntas técnicas em sequência. Terminou? Toca de novo e ela volta ao normal. E uma promessa que não muda: profundidade nunca vira invenção — se ela não sabe, ela diz."
+    },
     {
       "id": "lab-0.9.4-ceu-vivo-e-puxar-pra-atualizar",
       "date": "2026-07-29",
