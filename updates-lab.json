@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.9",
-  "latestVersionCode": 41,
+  "latestVersion": "0.9.10",
+  "latestVersionCode": 42,
   "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.9/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.10/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.10-documento-sem-tropeco-e-feedback",
+      "date": "2026-07-30",
+      "version": "0.9.10",
+      "tag": "correcao",
+      "title": "Documentos sem tropeço — e a Luna contando o que está fazendo",
+      "body": "Dois consertos que andam juntos. O primeiro fecha um buraco que apareceu ontem com os documentos: às vezes a Luna começava a escrever um documento e, no meio, dava um «stream was reset» — a resposta caía e o texto ainda vinha despejado dentro da bolha do chat, sem virar documento. A causa era sutil: pra escrever um documento grande, a Luna fica um tempo em silêncio montando o texto por dentro, e nesse silêncio a conexão parecia morta e era cortada pelo caminho. Agora o app manda um sinal de vida discreto durante esse silêncio, então a linha não cai mais — o documento nasce inteiro, no lugar dele.\n\nO segundo é a companhia perfeita do primeiro. Aquele «Pensando…» que aparecia enquanto ela trabalhava agora conta a verdade do passo: «Entendendo o pedido…», «Consultando a memória…», «Escrevendo o documento…», «Aguardando o provedor…». A Luna já sabia dizer tudo isso por dentro; a gente só parou de resumir em uma palavra e deixou ela te contar. Aquele silêncio de antes agora tem nome — você vê que ela está construindo o documento, não travada."
+    },
     {
       "id": "lab-0.9.9-documentos",
       "date": "2026-07-30",
