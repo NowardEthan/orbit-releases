@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.10",
-  "latestVersionCode": 42,
+  "latestVersion": "0.9.11",
+  "latestVersionCode": 43,
   "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.10/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.11/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.11-passos-e-documento-premium",
+      "date": "2026-07-30",
+      "version": "0.9.11",
+      "tag": "melhoria",
+      "title": "Os passos da Luna mais bem-acabados — e o documento com cara de documento",
+      "body": "Dois retoques que andam juntos. O primeiro é naquela tirinha de etiquetas que aparece embaixo enquanto a Luna trabalha em algo com vários passos. Ela vinha com dois defeitos: as etiquetas mostravam nome de máquina («concluir_passo») e, quando não cabiam todas, a última ficava cortada no meio — parecia bug. Agora cada etiqueta fala como gente («Traçou o plano», «Passo concluído», «Documento escrito»), e quando a fila é longa a borda direita desvanece suave, como quem diz «tem mais, é só rolar pro lado» — nada mais fica cepado ao meio.\n\nO segundo é a estante. Quando a Luna cria um documento, o leitor mostrava um texto meio cru: título e um bloco de texto, e olhe lá. Agora é feito pra ler com calma — os subtítulos têm hierarquia de verdade, com um respiro e um filete de cor abrindo cada seção; os destaques importantes viram um cartão com fundo suave, em vez de sumirem no meio do texto; e a leitura ganhou mais ar entre as linhas. Do outro lado, a própria Luna aprendeu a ESCREVER com forma — a dar seções, listas e destaques ao documento em vez de despejar um parágrafão. O chat continua igual, plano e direto; quem ficou premium foi a estante, que é onde o texto fica de pé pra durar."
+    },
     {
       "id": "lab-0.9.10-documento-sem-tropeco-e-feedback",
       "date": "2026-07-30",
