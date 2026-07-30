@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.7",
-  "latestVersionCode": 39,
-  "publishedAt": "2026-07-29",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.7/orbit.apk",
+  "latestVersion": "0.9.8",
+  "latestVersionCode": 40,
+  "publishedAt": "2026-07-30",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.8/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.8-tecnico-registro",
+      "date": "2026-07-30",
+      "version": "0.9.8",
+      "tag": "melhoria",
+      "title": "No Modo técnico, a Luna agora escreve como técnica de verdade",
+      "body": "O Modo técnico já deixava a Luna mais funda e organizada — mas tinha um deslize que estragava a impressão: ela às vezes abria a resposta no reflexo casual dela («olha só,», «claro!», «pois é,») e escorregava pra caixa-baixa, como numa conversa de bar. O conteúdo era técnico; a roupa, não.\n\nAgora, quando o Técnico está ligado, a resposta sai vestida a caráter: a saudação casual da abertura some e os inícios de frase ganham maiúscula, do jeito que um texto sério pede. É um ajuste de forma, feito na hora de mostrar na tela — o que fica guardado não muda, e a voz calorosa do modo Conversa continua exatamente como sempre foi. Só o Técnico ficou com a postura à altura do que ele já entregava por dentro."
+    },
     {
       "id": "lab-0.9.7-seletor-de-modo",
       "date": "2026-07-29",
