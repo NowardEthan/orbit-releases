@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.11",
-  "latestVersionCode": 43,
+  "latestVersion": "0.9.12",
+  "latestVersionCode": 44,
   "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.11/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.12/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.12-maos-a-obra",
+      "date": "2026-07-30",
+      "version": "0.9.12",
+      "tag": "novidade",
+      "title": "Mãos à obra: um modo pra quando você quer a Luna tocando a tarefa junto",
+      "body": "Aquele seletor de modo do lado do «+» — Conversa e Técnico — ganhou um terceiro: «Mãos à obra». É pra quando o papo vira trabalho de verdade.\n\nNo Conversa e no Técnico, a Luna só pega as ferramentas (planejar, criar e editar documento, marcar passos) quando o pedido soa como isso — ela adivinha pela palavra. Às vezes acerta, às vezes deixa passar e só narra o que faria em vez de fazer. No «Mãos à obra» não tem adivinhação: a cada turno ela já entra com as mãos livres pra planejar e mexer nos documentos. Peça «monta um plano e vai escrevendo» e ela toca, sem você ter que achar a palavra mágica.\n\nA troca é honesta: por pensar e agir mais, ele é mais lento e pesa um pouco mais que a conversa normal — por isso fica na sua mão, ligado só quando você quer. É escolha-uma no mesmo cartão: ligar o «Mãos à obra» desliga o Técnico, e voltar pro Conversa desliga os dois. Pro dia a dia, o Conversa continua sendo o lar."
+    },
     {
       "id": "lab-0.9.11-passos-e-documento-premium",
       "date": "2026-07-30",
