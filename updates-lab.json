@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.8",
-  "latestVersionCode": 40,
+  "latestVersion": "0.9.9",
+  "latestVersionCode": 41,
   "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.8/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.9/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.9-documentos",
+      "date": "2026-07-30",
+      "version": "0.9.9",
+      "tag": "novidade",
+      "title": "Documentos: o que vocês constroem na conversa agora fica de pé",
+      "body": "Às vezes o melhor de uma conversa com a Luna é um texto que nasce ali — um plano da semana, um rascunho, um resumo de algo que vocês destrincharam. O problema é que isso se diluía no fluxo do chat: rolava a conversa e sumia lá pra cima, sem um lugar pra voltar. Agora tem esse lugar.\n\nQuando o que vocês fazem vale guardar, a Luna cria um DOCUMENTO. Ele aparece como um cartão no meio da conversa, exatamente onde nasceu, e não se dissolve: role o quanto for, ele continua ali. Toque e abre um leitor bonito, com o texto formatado pra ler com calma. E não é só criar — a Luna também lê e REESCREVE o que já existe: peça «revisa aquele documento», «ajusta esse parágrafo», e ela audita o que está lá e devolve a versão nova, sem você ter que copiar e colar nada.\n\nE a mão também é sua: no leitor tem um «Editar» — abre o texto num campo e você mexe do seu jeito, salva, pronto. O documento é de vocês dois: ela escreve pela conversa, você ajusta com o dedo. É o primeiro capítulo disso; a estante vai crescer."
+    },
     {
       "id": "lab-0.9.8-tecnico-registro",
       "date": "2026-07-30",
