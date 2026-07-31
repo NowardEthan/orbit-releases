@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.27",
-  "latestVersionCode": 59,
+  "latestVersion": "0.10.0",
+  "latestVersionCode": 60,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.27/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.10.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.10.0-redesign-inicio",
+      "date": "2026-07-31",
+      "version": "0.10.0",
+      "tag": "novidade",
+      "title": "O visual 1.0 começou a nascer — pela tela de Início",
+      "body": "Este é o primeiro capítulo de um redesign grande: o app inteiro caminhando pro visual da versão 1.0, mais limpo e minimalista (na linha do Claude, mas com cara própria). Como é muita coisa, vamos fazer UMA tela por vez — então por enquanto só a moldura e o Início mudaram; as outras telas seguem no visual antigo até chegar a vez delas. Não estranhe a mistura, é obra em andamento de propósito.\n\nO que mudou agora, três coisas. Primeira, a navegação: saiu a barra de baixo (as quatro abas + o «+» no meio) e entrou uma GAVETA lateral, aquela que desliza da esquerda — toque no ☰ lá em cima, ou arraste da borda. Dentro dela ficam os destinos (Início, Conversas, Estante, Perfil, Ajustes), as suas conversas recentes a um toque, e a «Nova conversa» no rodapé. Sobra mais tela pro conteúdo e fica mais fácil de alcançar com o polegar.\n\nSegunda, a cor: o app largou o violeta e foi pra um grafite neutro, com um azul pastel entrando só nos detalhes que importam (o botão de nova conversa, o destino ativo). Menos cor gritando, mais calmo de olhar.\n\nTerceira, a letra: o app ganhou fontes de verdade, empacotadas nele. Os títulos e a identidade agora são na Bricolage Grotesque (um grotesco com personalidade), e o corpo, na Hanken Grotesk (bem legível). É o tipo de coisa que você sente sem saber nomear — de repente o app parece mais «acabado».\n\nOs próximos capítulos vão repaginar a tela de Conversas, o chat e o resto, um de cada vez. Me diz o que achou do começo."
+    },
     {
       "id": "lab-0.9.27-chat-clean",
       "date": "2026-07-31",
