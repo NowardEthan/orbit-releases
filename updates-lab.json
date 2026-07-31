@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.10.0",
-  "latestVersionCode": 60,
+  "latestVersion": "0.11.0",
+  "latestVersionCode": 61,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.10.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.11.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.11.0-inicio-repensada",
+      "date": "2026-07-31",
+      "version": "0.11.0",
+      "tag": "novidade",
+      "title": "A tela de Início foi repensada do zero — agora é o «agora»",
+      "body": "No capítulo passado o Início mudou de roupa (grafite, fontes novas, gaveta lateral). Agora ele mudou de IDEIA. É que, com a gaveta, o Início ficou repetindo o que já estava a um toque de distância: a lista de conversas recentes aparecia nas duas. Redundância. Então parei pra perguntar o que essa tela deveria SER, e a resposta ficou clara: a gaveta é o «pra onde ir» (os destinos e o seu histórico); o Início é o «agora».\n\nNa prática, três coisas. A Luna te recebe de verdade: em cima, um cartão dela com uma linha viva — a saudação da hora e o tempo lá fora, costurados numa fala só («Boa noite. Tá 14° e nublado por aí. Me conta como foi o dia.»). Toque nele pra continuar de onde parou, ou começar do zero. Embaixo dele, o tempo virou uma tira ENXUTA — emoji, temperatura, o lugar e a máxima/mínima numa linha só; toque pra abrir o detalhe completo (aquele com o céu vivo e os próximos dias) que continua inteiro. E lá embaixo, fixa, uma barra «Fala comigo…»: o caminho mais curto entre abrir o app e falar com a Luna.\n\nO que SAIU: os quadros de métrica e a lista de conversas repetida — ela vive na gaveta agora, é só puxar da borda. Menos vitrine, menos coisa gritando; a tela abre e já te convida a falar.\n\nUm aviso honesto: aquela tirinha de rotina/ofensiva que talvez você tenha visto num rascunho meu NÃO entrou — este app (o Lab) não tem o módulo de rotinas, então eu não ia inventar um número falso só pra encher a tela. Quando existir de verdade, ela aparece. Me diz o que achou do novo Início."
+    },
     {
       "id": "lab-0.10.0-redesign-inicio",
       "date": "2026-07-31",
