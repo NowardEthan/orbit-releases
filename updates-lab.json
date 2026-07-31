@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.15",
-  "latestVersionCode": 47,
+  "latestVersion": "0.9.16",
+  "latestVersionCode": 48,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.15/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.16/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.16-editor-live",
+      "date": "2026-07-31",
+      "version": "0.9.16",
+      "tag": "melhoria",
+      "title": "Agora você edita o artefato na própria tela — e o Markdown some da frente",
+      "body": "O capítulo de hoje é sobre EDITAR o artefato, e são três coisas de uma vez.\n\nPrimeiro: acabou a telinha de formulário. Antes, tocar em «Editar» te jogava numa tela à parte com duas caixas de texto emolduradas. Agora a edição acontece BEM ALI, na própria página do leitor — o título e o corpo viram editáveis no lugar onde já estavam, com a mesma letra, o mesmo tamanho. Você digita e vê mudar na hora. No topo aparece um «Concluir» pra salvar e sair; o voltar do aparelho também salva sozinho, então não tem como perder o que escreveu.\n\nSegundo, e é a graça: enquanto você edita, o Markdown se esconde. Aquele `##` na frente do título, o `>` da citação — eles somem da tela e a linha já aparece grande, como título de verdade. Quando o cursor pousa naquela linha, os símbolos voltam discretos pra você mexer; quando sai, somem de novo. É o jeito do Obsidian/Notion de editar: você vê o resultado, não o código. (Por enquanto vale pra títulos e citações — negrito e listas entram no próximo degrau se o toque agradar.)\n\nTerceiro, o acabamento: aquele menu de três pontinhos lá em cima deixou de ser o cardápio cru do Android. Virou um cartão arredondado, com borda fininha, ícones alinhados e o «Apagar» separado por um risquinho pra não se misturar com o resto.\n\nNada do que você já escreveu muda — o artefato continua o mesmo por baixo. Só ficou muito mais gostoso de escrever."
+    },
     {
       "id": "lab-0.9.15-artefato-tela-cheia",
       "date": "2026-07-31",
