@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.25",
-  "latestVersionCode": 57,
+  "latestVersion": "0.9.26",
+  "latestVersionCode": 58,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.25/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.26/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.26-estante-flutuante",
+      "date": "2026-07-31",
+      "version": "0.9.26",
+      "tag": "melhoria",
+      "title": "Os artefatos saíram do meio da conversa pra um canto só deles",
+      "body": "Até agora, cada artefato que a Luna criava virava um cartão solto no meio do papo — e quando ela fazia alguns, aquilo ia empilhando entre as suas mensagens e poluindo o fio. O artefato acabava disputando espaço com a conversa, que devia ser a protagonista.\n\nArrumei: os cartões saíram do meio das bolhas. No lugar deles, quando esta conversa tem algum artefato, aparece uma pilulinha flutuante no canto superior direito — «2 artefatos». Toca nela e abre a estante desta conversa: a lista do que a Luna criou aqui, do mais recente pro mais antigo, cada um com o título e um «criado/editado pela Luna há X». Toca num e abre o leitor de sempre (com editar, exportar, cânone, histórico — tudo no lugar).\n\nA ideia é simples: a conversa volta a ser só conversa, limpa, e os artefatos ficam a um toque de distância num lugar fixo em vez de espalhados pelo caminho. Nada se perdeu — só mudou de endereço, pra um endereço mais organizado."
+    },
     {
       "id": "lab-0.9.25-seletor-de-modos",
       "date": "2026-07-31",
