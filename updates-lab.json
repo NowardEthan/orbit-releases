@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.12",
-  "latestVersionCode": 44,
+  "latestVersion": "0.9.13",
+  "latestVersionCode": 45,
   "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.12/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.13/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.13-artefato-e-menu",
+      "date": "2026-07-30",
+      "version": "0.9.13",
+      "tag": "novidade",
+      "title": "Aquele «documento» que a Luna cria agora se chama Artefato — e ganhou um menu de ações",
+      "body": "Duas mudanças no que nasce da conversa. A primeira é de nome. O app já chamava de «documento/arquivo» os PDFs que VOCÊ anexa pra Luna ler — então usar a mesma palavra pro texto que ELA cria confundia todo mundo, você e a própria Luna na hora de escolher a ferramenta certa. Resolvido: o que a Luna escreve e guarda na estante agora se chama ARTEFATO. Fica claro que é coisa que nasce dela, não arquivo que você subiu. Peça «cria um artefato com…» ou «revisa aquele artefato» e ela sabe exatamente do que você fala — e «documento» ainda funciona, ninguém precisa reaprender nada.\n\nA segunda é o leitor, que virou ferramenta de verdade. Abra um artefato e no canto tem um «⋮» com as ações que faltavam, no capricho de um Notion: EXPORTAR (baixa no aparelho ou compartilha, em Markdown, texto ou HTML), COPIAR o texto todo num toque, RENOMEAR só o título sem abrir o editor inteiro, DUPLICAR pra partir de uma cópia, e APAGAR (com uma confirmação, que sumir é pra sempre). O «Editar» à mão continua onde estava. É o primeiro capítulo de deixar a estante com cara de estante — vem mais."
+    },
     {
       "id": "lab-0.9.12-maos-a-obra",
       "date": "2026-07-30",
