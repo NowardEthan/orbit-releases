@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.23",
-  "latestVersionCode": 55,
+  "latestVersion": "0.9.24",
+  "latestVersionCode": 56,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.23/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.24/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.24-faxina-de-contraste",
+      "date": "2026-07-31",
+      "version": "0.9.24",
+      "tag": "melhoria",
+      "title": "Uma faxina no visual: contraste no lugar de opacidade",
+      "body": "Esta é uma daquelas melhorias que você sente sem saber explicar — o app fica mais legível e mais firme, sem nenhuma função nova. Tinha um vício de estilo espalhado por vários cantos: um elemento aceso ganhava um fundo de accent bem apagadinho (tipo azul a 14%) com o texto/ícone no MESMO azul por cima. Azul em cima de azul-quase-invisível: baixo contraste, aquele ar de «interface de opacidade» que cansa a vista.\n\nA regra virou uma só, e vale pro app inteiro: contraste, nunca opacidade. Na prática isso virou dois gestos. (1) Coisa ACESA/ativa acende de verdade no degradê, com o conteúdo branco por cima — o chip de modo (Técnico / Mãos à obra) no teclado, as abas Galeria/Arquivo, o seletor «Alterações / Texto completo» no artefato, os selinhos de status da pesquisa. (2) Ladrilho de ícone fica NEUTRO (cinza-chumbo) e a cor mora no ícone — os ícones dos Ajustes, da tela de privacidade, do menu de ações. A cor salta porque está sobre o escuro, não afogada num banho da própria cor.\n\nDe quebra: o cartão de referência (quando você marca um trecho pra Luna) ganhou um trilho de acento sólido na lateral no lugar do fundo lavado, o card de modo selecionado agora se marca por uma borda de acento nítida + o ícone aceso, e a «zona de perigo» de apagar dados ficou com fundo sólido e a borda vermelha fazendo o aviso. Registrei o antigo jeitinho como proibido no código, pra ele não voltar sorrateiro.\n\nNada mudou de lugar nem de função — é só o mesmo app respirando com mais nitidez."
+    },
     {
       "id": "lab-0.9.23-tela-do-canone",
       "date": "2026-07-31",
