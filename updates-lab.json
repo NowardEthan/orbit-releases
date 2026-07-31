@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.19",
-  "latestVersionCode": 51,
+  "latestVersion": "0.9.20",
+  "latestVersionCode": 52,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.19/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.20/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.20-artefato-grande",
+      "date": "2026-07-31",
+      "version": "0.9.20",
+      "tag": "novidade",
+      "title": "A Luna agora folheia artefatos grandes em vez de se perder neles",
+      "body": "Num artefato pequeno — um plano, uma carta — a Luna sempre trabalhou bem: ela tem o texto inteiro na cabeça e mexe no ponto certo. Mas num artefato GRANDE (um texto longo, algo com vários capítulos), ela precisava «ler» tudo de uma vez toda vez que você pedia qualquer coisinha — e aí saturava, perdia o fio, e às vezes mudava o que não devia ou inventava. Esse capítulo conserta isso tratando o texto como um programador trata um projeto: você não abre os 500 arquivos de uma vez, você olha a árvore de pastas e abre só o que precisa.\n\nAgora a Luna ganhou dois gestos novos. O primeiro é olhar o ÍNDICE do artefato — só a lista de seções, com o tamanho de cada uma, sem carregar o corpo. Barato, cabe tudo na cabeça dela. O segundo é abrir UMA seção só — «me mostra o capítulo 3» — e trabalhar ali, sem arrastar o resto do texto junto.\n\nO que muda pra você, na prática: dá pra ter um artefato realmente longo e pedir «muda uma coisa no capítulo 4» sem medo de ela bagunçar o capítulo 1. Ela consulta o mapa, vai direto na seção, mexe naquele ponto (com a edição cirúrgica que você já conhece) e deixa o resto intacto. Quanto maior o texto, mais isso importa.\n\nÉ tudo por baixo do capô — você não precisa fazer nada diferente. Só vai notar a Luna mais firme e menos perdida quando o artefato cresce."
+    },
     {
       "id": "lab-0.9.19-marcar-trecho",
       "date": "2026-07-31",
