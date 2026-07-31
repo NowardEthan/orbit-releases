@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.21",
-  "latestVersionCode": 53,
+  "latestVersion": "0.9.22",
+  "latestVersionCode": 54,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.21/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.22/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.22-canone-do-artefato",
+      "date": "2026-07-31",
+      "version": "0.9.22",
+      "tag": "novidade",
+      "title": "A Luna agora guarda a «bíblia» do artefato pra não se contradizer",
+      "body": "Fecha o capítulo do «livro é uma codebase». Nos últimos releases a Luna aprendeu a folhear um artefato grande pelo índice, abrir só o capítulo certo e localizar um trecho — sem reler tudo. Mas sobrava um furo: como ela NÃO vê o livro inteiro (é assim que ela não se perde), num capítulo lá na frente ela podia «esquecer» que a personagem se chama Marina e chamá-la de Mariana.\n\nAgora ela tem uma bíblia da história. Pensa naquele arquivo de regras que todo projeto de código tem — o «isto é assim, não mude» que o programador relê sempre antes de mexer. A Luna passou a guardar os fatos FIXOS de cada artefato (nomes, idades, quem é irmão de quem, decisões do mundo) num canto à parte, e esses fatos ficam na frente dela toda vez que ela mexe naquele texto — mesmo num livro gigante onde ela só está vendo o índice.\n\nDois cuidados: a bíblia mora SEPARADA do corpo, então não vaza na exportação nem entra na contagem de palavras; e é curtinha, então cabe inteira no contexto dela de graça, sempre. Por enquanto é a própria Luna que cuida da bíblia sozinha (você a estabelece na conversa — «o protagonista se chama Pedro» — e ela anota); uma tela pra você ver e corrigir esses fatos com o dedo é o próximo degrau.\n\nÉ tudo por baixo do capô — você vai sentir só a Luna mais coerente quando o texto cresce."
+    },
     {
       "id": "lab-0.9.21-buscar-no-artefato",
       "date": "2026-07-31",
