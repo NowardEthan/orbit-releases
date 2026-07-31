@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.18",
-  "latestVersionCode": 50,
+  "latestVersion": "0.9.19",
+  "latestVersionCode": 51,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.18/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.19/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.19-marcar-trecho",
+      "date": "2026-07-31",
+      "version": "0.9.19",
+      "tag": "novidade",
+      "title": "Aponte o trecho pra Luna mudar — em vez de descrever, é só marcar",
+      "body": "Quando você queria que a Luna mexesse num pedaço específico de um artefato, tinha que descrever em palavras qual era — «muda aquele parágrafo sobre o orçamento» — e torcer pra ela achar o certo. Agora você aponta com o dedo.\n\nNo leitor do artefato, abra o «⋮» e toque em «Marcar trecho pra Luna». O texto vira selecionável: arraste sobre o pedaço que quer mudar — pode ser uma frase, meia frase ou um parágrafo inteiro. Toque em «Referenciar na conversa» e aquele trecho vira uma etiqueta no seu campo de mensagem. Aí é só dizer o que fazer — «deixa isso mais curto», «troca o tom aqui» — e mandar.\n\nO detalhe que faz funcionar: você seleciona sobre o texto de verdade por baixo, então o que a Luna recebe é uma cópia EXATA do trecho, com a pontuação e tudo. É isso que deixa ela trocar só aquele ponto e não reescrever o artefato inteiro em volta — o resto fica intacto, palavra por palavra. É a diferença entre pedir «refaz a página» e apontar «essa linha aqui»."
+    },
     {
       "id": "lab-0.9.18-historico-versoes",
       "date": "2026-07-31",
