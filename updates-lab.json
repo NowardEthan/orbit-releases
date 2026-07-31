@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.13",
-  "latestVersionCode": 45,
-  "publishedAt": "2026-07-30",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.13/orbit.apk",
+  "latestVersion": "0.9.14",
+  "latestVersionCode": 46,
+  "publishedAt": "2026-07-31",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.14/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.14-leitor-informa-e-checklist",
+      "date": "2026-07-31",
+      "version": "0.9.14",
+      "tag": "novidade",
+      "title": "O leitor de artefato agora informa — e os planos ganharam caixinhas pra marcar",
+      "body": "O leitor de artefato continua enchendo o corpo, um capítulo de cada vez. Três coisas novas.\n\nA primeira: ele te conta a história do artefato. Abaixo do título aparece uma linha discreta com o último gesto — «criado pela Luna ontem», «editado por você agora há pouco» — junto do tamanho da leitura: quantas palavras e quantos minutos leva pra ler. Sem abrir nada, você já sabe se aquilo é um bilhete de trinta segundos ou um textão pra sentar e ler.\n\nA segunda é a melhor: os planos agora se MARCAM. Quando o artefato é uma lista de tarefas, cada linha vira uma caixinha de verdade — toque e ela risca, some da sua frente, e fica salva assim (feche e reabra, continua marcada). A Luna aprendeu a escrever plano desse jeito: peça «monta um plano pra semana» e ela já entrega as caixinhas prontas pra você ir riscando conforme faz. É o artefato deixando de ser só leitura e virando algo que anda com você.\n\nE a terceira, miúda mas útil: todo bloco de código no leitor ganhou um «copiar» no canto — um toque leva o trecho inteiro, sem seleção na unha."
+    },
     {
       "id": "lab-0.9.13-artefato-e-menu",
       "date": "2026-07-30",
