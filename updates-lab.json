@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.17",
-  "latestVersionCode": 49,
+  "latestVersion": "0.9.18",
+  "latestVersionCode": 50,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.17/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.18/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.18-historico-versoes",
+      "date": "2026-07-31",
+      "version": "0.9.18",
+      "tag": "novidade",
+      "title": "Artefato agora tem histórico — e dá pra voltar no tempo",
+      "body": "Até agora, quando um artefato era reescrito — pela Luna numa revisão, ou por você no editor — o texto anterior era sobrescrito e sumia pra sempre. Se a Luna reescrevia por cima e você queria o que tinha antes, não tinha volta. Isso mudou.\n\nAgora, toda vez que o artefato é reescrito, uma FOTO do texto anterior fica guardada. No leitor do artefato, abra o menu «⋮» e toque em «Histórico de versões»: aparece o álbum de todas as versões, da mais recente pra mais antiga, com quem mexeu (a Luna ou você), quando, e uma prévia. Toque numa versão pra ler ela inteira.\n\nE o principal: dá pra RESTAURAR. Gostou mais de como estava antes? Abra a versão e toque em «Restaurar esta versão». O artefato volta a como estava naquela foto — e o melhor: o texto de agora vira automaticamente mais uma versão no histórico antes de voltar. Ou seja, nada se perde nunca; dá até pra restaurar de novo se mudar de ideia.\n\nDetalhe pra não encher de ruído: marcar um item de checklist ou só renomear o título não cria versão nova — só reescritas de verdade do texto entram no histórico."
+    },
     {
       "id": "lab-0.9.17-estante",
       "date": "2026-07-31",
