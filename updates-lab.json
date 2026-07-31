@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.22",
-  "latestVersionCode": 54,
+  "latestVersion": "0.9.23",
+  "latestVersionCode": 55,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.22/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.23/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.23-tela-do-canone",
+      "date": "2026-07-31",
+      "version": "0.9.23",
+      "tag": "novidade",
+      "title": "Agora VOCÊ vê e corrige a «bíblia» do artefato",
+      "body": "No release passado a Luna ganhou a bíblia da história — os fatos fixos de um artefato (nomes, idades, quem é quem) guardados num canto pra ela não se contradizer quando o texto cresce. Mas ela cuidava disso sozinha, por baixo do capô: você não tinha como ver o que ela anotou, nem consertar se ela escrevesse algo torto.\n\nAgora esse lado ficou visível. Abra um artefato, toque nos «⋮» e entre em «Cânone»: ali estão os fatos fixos, um por linha, e você edita com o dedo — adiciona, corrige, apaga. É o mesmo caderninho que a Luna lê sempre antes de mexer no texto (mesmo num livro grande onde ela só vê o índice), só que agora com a porta aberta pra você.\n\nDetalhe importante: a bíblia continua MORANDO à parte do corpo — não vaza na exportação nem entra na contagem de palavras. É metadado, não texto. Você escreve os fatos como quiser («Marina — arquiteta, 30 anos» numa linha, «Pedro é irmão da Marina» na outra) e pronto: da próxima vez que pedir uma mudança, a Luna já parte desses fatos.\n\nÉ o degrau que faltava pra fechar o capítulo do «livro é uma codebase»: a Luna folheia pelo índice, abre só o capítulo certo, localiza um trecho, mantém a bíblia — e agora você manda na bíblia junto com ela."
+    },
     {
       "id": "lab-0.9.22-canone-do-artefato",
       "date": "2026-07-31",
