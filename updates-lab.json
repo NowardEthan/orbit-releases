@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.14",
-  "latestVersionCode": 46,
+  "latestVersion": "0.9.15",
+  "latestVersionCode": 47,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.14/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.15/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.15-artefato-tela-cheia",
+      "date": "2026-07-31",
+      "version": "0.9.15",
+      "tag": "melhoria",
+      "title": "O leitor de artefato agora é tela cheia — e ficou bonito de propósito",
+      "body": "O artefato continua ganhando capítulo. Este é o do capricho: mexi na cara dele inteira.\n\nA mudança que se sente primeiro: o leitor virou TELA CHEIA. Antes ele subia numa folha que empurrava a conversa pra baixo e ficava meio pela metade; agora abre uma tela inteira, fixa, fundo escuro firme, com um cabeçalho no topo que não sai do lugar enquanto você rola. É pra ler de verdade — como abrir uma página no Obsidian ou no Notion, não espiar por uma frestinha. O botão de voltar do aparelho fecha a tela (e se você estiver editando, primeiro sai da edição).\n\nE o resto é acabamento, item por item. As caixinhas dos planos agora têm visual próprio: vazias são um quadradinho de contorno, e quando você marca elas se preenchem com o degradê da Luna e um ✓ branco por cima — dá gosto de riscar. As citações deixaram de ser aquele bloco meio apagado e viraram um cartão sólido com um trilho colorido na lateral. O título ganhou um filete em degradê embaixo, os botões do menu ficaram mais nítidos, e o cartão do artefato lá no chat agora tem um ícone que acende. Até os selinhos que aparecem enquanto a Luna escreve ou lê o artefato acendem agora, em vez de sumir num azul sobre azul.\n\nA regra que guiou tudo foi uma só: contraste em vez de coisa apagada. Nada de dado mudou — é o mesmo artefato de sempre, só que agora com a roupa certa."
+    },
     {
       "id": "lab-0.9.14-leitor-informa-e-checklist",
       "date": "2026-07-31",
