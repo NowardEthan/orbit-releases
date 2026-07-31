@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.24",
-  "latestVersionCode": 56,
+  "latestVersion": "0.9.25",
+  "latestVersionCode": 57,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.24/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.25/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.25-seletor-de-modos",
+      "date": "2026-07-31",
+      "version": "0.9.25",
+      "tag": "melhoria",
+      "title": "O seletor de modos ficou mais enxuto — e cada modo ganhou sua cor",
+      "body": "Aquele menu de «como a Luna responde» (o que abre no chip ao lado do teclado) estava ocupando tela demais pro que faz. Enxuguei: os cards ficaram mais baixos, o badge menor, e a explicação virou uma linha só e direta em vez de um parágrafo.\n\nA mudança que você vai sentir mais é a cor. Antes tudo acendia no mesmo azul — dava pra ler, mas todos os modos pareciam a mesma coisa. Agora cada modo tem a SUA cor, e o badge acende sempre nela: Conversa em violeta (a cor da Luna), Técnico em azul, Ação em verde. A ideia é você reconhecer o modo de relance pela cor, sem precisar ler — e memorizar por cor, que gruda mais fácil. O modo escolhido se marca pela borda e pelo selo na própria cor dele, não mais tudo em azul.\n\nDe quebra, um nome mais curto: «Mãos à obra» virou «Ação» — uma palavra só, do mesmo naipe de «Conversa» e «Técnico», mais rápida de bater o olho e lembrar. E o chip lá no teclado acende na cor do modo ligado (azul no Técnico, verde na Ação), então dá pra saber em que modo você está sem nem abrir o menu.\n\nÉ só o mesmo seletor, mais leve e mais fácil de ler num relance."
+    },
     {
       "id": "lab-0.9.24-faxina-de-contraste",
       "date": "2026-07-31",
