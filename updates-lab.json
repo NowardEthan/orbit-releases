@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.11.0",
-  "latestVersionCode": 61,
+  "latestVersion": "0.12.0",
+  "latestVersionCode": 62,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.11.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.12.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.12.0-chat-e-composer",
+      "date": "2026-07-31",
+      "version": "0.12.0",
+      "tag": "novidade",
+      "title": "O chat entrou no visual 1.0 — e o Início virou um composer de verdade",
+      "body": "Dois capítulos de uma vez. O grande é a TELA DE CHAT: até agora ela seguia no visual antigo (aquele fundo azulado, sua bolha num azul forte) enquanto o resto do app já tinha mudado. Agora ela entrou no visual 1.0 igual ao Início — fundo grafite calmo, o azul pastel só nos detalhes. A mudança que você sente na hora é a SUA bolha: ela largou o azul berrante e virou um cinza escuro discreto, ancorada à direita como sempre. A Luna continua solta à esquerda, texto de largura cheia, sem bolha (como no Claude). O topo, o campo de escrever, o botão de enviar, os estados de «tentar de novo» — tudo repintado no grafite+pastel. O botão de enviar agora acende no mesmo pastel do Início, com a setinha escura.\n\nO segundo é um conserto que você pediu no Início: aquela barra «Fala comigo…» era só um botão — tocava e abria o chat vazio. Agora ela é um CAMPO DE VERDADE. Você digita ali mesmo, na tela de Início, e ao tocar em enviar (ou no «enviar» do teclado) ela abre uma conversa NOVA já mandando a sua mensagem pra Luna. É o caminho mais curto entre abrir o app e já estar falando: pensou, digitou, mandou — a conversa nasce com o assunto já em curso. Se você tocar no enviar com o campo vazio, ele só abre um chat em branco, como antes.\n\nCom isso o grosso do redesign 1.0 está de pé: navegação (gaveta), Início, e agora o chat. O que ainda segue no visual antigo são telas mais fundas (Conversas, Perfil, Ajustes) e alguns cartões especiais dentro do chat (o dossiê de pesquisa, o raciocínio) — esses vêm depois, um de cada vez. Me diz como ficou o chat no seu olho."
+    },
     {
       "id": "lab-0.11.0-inicio-repensada",
       "date": "2026-07-31",
