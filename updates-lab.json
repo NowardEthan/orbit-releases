@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.16",
-  "latestVersionCode": 48,
+  "latestVersion": "0.9.17",
+  "latestVersionCode": 49,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.16/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.17/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.17-estante",
+      "date": "2026-07-31",
+      "version": "0.9.17",
+      "tag": "novidade",
+      "title": "A Estante: todos os seus artefatos num lugar só",
+      "body": "Até agora, um artefato só aparecia na conversa onde ele nasceu. Se você criou um plano semana passada e queria reabrir, tinha que caçar a conversa certa. Acabou.\n\nTem uma tela nova, «Meus artefatos», que junta TODOS eles — de qualquer conversa — numa lista só, com o mais mexido no topo. Em cima tem uma busca que filtra por título e por conteúdo enquanto você digita. Tocar num artefato abre o mesmo leitor de tela cheia de sempre, já com a edição na própria tela que a gente estreou no capítulo passado.\n\nPra chegar nela: aba «Conversas», e ali no cabeçalho, do lado do «Histórico com a Luna», tem um botãozinho «Artefatos». Ficou pertinho do histórico de propósito — o artefato é primo da conversa, nasce dela; o «+» segue reservado só pra criar coisa nova.\n\nNada do que você já escreveu muda de lugar por baixo. Só ficou fácil de reencontrar."
+    },
     {
       "id": "lab-0.9.16-editor-live",
       "date": "2026-07-31",
