@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.20",
-  "latestVersionCode": 52,
+  "latestVersion": "0.9.21",
+  "latestVersionCode": 53,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.20/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.21/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.21-buscar-no-artefato",
+      "date": "2026-07-31",
+      "version": "0.9.21",
+      "tag": "novidade",
+      "title": "A Luna agora acha uma coisa no artefato em vez de reler tudo",
+      "body": "No capítulo passado a Luna aprendeu a folhear um artefato grande pelo índice, capítulo por capítulo. Faltava uma peça: e quando você fala de uma coisa específica que pode estar em QUALQUER lugar do texto — «muda o que eu digo sobre o orçamento», «acha a parte do personagem X» — e nem você sabe em que seção está?\n\nAgora ela tem um «localizar», igual ao Ctrl+F. Ela procura o termo dentro do artefato e descobri onde ele aparece — o trecho à volta e em que seção está cada ocorrência — sem carregar o texto inteiro. Aí vai direto naquele ponto pra ler ou mudar.\n\nDois detalhes que fazem diferença: a busca ignora acento e maiúscula (procurar «heroi» acha «Herói»), e funciona até num texto corrido SEM capítulos — aquele paredão que o índice sozinho não dava conta. Com isso, mesmo num artefato bem grande, ela vai reto no que você mencionou, mexe só ali e deixa o resto intacto.\n\nÉ tudo por baixo do capô — você só vai sentir a Luna mais certeira quando pedir pra ela mexer em algo específico de um texto longo."
+    },
     {
       "id": "lab-0.9.20-artefato-grande",
       "date": "2026-07-31",
