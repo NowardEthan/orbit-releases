@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.12.0",
-  "latestVersionCode": 62,
+  "latestVersion": "0.13.0",
+  "latestVersionCode": 63,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.12.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.13.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.13.0-chat-minimalista",
+      "date": "2026-07-31",
+      "version": "0.13.0",
+      "tag": "melhoria",
+      "title": "O chat ficou mais minimalista — menos badge, um só acento",
+      "body": "Você reparou certo: o chat tinha badge demais espalhado pra todo lado, cada um numa cor. Fiz uma faxina pra chegar mais perto da calma do Claude, sem tirar nada do que ela faz.\n\nO seletor de modo (aquela pílula no rodapé do campo) parou de gritar. Antes ele vinha PREENCHIDO de cor — azul no Técnico, verde na Ação — puxando o olho o tempo todo. Agora é discreto: uma pílula-fantasma neutra, e o modo ligado só tinge o texto e o ícone de azul pastel. Você continua sabendo num relance qual modo está ativo, só que sem o berro.\n\nO modal que abre quando você toca nele foi repaginado no padrão novo (grafite + azul pastel). Ele usava três cores diferentes, uma por modo (violeta/azul/verde); agora é um acento só — o modo escolhido ACENDE em azul pastel (a moldura, o ladrilho do ícone, o selo), o resto fica quieto no grafite. Mais fácil de ler, combina com o resto do app.\n\nE o resto dos pequenos crachás do chat — a tira de ferramentas quando a Luna faz algo, o «raciocínio», a etiqueta de referência, a pílula da estante de artefatos — todos largaram o violeta antigo e entraram no mesmo grafite+pastel, cada um mais quieto. A regra foi a mesma do app inteiro: o que está ativo acende num azul só; o que está em repouso não compete pela sua atenção.\n\nOs cartões grandes de dentro do chat (o dossiê de pesquisa) ainda seguem no visual antigo — vêm depois. Me diz se agora o chat te parece mais calmo."
+    },
     {
       "id": "lab-0.12.0-chat-e-composer",
       "date": "2026-07-31",
