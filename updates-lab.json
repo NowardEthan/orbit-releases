@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.9.26",
-  "latestVersionCode": 58,
+  "latestVersion": "0.9.27",
+  "latestVersionCode": 59,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.26/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.9.27/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.9.27-chat-clean",
+      "date": "2026-07-31",
+      "version": "0.9.27",
+      "tag": "melhoria",
+      "title": "A tela de chat ficou mais clean e aconchegante",
+      "body": "A tela do papo estava pesada — muita coisa grande ocupando espaço à toa. Dei uma enxugada de três frentes pra ela respirar.\n\nO topo emagreceu. Saiu o avatar da Luna e a linha «Online · memória privada»; ficou só o título da conversa, num cabeçalho mais baixo. Menos moldura, mais conversa.\n\nO título parou de dançar. Antes ele se reescrevia sozinho de tantos em tantos turnos, e dava aquela sensação de «muda a cada mensagem minha» — o nome sumia debaixo do seu olho bem quando você usava ele de referência. Agora a Luna batiza a conversa uma vez, logo no comecinho, a partir do que vocês falaram, e o nome ASSENTA: fica firme dali em diante. Se o assunto virar outro de vez, isso é uma conversa nova.\n\nE a Luna saiu da bolha. A fala dela agora ocupa a largura toda, texto solto — como no Claude/ChatGPT — em vez de espremida num balão com rabinho. As suas mensagens continuam na bolha de sempre, ancoradas à direita: dá pra bater o olho e saber quem falou o quê, e o que a Luna escreve ganha espaço pra ler sem aperto.\n\nÉ o mesmo chat, só que mais leve e mais gostoso de ficar."
+    },
     {
       "id": "lab-0.9.26-estante-flutuante",
       "date": "2026-07-31",
