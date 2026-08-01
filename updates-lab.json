@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.13.0",
-  "latestVersionCode": 63,
+  "latestVersion": "0.14.0",
+  "latestVersionCode": 64,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.13.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.14.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.14.0-artefato-e-pesquisa",
+      "date": "2026-07-31",
+      "version": "0.14.0",
+      "tag": "melhoria",
+      "title": "Os cartões de artefato e de pesquisa entraram no visual novo",
+      "body": "Estes eram os últimos pedaços do chat que eu tinha deixado de propósito no visual antigo — os dois cartões «grandes» que aparecem no meio da conversa. Agora eles também largaram o violeta e entraram no grafite + azul pastel do resto do app.\n\nO ARTEFATO (aquele texto/plano que a Luna cria e fica com lugar próprio, em vez de se diluir no chat): o cartãozinho no fio da conversa, a estante que lista os artefatos, e o leitor de tela cheia — todos repintados. O ladrilho de identidade dele largou o degradê violeta chamativo; no fio da conversa virou um ladrilho neutro com o ícone em azul pastel, discreto, pra não competir com o papo. Já dentro do leitor (a tela dedicada só àquele artefato) a etiqueta «Artefato» e os botões de ação (Concluir, Restaurar, Referenciar) acendem no azul pastel com o texto escuro — porque ali eles SÃO a ação da tela. O histórico de versões, o diff de «o que mudou» (o verde de entrou / vermelho de saiu continua, que isso é sinal, não enfeite), o cânone, o exportar — tudo no tom novo.\n\nA PESQUISA PROFUNDA (o dossiê que nasce quando a Luna vai na web): ele tinha uma assinatura violeta de propósito, pra se distinguir do papo normal. Mas com o app inteiro no pastel, ser o único lugar violeta passou a parecer «esquecido», não «especial». Então troquei: o que faz o dossiê se destacar agora é ELE SER UM CARTÃO — a moldura, a lavagem no topo, a barra de progresso, a trilha das fases da pesquisa aparecendo ao vivo — e não uma cor exclusiva. O acento é o mesmo azul pastel do resto.\n\nCom isso o capítulo do chat fecha: não sobrou nada dele no visual antigo. Me diz se, com os cartões no tom certo, a conversa inteira te parece de uma peça só."
+    },
     {
       "id": "lab-0.13.0-chat-minimalista",
       "date": "2026-07-31",
