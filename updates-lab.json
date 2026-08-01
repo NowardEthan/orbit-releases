@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.17.0",
-  "latestVersionCode": 67,
+  "latestVersion": "0.18.0",
+  "latestVersionCode": 68,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.17.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.18.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.18.0-perfil-minimalista",
+      "date": "2026-07-31",
+      "version": "0.18.0",
+      "tag": "melhoria",
+      "title": "A tela de Perfil foi relida do zero — capa calma, abas nuas",
+      "body": "Depois dos Ajustes, foi a vez do Perfil passar pela mesma releitura minimalista — não só trocar a cor, mas repensar o layout inteiro pra ele respirar.\n\nO TOPO ficou mais quieto. A faixa de capa era mais alta e, quando você não tinha posto uma foto, aparecia um enfeite bege com uma curva que não combinava com o resto do app; agora, sem foto, a capa é só um grafite discreto, mais baixa. A sua foto de perfil tinha um anel branco brilhante em volta que puxava o olho; virou um recorte escuro, no tom do fundo, que separa a foto sem gritar. E tinha um triângulozinho azul de enfeite grudado na foto — sumiu. A engrenagem de editar virou um botão escuro discreto no canto.\n\nSeu NOME agora aparece na fonte Bricolage, a mesma dos títulos do app — dá identidade sem precisar de cor. E eu tirei uma redundância: antes havia DOIS botões azuis grandes de «conversar» (um na identidade, outro na aba da Luna) e a contagem de conversas aparecia duas vezes. Agora é um botão só lá em cima, e a aba da Luna foca em CONTINUAR de onde você parou.\n\nAs ABAS (Luna / Atividade / Conquistas) largaram as molduras: cada uma era um cartão com borda; viraram blocos limpos no fundo, separados por um fio fininho e ar — igual ficou nos Ajustes. A Atividade parou de repetir os números que já estão no topo e passou a mostrar só as conversas recentes. O modo de editar o perfil (trocar foto/capa, nome, @, bio) continua igual, com os campos de sempre. Me diz se, batendo o olho, o Perfil agora te parece leve como o resto."
+    },
     {
       "id": "lab-0.17.0-ajustes-minimalista",
       "date": "2026-07-31",
