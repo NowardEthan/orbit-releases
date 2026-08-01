@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.14.0",
-  "latestVersionCode": 64,
+  "latestVersion": "0.15.0",
+  "latestVersionCode": 65,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.14.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.15.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.15.0-conversas-nua",
+      "date": "2026-07-31",
+      "version": "0.15.0",
+      "tag": "melhoria",
+      "title": "A lista de Conversas ficou nua — só o essencial, muito ar",
+      "body": "A tela de Conversas era a próxima da fila do redesign 1.0, e ela estava «cheia»: cada conversa vinha num cartão com borda, um ladrilho de ícone, e duas linhas de prévia do assunto. Bonito, mas pesado — cansava o olho e enterrava o que importa, que é achar a conversa certa rápido.\n\nAgora ela é uma lista NUA, no espírito do Claude: cada conversa é só o TÍTULO e a HORA, numa linha só, com bastante espaço em volta. Sumiram o cartão, a borda, o ícone e a prévia. Sobrou o que você de fato lê pra se localizar. Os agrupamentos por dia («Hoje», «Ontem»…) continuam ali no topo de cada bloco, guiando sem atrapalhar.\n\nTirei também o enfeite que marcava a conversa mais recente (aqueles arquinhos, a barrinha azul na lateral e o cantinho) — era decoração que brigava com a calma da lista. Selecionar continua igual: segura pra marcar, e a linha marcada ganha uma faixa grafite discreta com um check azul; a barra de exportar/apagar aparece embaixo. O botão de apagar segue vermelho de propósito — vermelho ali é aviso de ação que apaga, não enfeite.\n\nDe quebra, o modal de escolher o modo da Luna (Conversa / Técnico / Ação) ficou mais enxuto — linhas mais justas, cabe melhor sem rolar. Me diz se a lista assim, mais limpa, fica mais fácil de bater o olho e achar."
+    },
     {
       "id": "lab-0.14.0-artefato-e-pesquisa",
       "date": "2026-07-31",
