@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.15.0",
-  "latestVersionCode": 65,
+  "latestVersion": "0.16.0",
+  "latestVersionCode": 66,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.15.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.16.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.16.0-telas-fundas",
+      "date": "2026-07-31",
+      "version": "0.16.0",
+      "tag": "melhoria",
+      "title": "As últimas telas no visual antigo entraram no 1.0 — Estante, Perfil e Ajustes",
+      "body": "Este capítulo fecha a virada de cor do redesign 1.0: as telas mais «fundas» do app, aquelas que você abre menos e que por isso eu tinha deixado de propósito no visual antigo (o violeta), finalmente entraram no grafite + azul pastel do resto. Agora não sobra mais nenhum canto no tom velho.\n\nSão cinco de uma vez. A ESTANTE (a tela «Meus artefatos», com todos eles de todas as conversas + a busca): o fundo, o cabeçalho, o campo de busca e os cartões foram repintados; o ladrilho de ícone de cada artefato largou o degradê violeta e virou um ladrilho neutro com o ícone em azul pastel, discreto. O PERFIL e os AJUSTES: fundos, cartões, textos e ícones no tom novo; onde havia um botão aceso em azul, o texto/ícone por cima ficou escuro (a regra de sempre — pastel pede letra escura, nunca branca, senão some). E as duas telas que moram dentro dos Ajustes — PRIVACIDADE E DADOS e os documentos de Política/Termos — também.\n\nDuas coisas ficaram de propósito: o vermelho continua vermelho onde é aviso (Sair, Apagar dados/conta, a «zona de perigo») — isso é sinal, não enfeite; e os cartões de conta com fundo claro seguem claros, que ali o contraste é o oposto (letra escura no claro). Nada mudou de função nem de lugar — é só a cor entrando no lugar certo. Com isso o redesign 1.0 fica com o app INTEIRO no visual novo; o que vem depois é afinar tela por tela, não mais «traduzir do violeta». Me diz se, batendo o olho, o app agora te parece de uma peça só."
+    },
     {
       "id": "lab-0.15.0-conversas-nua",
       "date": "2026-07-31",
