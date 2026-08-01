@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.21.2",
-  "latestVersionCode": 74,
+  "latestVersion": "0.21.3",
+  "latestVersionCode": 75,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.21.3-badge-conta-so-o-novo",
+      "date": "2026-08-01",
+      "version": "0.21.3",
+      "tag": "correcao",
+      "title": "O contador do sino parou de mostrar tudo de novo a cada atualização",
+      "body": "Você reparou certo: a cada atualização, a bolinha numerada do sino voltava a marcar um monte de notificações, como se nunca tivesse salvado que você já as tinha visto.\n\nO \"já vi\" na verdade SEMPRE foi salvo — o que estava errado era a conta. Quando saía um release novo, o número somava o histórico INTEIRO de novidades (dezenas), em vez de só as que entraram desde a última vez que você abriu a tela.\n\nAgora o número conta certo: só as novidades mais novas que a última que você viu. Abriu a tela de Novidades, zerou; saiu um release novo, marca 1; e por aí vai. Nada de recomeçar do zero a cada atualização."
+    },
     {
       "id": "lab-0.21.2-tabela-com-scroll",
       "date": "2026-08-01",
