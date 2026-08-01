@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.19.0",
-  "latestVersionCode": 69,
+  "latestVersion": "0.20.0",
+  "latestVersionCode": 70,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.19.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.20.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.20.0-cabecalhos-limpos",
+      "date": "2026-08-01",
+      "version": "0.20.0",
+      "tag": "melhoria",
+      "title": "Cabeçalhos limpos — e os passos da Luna viraram uma linha do tempo recolhível",
+      "body": "Um capítulo de faxina nos cabeçalhos, no espírito minimalista que a gente vem perseguindo, mais um retoque no chat que você pediu.\n\nOS BOTÕES DE ÍCONE largaram a moldura. Aquele círculo com borda em volta de cada botãozinho de topo (voltar, buscar, os três-pontinhos, a engrenagem, o sino, o menu ☰) estava exagerado — parecia botão de mais. Agora é só o glifo sobre o grafite, sem anel nem fundo, um pouco menor. Vale no app inteiro, de um jeito só: criei um botão de ícone único e troquei todas as telas por ele, pra falarem a mesma língua. De quebra, as BARRAS DE CIMA ficaram mais baixas e compactas.\n\nO SINO DE NOVIDADES virou morador fixo. Antes ele só existia no Início; agora fica na barra de cima de TODAS as abas (menos no chat, que tem cabeçalho próprio) — a bolinha azul acende quando tem novidade e some quando você abre. E TIREI A LOGO dos cabeçalhos: onde tinha o símbolo do Orbit ao lado do título (Conversas, Ajustes, Perfil, Novidades…), ficou só o texto — mais elegante, menos enfeite.\n\nNO CHAT, os selinhos de ferramenta que ficavam soltos sobre a bolha da Luna (aqueles «Traçou o plano», «Artefato escrito») viraram uma LINHA DO TEMPO recolhível, igual ao «Raciocínio». Fechada, é uma linha só e limpa — a ação em curso enquanto ela trabalha, ou «3 passos» quando terminou. Toque e ela abre a lista dos passos, um embaixo do outro, numa caixa com o fio azul na lateral. Nada de badge espalhado; o que ela fez fica guardado, a um toque, sem poluir o papo. Me diz se agora os topos te parecem leves de bater o olho."
+    },
     {
       "id": "lab-0.19.0-novidades-minimalista",
       "date": "2026-08-01",
