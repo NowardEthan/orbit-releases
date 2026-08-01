@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.21.1",
-  "latestVersionCode": 73,
+  "latestVersion": "0.21.2",
+  "latestVersionCode": 74,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.21.2-tabela-com-scroll",
+      "date": "2026-08-01",
+      "version": "0.21.2",
+      "tag": "melhoria",
+      "title": "Tabelas no artefato agora rolam pro lado em vez de crescer pra baixo",
+      "body": "Ajuste na tabela que estreou no release passado. Antes as colunas dividiam a largura da tela em partes iguais — então uma célula com texto comprido quebrava em várias linhas e a tabela ficava altíssima, esticada pra baixo.\n\nAgora cada coluna tem a largura do seu conteúdo e a tabela ROLA na horizontal: arraste pro lado pra ver as colunas que não cabem na tela, como numa planilha. As linhas seguem alinhadas, e só uma célula muito longa quebra (a partir de um teto), pra uma coluna não virar um paredão. Fica mais baixa, mais fácil de ler."
+    },
     {
       "id": "lab-0.21.1-historico-e-tabelas",
       "date": "2026-08-01",
