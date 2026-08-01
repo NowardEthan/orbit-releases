@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.18.0",
-  "latestVersionCode": 68,
-  "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.18.0/orbit.apk",
+  "latestVersion": "0.19.0",
+  "latestVersionCode": 69,
+  "publishedAt": "2026-08-01",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.19.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.19.0-novidades-minimalista",
+      "date": "2026-08-01",
+      "version": "0.19.0",
+      "tag": "melhoria",
+      "title": "Esta própria tela — Novidades — passou pela releitura minimalista",
+      "body": "Faltava justamente a tela que você está lendo agora. Ela era a mais «cheia» do app inteiro, e por isso destoava depois que Conversas, Perfil e Ajustes ficaram leves — então dei nela a mesma faxina.\n\nO FUNDO tinha dois borrões de luz coloridos (um azul, um violeta) flutuando atrás de tudo; sumiram — agora é o mesmo grafite limpo do resto. Cada VERSÃO era um cartão com borda, e a versão atual ainda ganhava uma moldura azul acesa em volta; larguei as molduras — agora cada versão é um bloco direto no fundo, separado do seguinte por um fio bem fino. A versão de agora se distingue sem gritar: uma bolinha azul e o selo «Agora», só isso.\n\nAs ETIQUETAS de cada item (Novo / Melhoria / Correção) eram pílulas coloridas preenchidas, grandes — aquele «badge demais, cada um de uma cor» que te incomodava no chat. Viraram um rótulo miúdo, em maiúsculas, na cor da categoria: a cor continua ali dizendo o tipo da mudança (verde = novo, azul = melhoria, dourado = correção), mas discreta, sem o retângulo pesado em volta. O ponto colorido que mudava de cor a cada versão (puro enfeite) também saiu.\n\nLá em cima, as abas «Atualizações / Notificações» deixaram de ser aquele seletor preenchido e viraram abas com um risquinho azul embaixo da ativa — igual às abas do Perfil, pra falar a mesma língua no app todo. E o título «Novidades» agora vem na fonte Bricolage, como os outros títulos. Recolher/expandir cada versão continua igual. Me diz se agora ela combina com o resto."
+    },
     {
       "id": "lab-0.18.0-perfil-minimalista",
       "date": "2026-07-31",
