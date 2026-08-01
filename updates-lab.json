@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.21.0",
-  "latestVersionCode": 72,
+  "latestVersion": "0.21.1",
+  "latestVersionCode": 73,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.21.1-historico-e-tabelas",
+      "date": "2026-08-01",
+      "version": "0.21.1",
+      "tag": "correcao",
+      "title": "O histórico de versões voltou a aparecer — e tabelas agora renderizam no artefato",
+      "body": "Dois consertos no leitor de artefatos.\n\nHISTÓRICO/DIFF DE VOLTA: no release passado o leitor de artefato passou a abrir em tela cheia (numa janela própria, pra tirar o vão preto do topo). Só que o «Histórico de versões» ficou desenhando ATRÁS dessa janela — você tocava no ⋮ › Histórico e nada aparecia, e o diff (o verde de entrou / vermelho de saiu) tinha sumido. Agora o histórico, a pré-visualização de cada versão e o Cânone abrem POR CIMA do leitor, como deviam. O código do diff nunca quebrou — ele só estava escondido embaixo.\n\nTABELAS RENDERIZAM: quando a Luna escrevia uma tabela num artefato (aquelas de | coluna | coluna |), o leitor mostrava o texto cru, com as barrinhas à mostra, em vez de uma tabela de verdade. Agora ele desenha a tabela: cabeçalho destacado, linhas e colunas separadas por fios finos, no visual grafite do resto. Negrito, itálico e links continuam funcionando dentro das células."
+    },
     {
       "id": "lab-0.21.0-leitor-artefatos-e-notificacoes",
       "date": "2026-08-01",
