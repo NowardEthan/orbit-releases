@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.20.1",
-  "latestVersionCode": 71,
+  "latestVersion": "0.21.0",
+  "latestVersionCode": 72,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.20.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.21.0-leitor-artefatos-e-notificacoes",
+      "date": "2026-08-01",
+      "version": "0.21.0",
+      "tag": "melhoria",
+      "title": "Leitor de artefatos minimalista, sem vão de topo e notificações no sino",
+      "body": "Nesta atualização reunimos várias afinações do leitor de artefatos, estante e barra superior.\n\nLEITOR DE ARTEFATOS EM TELA CHEIA: O leitor de artefatos agora abre cobrindo a tela inteira sem vão preto no topo e sem a barra dupla da shell. Os botões de ação e a tag do artefato foram adaptados para o design minimalista grafite com fio-de-cabelo e acentos em azul pastel. Além disso, removemos a duplicação do título no início do texto.\n\nSINO DE NOTIFICAÇÕES: O ícone do sino na barra superior recebeu um indicador numérico redondo (badge) para avisar quando há novas atualizações disponíveis.\n\nLINHA DO TEMPO DA LUNA: Os passos de ferramentas da Luna foram limpos e formatados com resumos em português, ocultando trechos brutos de código."
+    },
     {
       "id": "lab-0.20.1-titulos-no-topo",
       "date": "2026-08-01",
