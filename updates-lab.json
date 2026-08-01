@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.16.0",
-  "latestVersionCode": 66,
+  "latestVersion": "0.17.0",
+  "latestVersionCode": 67,
   "publishedAt": "2026-07-31",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.16.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.17.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.17.0-ajustes-minimalista",
+      "date": "2026-07-31",
+      "version": "0.17.0",
+      "tag": "melhoria",
+      "title": "A tela de Ajustes foi relida do zero — minimalista de verdade",
+      "body": "No release passado eu tinha só trocado a COR dos Ajustes (do violeta pro grafite), mas o layout continuava o antigo: cada seção era um cartão com borda, cada linha tinha um ladrilho de ícone colorido, e por cima ainda um triângulo azul de enfeite no canto. Muita moldura, muita caixinha dentro de caixinha — o oposto da calma que a gente está perseguindo. Agora eu reli a tela inteira pra ela ficar minimalista de verdade, no espírito do Claude.\n\nO que mudou, na prática. Sumiram as MOLDURAS: as seções não são mais cartões emoldurados — agora é um rótulo miúdo (PREFERÊNCIAS, SOBRE…) e as opções logo abaixo, direto no fundo, separadas por um fio bem fininho e bastante ar entre os grupos. Sumiram os LADRILHOS: cada opção tinha um quadradinho colorido com o ícone dentro; virou um ícone pequeno e discreto, de uma cor só. O azul pastel agora pinga só em dois pontos que merecem — o escudo da privacidade e o «Instalar» quando tem atualização. O resto fica quieto.\n\nA sua CONTA lá em cima largou o retângulo claro que puxava todo o olhar; virou uma linha limpa — sua foto, seu nome e a setinha — no mesmo fundo do resto. E o «Sair da conta», que era um botão emoldurado de vermelho lá embaixo, virou só uma linha de texto vermelha, discreta: continua vermelho porque é ação séria, mas sem gritar. Nada mudou de função nem de lugar — é a mesma tela, só que respirando. Me diz se agora ela te parece leve de bater o olho."
+    },
     {
       "id": "lab-0.16.0-telas-fundas",
       "date": "2026-07-31",
