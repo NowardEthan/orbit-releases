@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.20.0",
-  "latestVersionCode": 70,
+  "latestVersion": "0.20.1",
+  "latestVersionCode": 71,
   "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.20.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.20.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.20.1-titulos-no-topo",
+      "date": "2026-08-01",
+      "version": "0.20.1",
+      "tag": "correcao",
+      "title": "Os títulos das abas subiram — menos vão desperdiçado no topo",
+      "body": "Você reparou certo: em quase toda aba, o título e o conteúdo começavam bem abaixo da barra de cima (o ☰ e o sino), deixando um buraco grande de espaço à toa ali no topo. Era um respiro exagerado que empurrava tudo pra baixo sem motivo.\n\nPuxei o conteúdo pra cima em Conversas e Ajustes (o vão de topo caiu de 24 pra 6). Agora o título assenta logo abaixo da barra, sem aquele salto. Início e Perfil já estavam justos. É só isso — um acerto de respiro, nada de função mudou."
+    },
     {
       "id": "lab-0.20.0-cabecalhos-limpos",
       "date": "2026-08-01",
