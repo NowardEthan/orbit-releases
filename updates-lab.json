@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.23.0",
-  "latestVersionCode": 77,
+  "latestVersion": "0.24.0",
+  "latestVersionCode": 78,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.23.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.24.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.24.0-luna-edita-imagens",
+      "date": "2026-08-02",
+      "version": "0.24.0",
+      "tag": "melhoria",
+      "title": "A Luna agora EDITA a imagem — e não quebra mais o personagem",
+      "body": "Continuação direta do release passado (a Luna desenhando). Três coisas, todas nascidas do que você testou e reclamou.\n\nEDITAR EM VEZ DE REFAZER: antes, se você pedisse «adiciona um sachê de chá nessa xícara», ela desenhava uma xícara NOVA, diferente. Agora ela tem uma segunda mão: pega a última imagem que fez naquela conversa e mexe SÓ no que você pediu, preservando o resto — mesma composição, mesmas cores, mesmo enquadramento. Peça «tira o fundo», «muda a cor pra azul», «põe óculos nele», «deixa igual mas de noite» e ela ajusta a MESMA imagem. (Testei com uma foto de gato + «põe um chapeuzinho vermelho, mantém o resto»: voltou o mesmo gato, só com o chapéu.)\n\nELA PAROU DE «SE DENUNCIAR»: no teste ela às vezes dizia coisas como «desenhar mesmo eu não desenho, mas posso pintar com palavras» — mesmo tendo gerado uma imagem de verdade ali do lado. Corrigi a cabeça dela: a imagem é real, está no cartão, ela desenhou. Agora ela reage à imagem, curtinho, sem negar o que fez nem descrever a cena inteira em texto.\n\nO QUADRADINHO DE «DESENHANDO» (o que você pediu): enquanto ela desenha ou edita, aparece agora um cartão quadrado no lugar onde a imagem vai ficar — com a cara do Orbit: uma luazinha que pulsa e uma faísca dourada orbitando ao redor, e o aviso «Desenhando a imagem…» / «Ajustando a imagem…». Quando fica pronta, a imagem real toma o lugar. Estilo daquele placeholder do ChatGPT, mas nosso.\n\nComo sempre: atualiza pelo banner na Início (canal lab). Me conta se a edição segura bem a imagem base — é a parte nova mais importante."
+    },
     {
       "id": "lab-0.23.0-luna-desenha-imagens",
       "date": "2026-08-02",
