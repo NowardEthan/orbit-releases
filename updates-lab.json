@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.21.3",
-  "latestVersionCode": 75,
-  "publishedAt": "2026-08-01",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.21.3/orbit.apk",
+  "latestVersion": "0.22.0",
+  "latestVersionCode": 76,
+  "publishedAt": "2026-08-02",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.22.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.22.0-financas-continuo",
+      "date": "2026-08-02",
+      "version": "0.22.0",
+      "tag": "correcao",
+      "title": "Finanças contínuo — o painel deixa de «zerar» ao virar o mês",
+      "body": "Capítulo do módulo financeiro: o Extrato e o painel agora acompanham o período em que você TEM movimento, em vez de ficar presos no mês do calendário.\n\nPAINEL QUE NÃO ZERA: quando a gente virava agosto e todos os lançamentos estavam em julho, o resumo pintava R$ 0 — parecia que a Luna «não tinha registrado». Agora o painel aponta sozinho pro mês com movimento (e, se ainda assim vier vazio, resume os últimos 30 dias). Os números voltam a bater com o que está no Extrato.\n\nEXTRATO CONTÍNUO: dá pra navegar entre períodos sem aquela sensação de lista morta no mês novo. Empty state e navegação foram afinados pra isso.\n\nCHAT + FIRESTORE: o caminho do chat de Finanças com a Luna ficou mais estável (mesma conta, mesmos dados no Extrato). Do lado do servidor, a Luna já enxerga a estante inteira e registra valores em real brasileiro com data no fuso de São Paulo — isso já está no Railway; este APK é a metade do Lab.\n\nAtualiza pelo banner na Início (canal lab). Se ainda tiver a build antiga sem o sync do painel, é exatamente o que este release corrige."
+    },
     {
       "id": "lab-0.21.3-badge-conta-so-o-novo",
       "date": "2026-08-01",
