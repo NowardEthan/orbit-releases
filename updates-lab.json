@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.22.0",
-  "latestVersionCode": 76,
+  "latestVersion": "0.23.0",
+  "latestVersionCode": 77,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.22.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.23.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.23.0-luna-desenha-imagens",
+      "date": "2026-08-02",
+      "version": "0.23.0",
+      "tag": "novidade",
+      "title": "A Luna agora desenha imagens",
+      "body": "Capítulo novo de verdade: a Luna deixou de só falar e passou a DESENHAR. Peça no chat — «desenha um gato astronauta», «me faz uma ilustração de uma casa na árvore ao pôr do sol», «cria uma capa pra minha playlist» — e ela gera a imagem e mostra ali mesmo, num cartão do lado dela.\n\nCOMO FUNCIONA: você pede em palavras, ela entende que é pra desenhar (e não pra olhar uma foto sua), manda o pedido pro modelo de imagem e devolve o resultado no papo. Enquanto ela «pinta» aparece um selinho de que está desenhando; leva alguns segundos. Cada imagem vem com uma etiqueta «Desenhada pela Luna» e a descrição que gerou ela, pra você lembrar do que pediu.\n\nO QUE DÁ PRA FAZER com a imagem: tocar nela abre em tela cheia, com pinça pra dar zoom (igual às fotos do chat). E logo abaixo tem dois botões — SALVAR, que baixa pra sua galeria (numa pasta «Orbit» dentro de Fotos), e COMPARTILHAR, que abre o menu do Android pra mandar pra onde quiser (WhatsApp, salvar em outro app, etc.). A imagem também fica guardada na conversa: fecha e reabre o papo, ela continua lá.\n\nUM AVISO HONESTO: isto é o Lab, então é pra experimentar e me dizer o que achou. A imagem nasce num servidor e volta pro chat — se a internet estiver ruim ela pode demorar ou falhar, e às vezes o modelo entende o pedido de um jeito diferente do que você imaginou (é da natureza da coisa; refine o pedido e tente de novo). Por enquanto é uma imagem por pedido. Me conta o que você mandou ela desenhar."
+    },
     {
       "id": "lab-0.22.0-financas-continuo",
       "date": "2026-08-02",
