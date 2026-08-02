@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.26.0",
-  "latestVersionCode": 80,
+  "latestVersion": "0.26.1",
+  "latestVersionCode": 81,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.26.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.26.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.26.1-placeholder-geometrico",
+      "date": "2026-08-02",
+      "version": "0.26.1",
+      "tag": "ajuste",
+      "title": "Geração de imagem: novo carregador abstrato geométrico",
+      "body": "Novo indicador procedural durante a geração e edição de imagem, com anéis geométricos, órbitas e pontos pulsantes em azul pastel e grafite, além do assistente de finanças aprimorado."
+    },
     {
       "id": "lab-0.26.0-imagens-placeholder-estilo-base",
       "date": "2026-08-02",
