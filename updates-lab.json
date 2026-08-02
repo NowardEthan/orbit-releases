@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.24.0",
-  "latestVersionCode": 78,
+  "latestVersion": "0.25.0",
+  "latestVersionCode": 79,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.24.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.25.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.25.0-puxar-pra-referenciar",
+      "date": "2026-08-02",
+      "version": "0.25.0",
+      "tag": "novidade",
+      "title": "Puxe a mensagem pro lado pra referenciar — e o «Reenviar» parou de bagunçar a memória",
+      "body": "Três coisas nascidas do que você pediu, todas sobre mexer com mensagens que já estão no papo.\n\nPUXAR PRA REFERENCIAR (estilo WhatsApp): agora dá pra arrastar qualquer bolha pra a direita pra referenciá-la no campo de escrever — sem abrir menu nenhum. Enquanto você puxa, um ícone de resposta acende atrás dela; passou do ponto, dá um tec de vibração e você solta: aquela mensagem vira a referência da sua próxima pergunta. Funciona pra TEXTO (seu ou da Luna) e pra IMAGEM — uma foto que você anexou OU uma imagem que a própria Luna desenhou. No caso da imagem, é o jeito de dizer «se baseia NESTA aqui»: puxa a imagem e pede «deixa mais escura», «e se fosse de dia?», que ela entende que é sobre aquela. A rolagem da conversa continua igual — o gesto só pega arrasto pro lado, então você sobe e desce o papo normalmente.\n\nO «REENVIAR» FICOU LIMPO (o conserto que você pediu): quando você reenviava uma mensagem, ela CONTINUAVA na memória da Luna — e ela às vezes respondia como se você tivesse mandado duas vezes («isso você já tinha me falado»), virava uma bagunça. O problema era invisível: o «apagar» do que vinha depois era só de fachada, e a memória de curto prazo dela segurava a mensagem antiga. Agora, ao reenviar, o app reescreve a memória da conversa com a versão certa (tudo até ali, nada depois) — a Luna vê a mensagem UMA vez só. Vale também pro «tentar de novo».\n\nE UM NOME MAIS CURTO: a opção «Reenviar a partir daqui» virou só «Reenviar». O aviso de que apaga o que vem depois continua ali embaixo, porque é o que ela faz mesmo.\n\nAtualiza pelo banner na Início (canal lab). Me conta se puxar a bolha pega de primeira no seu dedo — e se a Luna parou de «lembrar demais» depois que você reenvia."
+    },
     {
       "id": "lab-0.24.0-luna-edita-imagens",
       "date": "2026-08-02",
