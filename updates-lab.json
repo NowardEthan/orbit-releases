@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.25.0",
-  "latestVersionCode": 79,
+  "latestVersion": "0.26.0",
+  "latestVersionCode": 80,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.25.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.26.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.26.0-imagens-placeholder-estilo-base",
+      "date": "2026-08-02",
+      "version": "0.26.0",
+      "tag": "melhoria",
+      "title": "Imagens: placeholder vivo, estilo do anexo e editar a arte que você apontou",
+      "body": "Três afinações na mão que desenha — todas nascidas do que você testou.\n\nPLACEHOLDER ABSTRATO: enquanto ela desenha, o cartão-fantasma deixou o planetinha orbitando e virou um campo de névoa procedural (grafite + azul pastel), mais perto da vibe do ChatGPT e ainda com cara da Luna.\n\nESTILO A PARTIR DO ANEXO: agora dá pra mandar uma foto/arte SUA e pedir pra ajustar o estilo da arte DELA. A edição manda as duas imagens pro modelo (base dela + referência sua) — não é mais «disse que ajustou» sem mudar o pixel.\n\nBASE = A QUE VOCÊ PUXOU: se você referenciar (puxar) uma arte ANTERIOR dela e pedir um ajuste, ela trabalha NESSA — não na última da conversa. Antes o swipe citava a imagem no texto, mas a mão de editar só conhecia a mais recente.\n\nAtualiza pelo banner na Início (canal lab). O servidor (estilo + base apontada) já está no Railway."
+    },
     {
       "id": "lab-0.25.0-puxar-pra-referenciar",
       "date": "2026-08-02",
