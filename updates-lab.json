@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.1",
-  "latestVersionCode": 88,
+  "latestVersion": "0.30.2",
+  "latestVersionCode": 89,
   "publishedAt": "2026-08-03",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.2/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.30.2-imagem-free-cartao",
+      "date": "2026-08-03",
+      "version": "0.30.2",
+      "tag": "correcao",
+      "title": "Hotfix: imagem no free não some mais",
+      "body": "No plano Grátis a Luna gerava a imagem (loading), descrevia e dizia que mandou — mas o cartão sumia.\n\nAgora a URL fica salva de verdade no histórico e, se a geração falhar, ela admite em vez de fingir.\n\nAtualiza pelo banner na Início (canal lab). Precisa do luna-core 915545b+ (já no ar)."
+    },
     {
       "id": "lab-0.30.1-uso-atual-planos",
       "date": "2026-08-03",
