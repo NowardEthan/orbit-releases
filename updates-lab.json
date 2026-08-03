@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.26.1",
-  "latestVersionCode": 81,
+  "latestVersion": "0.27.1",
+  "latestVersionCode": 83,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.26.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.27.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.27.1-hotfix-abertura",
+      "date": "2026-08-02",
+      "version": "0.27.1",
+      "tag": "correcao",
+      "title": "Hotfix: o app volta a abrir (bug do 0.27.0)",
+      "body": "O 0.27.0 (botões de proporção nas imagens) saiu quebrado e o Orbit Lab parava de abrir. Este build corrige o crash e mantém os chips de formato (16:9, 9:16, 1:1, 21:9).\n\nSe você ficou preso no 0.27.0 sem conseguir abrir o app, instale este APK por cima — ou o 0.26.1 e depois atualize."
+    },
     {
       "id": "lab-0.26.1-placeholder-geometrico",
       "date": "2026-08-02",
