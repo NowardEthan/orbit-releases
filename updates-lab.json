@@ -14,7 +14,7 @@
       "version": "0.29.1",
       "tag": "correcao",
       "title": "Áudio: a Luna passa a ouvir",
-      "body": "O mic agora grava de verdade, transcreve no servidor e manda o texto pra Luna — ela responde ao que você falou, não ao rótulo «Áudio (mm:ss)».\n\nGRAVAÇÃO REAL: MediaRecorder (AAC/m4a) no hold do microfone.\n\nSTT NO SERVIDOR: POST /v1/transcribe (Whisper), sem chave no APK — mesmo contrato do Orbit mobile.\n\nAtualiza pelo banner na Início (canal lab)."
+      "body": "Agora, quando você manda um áudio, a Luna entende o que você falou e responde de acordo.\n\nAtualiza pelo banner na Início."
     },
     {
       "id": "lab-0.29.0-billing-planos-cota",
