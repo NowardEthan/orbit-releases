@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.27.1",
-  "latestVersionCode": 83,
+  "latestVersion": "0.28.0",
+  "latestVersionCode": 84,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.27.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.28.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.28.0-financas-turno-teclado",
+      "date": "2026-08-02",
+      "version": "0.28.0",
+      "tag": "correcao",
+      "title": "Finanças: loading certo sem turno duplicado — e o teclado na edição",
+      "body": "Capítulo de estabilidade no chat da Luna — sobretudo nas Finanças — e um detalhe que incomodava na edição.\n\nTURNO ÚNICO (FINANÇAS E CHAT): o loading e o stream da Luna agora vivem no repositório, não só na tela. Fechar o sheet das Finanças (ou sair e voltar) no meio da resposta não reinicia o turno nem dispara um 2º pedido HTTP por cima — antes o auto-retry via mensagem órfã podia gerar duas respostas e a última sobrescrevia a outra (pior em imagem).\n\nTECLADO NA EDIÇÃO: ao editar artefato ou imagem, o campo deixava de ficar atrás do teclado (imePadding nos diálogos edge-to-edge).\n\nSHOWCASE NA INÍCIO: um card «O que a Luna ganhou» aponta Finanças, desenhar e a estante — dá pra dispensar.\n\nAtualiza pelo banner na Início (canal lab)."
+    },
     {
       "id": "lab-0.27.1-hotfix-abertura",
       "date": "2026-08-02",
