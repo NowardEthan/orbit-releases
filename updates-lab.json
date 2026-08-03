@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.29.1",
-  "latestVersionCode": 86,
+  "latestVersion": "0.30.0",
+  "latestVersionCode": 87,
   "publishedAt": "2026-08-03",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.29.1/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.30.0-galeria",
+      "date": "2026-08-03",
+      "version": "0.30.0",
+      "tag": "novo",
+      "title": "Galeria: imagens e artefatos num lugar só",
+      "body": "A Estante virou Galeria — o lar de tudo que você e a Luna criaram.\n\nDUAS ABAS: Imagens e Artefatos, num segmento no topo.\n\nIMAGENS (nova): as que a Luna desenhou e as que você anexou no chat agora se juntam num mural, com selo de quem fez (Luna ou Você) e filtro rápido (Tudo · Suas · Da Luna). Toque numa pra abrir em tela cheia, deslize entre elas, salve na galeria do celular ou compartilhe.\n\nARTEFATOS: os documentos e criações da Luna seguem ali do lado, na segunda aba — nada se perdeu.\n\nÉ retroativo: pega as imagens que já existiam nas suas conversas, sem migração. Atualiza pelo banner na Início (canal lab)."
+    },
     {
       "id": "lab-0.29.1-audio-stt-ouve",
       "date": "2026-08-03",
