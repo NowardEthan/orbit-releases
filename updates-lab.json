@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.0",
-  "latestVersionCode": 87,
+  "latestVersion": "0.30.1",
+  "latestVersionCode": 88,
   "publishedAt": "2026-08-03",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.30.1-uso-atual-planos",
+      "date": "2026-08-03",
+      "version": "0.30.1",
+      "tag": "novo",
+      "title": "Veja seu uso agora, na aba Planos",
+      "body": "Agora dá pra ver seus limites atuais num lugar claro.\n\nUM CARTÃO NO TOPO: abra Planos (pela gaveta ou tocando no medidor) e a primeira coisa é o \"Seu uso agora\" — quanto sobra da sua carteira, traduzido em conversas (\"≈ N conversas\").\n\nDUAS BARRAS: a da janela de 5h (o que aperta no dia a dia) e a da semana, cada uma mostrando quanto você usou do teto e quando renova.\n\nAntes o saldo só aparecia numa pílula pequena na gaveta — agora tem uma tela de verdade pra conferir onde você está.\n\nAtualiza pelo banner na Início (canal lab)."
+    },
     {
       "id": "lab-0.30.0-galeria",
       "date": "2026-08-03",
