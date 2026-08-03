@@ -1,21 +1,13 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.27.0",
-  "latestVersionCode": 82,
+  "latestVersion": "0.26.1",
+  "latestVersionCode": 81,
   "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.27.0/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.26.1/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
-    {
-      "id": "lab-0.27.0-botoes-proporcao-imagem",
-      "date": "2026-08-02",
-      "version": "0.27.0",
-      "tag": "novidade",
-      "title": "Geração de imagem: botões de proporção (16:9, 9:16, 1:1, 21:9)",
-      "body": "Escolha o formato da imagem diretamente nos botões abaixo de qualquer arte da Luna: 📺 16:9 (Widescreen), 📱 9:16 (Vertical/Stories), 🔲 1:1 (Quadrado) e 🖼️ 21:9 (Ultrawide). A Luna refaz a imagem na proporção escolhida mantendo o mesmo personagem e estilo."
-    },
     {
       "id": "lab-0.26.1-placeholder-geometrico",
       "date": "2026-08-02",
