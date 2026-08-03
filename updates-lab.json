@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.2",
-  "latestVersionCode": 89,
+  "latestVersion": "0.30.3",
+  "latestVersionCode": 90,
   "publishedAt": "2026-08-03",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.2/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.3/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.30.3-cota-hard-stop",
+      "date": "2026-08-03",
+      "version": "0.30.3",
+      "tag": "correcao",
+      "title": "Hotfix: limite free bloqueia de verdade",
+      "body": "Quando a carteira free chega no teto, o composer some e a Luna para de responder — sem bypass.\n\nAtualiza pelo banner na Início. Precisa do luna-core c643691+ (já no ar)."
+    },
     {
       "id": "lab-0.30.2-imagem-free-cartao",
       "date": "2026-08-03",
