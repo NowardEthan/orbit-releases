@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.28.0",
-  "latestVersionCode": 84,
-  "publishedAt": "2026-08-02",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.28.0/orbit.apk",
+  "latestVersion": "0.29.0",
+  "latestVersionCode": 85,
+  "publishedAt": "2026-08-03",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.29.0/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.29.0-billing-planos-cota",
+      "date": "2026-08-03",
+      "version": "0.29.0",
+      "tag": "novo",
+      "title": "Billing: planos, medidor e parede de cota",
+      "body": "A carteira da Luna chega no Lab Compose.\n\nPLANOS E CHECKOUT: tela de planos com Plus/Pro, mensal/anual, CPF/CNPJ e checkout Asaas — o mesmo fluxo do Orbit mobile.\n\nMEDIDOR E PAREDE: o uso aparece no app (lê /v1/billing/usage). Quando a cota acaba, o chat bloqueia e mostra quando renova, com atalho pra Ver planos.\n\nCARTEIRA REPRECIFICADA: conversa ficou mais generosa (~3k/turno); geração de imagem e pesquisa profunda é que pesam de verdade.\n\nAtualiza pelo banner na Início (canal lab). Precisa do luna-core 69ffa65+ (já no ar)."
+    },
     {
       "id": "lab-0.28.0-financas-turno-teclado",
       "date": "2026-08-02",
