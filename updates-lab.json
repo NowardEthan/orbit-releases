@@ -2,7 +2,7 @@
   "app": "orbit-lab",
   "manifestVersion": 1,
   "latestVersion": "0.31.0",
-  "latestVersionCode": 92,
+  "latestVersionCode": 96,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
