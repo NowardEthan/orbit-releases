@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.5",
-  "latestVersionCode": 92,
+  "latestVersion": "0.30.6",
+  "latestVersionCode": 93,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.30.5-2026-08-04",
+      "id": "lab-0.30.6-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.30.5",
+      "version": "0.30.6",
       "tag": "novidade",
-      "title": "Build mais enxuto (R8)",
-      "body": "O APK de release agora passa pelo R8 (minify). Menor e mais protegido. Atualiza pelo banner — mesma assinatura da 0.30.4.\n\nDepois de atualizar, abre Finanças e confere se os números batem (saldo/lançamentos)."
+      "title": "Crashlytics: crashes visíveis",
+      "body": "Agora crashes do app sobem pro Firebase Crashlytics (só uid + tela + versão — sem chat nem finanças).\n\nPra testar: Ajustes → toque 7 vezes na linha da versão → confirmar. O app fecha; em alguns minutos o crash aparece no console Firebase."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
