@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.34.3",
-  "latestVersionCode": 105,
+  "latestVersion": "0.34.4",
+  "latestVersionCode": 106,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.34.3-2026-08-04",
+      "id": "lab-0.34.4-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.34.3",
+      "version": "0.34.4",
       "tag": "novidade",
-      "title": "Bolha: sem quick reply + composer estável",
-      "body": "Toque no FAB abre o painel completo (quick reply removido). Composer não fecha o modal ao tocar em pontos vazios."
+      "title": "Chat: destravar composer após resposta",
+      "body": "Corrigido o travamento em que a resposta da Luna aparecia duplicada e o composer não deixava enviar nem pedir pra refazer."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
