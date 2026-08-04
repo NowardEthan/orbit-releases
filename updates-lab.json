@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.34.4",
-  "latestVersionCode": 106,
+  "latestVersion": "0.35.0",
+  "latestVersionCode": 107,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.34.4-2026-08-04",
+      "id": "lab-0.35.0-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.34.4",
+      "version": "0.35.0",
       "tag": "novidade",
-      "title": "Chat: destravar composer após resposta",
-      "body": "Corrigido o travamento em que a resposta da Luna aparecia duplicada e o composer não deixava enviar nem pedir pra refazer."
+      "title": "Narração agentica + artefatos em blocos",
+      "body": "A Luna conta o que está fazendo entre as ferramentas, e os documentos da estante abrem num editor Notion-like (blocos, / e índice)."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
