@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.6",
-  "latestVersionCode": 93,
+  "latestVersion": "0.30.7",
+  "latestVersionCode": 94,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.30.6-2026-08-04",
+      "id": "lab-0.30.7-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.30.6",
+      "version": "0.30.7",
       "tag": "novidade",
-      "title": "Crashlytics: crashes visíveis",
-      "body": "Agora crashes do app sobem pro Firebase Crashlytics (só uid + tela + versão — sem chat nem finanças).\n\nPra testar: Ajustes → toque 7 vezes na linha da versão → confirmar. O app fecha; em alguns minutos o crash aparece no console Firebase."
+      "title": "Endurecimento completo (F5)",
+      "body": "DirectChat/OpenRouter saem do APK de produção — o chat fala só com o servidor Luna. Assinatura, R8, Crashlytics e rate limit já estavam no ar. Atualiza pelo banner na Início."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
