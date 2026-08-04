@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.32.0",
-  "latestVersionCode": 98,
+  "latestVersion": "0.30.9",
+  "latestVersionCode": 96,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.32.0-2026-08-04",
+      "id": "lab-0.30.9-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.32.0",
+      "version": "0.30.9",
       "tag": "novidade",
-      "title": "Anexos nos chamados",
-      "body": "Agora dá pra mandar print e vídeo direto no Fala com o Ethan — no chamado novo e na conversa. Toca na miniatura pra ver em tela cheia."
+      "title": "Bolha da Luna",
+      "body": "A Luna pode flutuar sobre outros apps. Em Ajustes, liga a Bolha da Luna, concede desenhar sobre outros apps, e conversa sem sair do que voce esta fazendo. Atualiza pelo banner na Inicio."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
