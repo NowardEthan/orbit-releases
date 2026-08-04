@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.8",
-  "latestVersionCode": 95,
+  "latestVersion": "0.31.0",
+  "latestVersionCode": 92,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.30.8-2026-08-04",
+      "id": "lab-0.31.0-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.30.8",
+      "version": "0.31.0",
       "tag": "novidade",
-      "title": "Conversas com nome de verdade",
-      "body": "Depois do primeiro turno, a Luna batiza a conversa com um titulo curto pelo servidor — sem chave OpenRouter no APK. Atualiza pelo banner na Inicio."
+      "title": "Fala com o Ethan: canal direto de suporte",
+      "body": "Achou um bug, teve uma ideia ou ficou com uma dúvida? Agora dá pra falar comigo direto de dentro do app.\n\nAbra pela gaveta (menu lateral) ou pelo card na Início. Você abre um chamado, eu leio e respondo ali mesmo — e o app avisa quando tem resposta nova.\n\nEsta build também estreia os títulos automáticos nas conversas com a Luna."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
