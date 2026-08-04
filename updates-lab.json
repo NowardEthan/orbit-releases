@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.7",
-  "latestVersionCode": 94,
+  "latestVersion": "0.30.8",
+  "latestVersionCode": 95,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.30.7-2026-08-04",
+      "id": "lab-0.30.8-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.30.7",
+      "version": "0.30.8",
       "tag": "novidade",
-      "title": "Endurecimento completo (F5)",
-      "body": "DirectChat/OpenRouter saem do APK de produção — o chat fala só com o servidor Luna. Assinatura, R8, Crashlytics e rate limit já estavam no ar. Atualiza pelo banner na Início."
+      "title": "Conversas com nome de verdade",
+      "body": "Depois do primeiro turno, a Luna batiza a conversa com um titulo curto pelo servidor — sem chave OpenRouter no APK. Atualiza pelo banner na Inicio."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
