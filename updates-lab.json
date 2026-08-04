@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.4",
-  "latestVersionCode": 91,
+  "latestVersion": "0.30.5",
+  "latestVersionCode": 92,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.30.4-2026-08-04",
+      "id": "lab-0.30.5-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.30.4",
+      "version": "0.30.5",
       "tag": "novidade",
-      "title": "Publish pelo Actions restaurado",
-      "body": "Teste do ORBIT_RELEASES_TOKEN renovado. Mesma versão 0.30.4 (assinatura de release)."
+      "title": "Build mais enxuto (R8)",
+      "body": "O APK de release agora passa pelo R8 (minify). Menor e mais protegido. Atualiza pelo banner — mesma assinatura da 0.30.4.\n\nDepois de atualizar, abre Finanças e confere se os números batem (saldo/lançamentos)."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
