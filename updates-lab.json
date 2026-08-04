@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.34.0",
-  "latestVersionCode": 102,
+  "latestVersion": "0.34.1",
+  "latestVersionCode": 103,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.34.0-2026-08-04",
+      "id": "lab-0.34.1-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.34.0",
+      "version": "0.34.1",
       "tag": "novidade",
-      "title": "Bolha completa + Luna agentica",
-      "body": "Bolha com quick reply, sinais e handoff. Composer sem seletor de modo. Checklist do plano a vista. Soft router e profundidade automatica no servidor."
+      "title": "Bolha: arraste e chat completo no painel",
+      "body": "FAB volta a arrastar e grudar nas bordas. O modal da bolha usa o mesmo chat do app: loading, retry, pergunta, referencia, reasoning e imagens."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
