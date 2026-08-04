@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.30.3",
-  "latestVersionCode": 90,
+  "latestVersion": "0.30.4",
+  "latestVersionCode": 91,
   "publishedAt": "2026-08-03",
-  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.3/orbit.apk",
+  "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab-0.30.4/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.30.4-assinatura-release",
+      "date": "2026-08-03",
+      "version": "0.30.4",
+      "tag": "sistema",
+      "title": "Assinatura de produção",
+      "body": "Esta build usa a chave de release (não a de debug).\n\nSe o update pelo banner falhar, desinstale o Lab antigo e instale de novo pelo link do canal lab. Depois os updates voltam ao normal.\n\nConfira também o login com Google depois de reinstalar."
+    },
     {
       "id": "lab-0.30.3-cota-hard-stop",
       "date": "2026-08-03",
