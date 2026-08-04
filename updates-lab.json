@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.34.2",
-  "latestVersionCode": 104,
+  "latestVersion": "0.34.3",
+  "latestVersionCode": 105,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.34.2-2026-08-04",
+      "id": "lab-0.34.3-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.34.2",
+      "version": "0.34.3",
       "tag": "novidade",
-      "title": "Bolha: composer não fecha o painel",
-      "body": "Corrigido o modal da bolha que fechava ao tocar em certos pontos do composer. Agora só a área escura de cima fecha o painel."
+      "title": "Bolha: sem quick reply + composer estável",
+      "body": "Toque no FAB abre o painel completo (quick reply removido). Composer não fecha o modal ao tocar em pontos vazios."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
