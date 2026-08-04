@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.31.1",
-  "latestVersionCode": 97,
+  "latestVersion": "0.32.0",
+  "latestVersionCode": 98,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.31.1-2026-08-04",
+      "id": "lab-0.32.0-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.31.1",
+      "version": "0.32.0",
       "tag": "novidade",
-      "title": "Ajuste: cabeçalho e teclado no Fala com o Ethan",
-      "body": "Corrigido o cabeçalho da tela «Fala com o Ethan», que estava colando na barra de status, e o teclado que cobria o campo de escrever. Agora tudo respeita as bordas da tela."
+      "title": "Anexos nos chamados",
+      "body": "Agora dá pra mandar print e vídeo direto no Fala com o Ethan — no chamado novo e na conversa. Toca na miniatura pra ver em tela cheia."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
