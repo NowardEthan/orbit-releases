@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.0",
-  "latestVersionCode": 107,
+  "latestVersion": "0.35.1",
+  "latestVersionCode": 108,
   "publishedAt": "2026-08-04",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.0-2026-08-04",
+      "id": "lab-0.35.1-2026-08-04",
       "date": "2026-08-04",
-      "version": "0.35.0",
+      "version": "0.35.1",
       "tag": "novidade",
-      "title": "Narração agentica + artefatos em blocos",
-      "body": "A Luna conta o que está fazendo entre as ferramentas, e os documentos da estante abrem num editor Notion-like (blocos, / e índice)."
+      "title": "Narração contínua estilo Cursor",
+      "body": "Pontes e ferramentas no mesmo fio (não mais badges só no topo). A checklist segura a Luna até concluir os passos."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
