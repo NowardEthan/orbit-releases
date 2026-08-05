@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.6",
-  "latestVersionCode": 113,
+  "latestVersion": "0.31.2",
+  "latestVersionCode": 98,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.6-2026-08-05",
+      "id": "lab-0.31.2-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.6",
+      "version": "0.31.2",
       "tag": "novidade",
-      "title": "Badges com detalhe e turno firme",
-      "body": "Expand dos tools mostra o quê leu/editou. Core: não some após conferir; docs grandes sem estourar contexto."
+      "title": "Editor de artefatos estilo Notion",
+      "body": "Painel com ícones e preview ao digitar / ou no handle do bloco — Subir, Descer e Apagar à mão. Badges do chat mostram quando a Luna anota, edita ou apaga no cânone."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
