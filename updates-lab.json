@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.12",
-  "latestVersionCode": 119,
+  "latestVersion": "0.35.13",
+  "latestVersionCode": 120,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.12-2026-08-05",
+      "id": "lab-0.35.13-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.12",
+      "version": "0.35.13",
       "tag": "novidade",
-      "title": "Billing no Lab",
-      "body": "Build para testar Planos, medidor de uso, parede de cota, checkout Asaas e o fluxo atual do Orbit Lab."
+      "title": "Switch Pessoal e Comercial",
+      "body": "A sidebar agora mostra o seletor Pessoal/Comercial no topo da gaveta e mantém a escolha localmente."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
