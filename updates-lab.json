@@ -1,28 +1,52 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.10",
-  "latestVersionCode": 117,
+  "latestVersion": "0.35.11",
+  "latestVersionCode": 118,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.10-2026-08-05",
+      "id": "lab-0.35.11-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.10",
+      "version": "0.35.11",
       "tag": "novidade",
-      "title": "Pesquisa no fio agêntico",
-      "body": "Sumiu o painel de pesquisa à parte. Busca na web, leitura de links e cruzamento de fontes entram na mesma timeline agêntica, com as fontes clicáveis no detalhe da tool."
+      "title": "Blocos novos no artefato: callouts e índice que rola",
+      "body": "Tipos de bloco novos pra dar cara aos artefatos: callouts com sabor (💡 dica, ⚠️ atenção, ✅ feito, ❓ dúvida, 📌 fixado, ℹ️ nota) e divisor com rótulo no meio. E agora tocar num título do índice rola o leitor direto pra aquele ponto. A Luna também já sabe criar esses blocos sozinha."
     },
     {
-      "id": "lab-0.31.2-2026-08-05",
-      "date": "2026-08-05",
-      "version": "0.31.2",
+      "id": "lab-0.5.1-2026-07-20",
+      "date": "2026-07-20",
+      "version": "0.5.1",
       "tag": "novidade",
-      "title": "Editor de artefatos estilo Notion",
-      "body": "Painel com ícones e preview ao digitar / ou no handle do bloco — Subir, Descer e Apagar à mão. Badges do chat mostram quando a Luna anota, edita ou apaga no cânone."
+      "title": "Teste de auto-update",
+      "body": "Release mínima (0.5.1 / code 9) só para validar o banner e a instalação por cima."
+    },
+    {
+      "id": "lab-0.5.0-2026-07-20",
+      "date": "2026-07-20",
+      "version": "0.5.0",
+      "tag": "novidade",
+      "title": "Orbit Lab 0.5.0",
+      "body": "Main alinhado com o PC (visual Orbit, chat, auth) + auto-update. Code 8."
+    },
+    {
+      "id": "lab-0.0.5-2026-07-20",
+      "date": "2026-07-20",
+      "version": "0.0.5",
+      "tag": "novidade",
+      "title": "Release lab-0.0.5",
+      "body": "Nova release versionada no GitHub (download mais fiável no telemóvel). Ícone brand kit."
+    },
+    {
+      "id": "lab-0.0.4-2026-07-20",
+      "date": "2026-07-20",
+      "version": "0.0.4",
+      "tag": "novidade",
+      "title": "Ícone Orbit (brand kit)",
+      "body": "Símbolo oficial planeta + anel com Aura Blue."
     }
   ]
 }
