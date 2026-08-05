@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.3",
-  "latestVersionCode": 110,
+  "latestVersion": "0.35.4",
+  "latestVersionCode": 111,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.3-2026-08-05",
+      "id": "lab-0.35.4-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.3",
+      "version": "0.35.4",
       "tag": "novidade",
-      "title": "Badges Cursor + Luna mais cuidadosa",
-      "body": "Ações colapsáveis sem ícone estranho. A Luna ambienta (lê) antes de editar e confere depois."
+      "title": "Badges com nome do artefato",
+      "body": "Consultou estrutura · título certo — sem eco esquisito no detalhe."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
