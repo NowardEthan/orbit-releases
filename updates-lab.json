@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.13",
-  "latestVersionCode": 120,
+  "latestVersion": "0.35.14",
+  "latestVersionCode": 121,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.13-2026-08-05",
+      "id": "lab-0.35.14-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.13",
+      "version": "0.35.14",
       "tag": "novidade",
-      "title": "Switch Pessoal e Comercial",
-      "body": "A sidebar agora mostra o seletor Pessoal/Comercial no topo da gaveta e mantém a escolha localmente."
+      "title": "Brilho no texto da Luna",
+      "body": "Enquanto a Luna pensa ou prepara uma resposta, o texto de espera ganha um brilho deslizante."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
