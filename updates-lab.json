@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.11",
-  "latestVersionCode": 118,
+  "latestVersion": "0.35.12",
+  "latestVersionCode": 119,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.11-2026-08-05",
+      "id": "lab-0.35.12-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.11",
+      "version": "0.35.12",
       "tag": "novidade",
-      "title": "Blocos novos no artefato: callouts e índice que rola",
-      "body": "Tipos de bloco novos pra dar cara aos artefatos: callouts com sabor (💡 dica, ⚠️ atenção, ✅ feito, ❓ dúvida, 📌 fixado, ℹ️ nota) e divisor com rótulo no meio. E agora tocar num título do índice rola o leitor direto pra aquele ponto. A Luna também já sabe criar esses blocos sozinha."
+      "title": "Billing no Lab",
+      "body": "Build para testar Planos, medidor de uso, parede de cota, checkout Asaas e o fluxo atual do Orbit Lab."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
