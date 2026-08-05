@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.17",
-  "latestVersionCode": 124,
+  "latestVersion": "0.35.18",
+  "latestVersionCode": 125,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.17-2026-08-05",
+      "id": "lab-0.35.18-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.17",
+      "version": "0.35.18",
       "tag": "novidade",
-      "title": "Microinterações agenticas",
-      "body": "Os passos da Luna agora assentam com flash curto, check discreto, erro localizado e checklist com risco animado."
+      "title": "Finanças mais fiéis",
+      "body": "Polish no painel financeiro: sem meta fantasma, tags em movimentações e lançamentos futuros como planejados até chegar o dia."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
