@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.7",
-  "latestVersionCode": 114,
+  "latestVersion": "0.35.8",
+  "latestVersionCode": 115,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.7-2026-08-05",
+      "id": "lab-0.35.8-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.7",
+      "version": "0.35.8",
       "tag": "novidade",
-      "title": "Editor Notion com painel de blocos",
-      "body": "Painel com icones e preview ao digitar / ou no handle do bloco. Subir, Descer e Apagar. Badges do chat mostram quando a Luna anota, edita ou apaga no canone."
+      "title": "Neuronio na timeline e editor Notion",
+      "body": "Painel Notion no editor (/ e handle). Timeline mostra quando a Luna consulta Orientacao, Auditoria, Canone ou Pesquisa. Plano marca todos os passos e ela fecha falando com voce."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
