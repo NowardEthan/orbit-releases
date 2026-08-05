@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.19",
-  "latestVersionCode": 126,
+  "latestVersion": "0.35.20",
+  "latestVersionCode": 127,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.19-2026-08-05",
+      "id": "lab-0.35.20-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.19",
+      "version": "0.35.20",
       "tag": "novidade",
-      "title": "Início vivo do Orbit",
-      "body": "A tela Início ganhou um cockpit com conversa recente, finanças reais até hoje, planejados futuros e artefato recente."
+      "title": "Visão melhor para vídeos",
+      "body": "Vídeos agora enviam um frame de apoio para a Luna analisar quando o provedor não processar o vídeo inteiro."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
