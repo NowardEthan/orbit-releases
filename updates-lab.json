@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.2",
-  "latestVersionCode": 109,
+  "latestVersion": "0.35.3",
+  "latestVersionCode": 110,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.2-2026-08-05",
+      "id": "lab-0.35.3-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.2",
+      "version": "0.35.3",
       "tag": "novidade",
-      "title": "Narração em streaming + chips de tool",
-      "body": "As pontes digitan no fio e as ferramentas viram chips grafite — bem diferentes da prosa da Luna."
+      "title": "Badges Cursor + Luna mais cuidadosa",
+      "body": "Ações colapsáveis sem ícone estranho. A Luna ambienta (lê) antes de editar e confere depois."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
