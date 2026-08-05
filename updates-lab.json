@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.8",
-  "latestVersionCode": 115,
+  "latestVersion": "0.35.9",
+  "latestVersionCode": 116,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.8-2026-08-05",
+      "id": "lab-0.35.9-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.8",
+      "version": "0.35.9",
       "tag": "novidade",
-      "title": "Neuronio na timeline e editor Notion",
-      "body": "Painel Notion no editor (/ e handle). Timeline mostra quando a Luna consulta Orientacao, Auditoria, Canone ou Pesquisa. Plano marca todos os passos e ela fecha falando com voce."
+      "title": "Composer libera na hora certa",
+      "body": "O turno deixa de fechar cedo demais e o composer libera quando a Luna termina de falar — sem esperar o Firestore. Correcao do delay apos a resposta agentica."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
