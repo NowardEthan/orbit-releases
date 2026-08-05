@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.14",
-  "latestVersionCode": 121,
+  "latestVersion": "0.35.15",
+  "latestVersionCode": 122,
   "publishedAt": "2026-08-05",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.14-2026-08-05",
+      "id": "lab-0.35.15-2026-08-05",
       "date": "2026-08-05",
-      "version": "0.35.14",
+      "version": "0.35.15",
       "tag": "novidade",
-      "title": "Brilho no texto da Luna",
-      "body": "Enquanto a Luna pensa ou prepara uma resposta, o texto de espera ganha um brilho deslizante."
+      "title": "Streaming mais fluido",
+      "body": "O modo agentico da Luna recebeu ajustes para reduzir travadas durante a escrita, e o switch Pessoal/Comercial saiu da sidebar."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
