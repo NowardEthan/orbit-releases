@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.25",
-  "latestVersionCode": 132,
+  "latestVersion": "0.35.26",
+  "latestVersionCode": 133,
   "publishedAt": "2026-08-06",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.25-2026-08-06",
+      "id": "lab-0.35.26-2026-08-06",
       "date": "2026-08-06",
-      "version": "0.35.25",
+      "version": "0.35.26",
       "tag": "novidade",
-      "title": "Teste do Claude pessoal",
-      "body": "- Adiciona botao para testar a conexao do provider pessoal nos Ajustes\\n- Se o provider pessoal falhar no chat, a Luna usa o Orbit padrao em vez de derrubar o turno\\n- Normaliza Base URL com /v1 ou /v1/chat/completions\\n- Mostra erro claro quando a API nao e OpenAI-compatible"
+      "title": "Polish completo das finanças",
+      "body": "Fix na bolha do chat head e nas telas de finanças: transferência não sobrescreve escolha manual; 'Pagar fatura' avisa quando falta conta débito; tokens semânticos próprios (verde/vermelho/âmbar); lua visual clássica; 'Simular aviso' só em debug; copy consistente (Painel→Resumo, Novo recorrente em vez de Novo fixo)."
     },
     {
       "id": "lab-0.5.1-2026-07-20",
