@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.22",
-  "latestVersionCode": 129,
+  "latestVersion": "0.35.23",
+  "latestVersionCode": 130,
   "publishedAt": "2026-08-06",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.22-2026-08-06",
+      "id": "lab-0.35.23-2026-08-06",
       "date": "2026-08-06",
-      "version": "0.35.22",
+      "version": "0.35.23",
       "tag": "novidade",
-      "title": "Claude pessoal + ajustes de provider no OrbitLab",
-      "body": "- Adiciona aba Claude pessoal em Ajustes para a conta do criador\n- Permite configurar Base URL, API key e modelo OpenAI-compatible\n- Salva a chave localmente com Android Keystore\n- Roteia chat e modo agêntico pelo provider pessoal quando ativado\n- Mantém voz, visão/vídeo e geração de imagem nos provedores atuais\n- Confirma que o switch pessoal/comercial não está mais na sidebar"
+      "title": "Claude pessoal visível nos Ajustes",
+      "body": "- Corrige a release anterior que saiu sem a tela de configuração do Claude pessoal\n- Mostra a seção Modelo pessoal nos Ajustes\n- Adiciona configuração de Base URL, API key e modelo OpenAI-compatible\n- Mantém a chave salva localmente com Android Keystore\n- Mantém a proteção no servidor: só a conta do criador pode usar o provider pessoal\n- Confirma que o switch pessoal/comercial segue removido da sidebar"
     },
     {
       "id": "lab-0.5.1-2026-07-20",
