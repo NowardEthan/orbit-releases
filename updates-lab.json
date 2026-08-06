@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.24",
-  "latestVersionCode": 131,
+  "latestVersion": "0.35.25",
+  "latestVersionCode": 132,
   "publishedAt": "2026-08-06",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.24-2026-08-06",
+      "id": "lab-0.35.25-2026-08-06",
       "date": "2026-08-06",
-      "version": "0.35.24",
+      "version": "0.35.25",
       "tag": "novidade",
-      "title": "Claude pessoal nos Ajustes",
-      "body": "- Publica novamente a build a partir do main atualizado do OrbitLab\\n- Exibe a seção Modelo pessoal nos Ajustes\\n- Adiciona configuração de Base URL, API key e modelo Claude/OpenAI-compatible\\n- Mantém a chave protegida localmente com Android Keystore\\n- Mantém o switch pessoal/comercial removido da sidebar"
+      "title": "Teste do Claude pessoal",
+      "body": "- Adiciona botao para testar a conexao do provider pessoal nos Ajustes\\n- Se o provider pessoal falhar no chat, a Luna usa o Orbit padrao em vez de derrubar o turno\\n- Normaliza Base URL com /v1 ou /v1/chat/completions\\n- Mostra erro claro quando a API nao e OpenAI-compatible"
     },
     {
       "id": "lab-0.5.1-2026-07-20",
