@@ -1,28 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.21",
-  "latestVersionCode": 128,
+  "latestVersion": "0.35.22",
+  "latestVersionCode": 129,
   "publishedAt": "2026-08-06",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.21-2026-08-06",
+      "id": "lab-0.35.22-2026-08-06",
       "date": "2026-08-06",
-      "version": "0.35.21",
+      "version": "0.35.22",
       "tag": "novidade",
-      "title": "Igualar fundo do chat head ao chat",
-      "body": "Painel da bolha (chat head) agora usa o mesmo grafite do ChatScreen — composer e timeline ficam visualmente colados na conversa nativa."
-    },
-    {
-      "id": "lab-0.35.20-2026-08-05",
-      "date": "2026-08-05",
-      "version": "0.35.20",
-      "tag": "novidade",
-      "title": "Visão melhor para vídeos",
-      "body": "Vídeos agora enviam um frame de apoio para a Luna analisar quando o provedor não processar o vídeo inteiro."
+      "title": "Claude pessoal + ajustes de provider no OrbitLab",
+      "body": "- Adiciona aba Claude pessoal em Ajustes para a conta do criador\n- Permite configurar Base URL, API key e modelo OpenAI-compatible\n- Salva a chave localmente com Android Keystore\n- Roteia chat e modo agêntico pelo provider pessoal quando ativado\n- Mantém voz, visão/vídeo e geração de imagem nos provedores atuais\n- Confirma que o switch pessoal/comercial não está mais na sidebar"
     },
     {
       "id": "lab-0.5.1-2026-07-20",
