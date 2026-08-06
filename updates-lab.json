@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.20",
-  "latestVersionCode": 127,
-  "publishedAt": "2026-08-05",
+  "latestVersion": "0.35.21",
+  "latestVersionCode": 128,
+  "publishedAt": "2026-08-06",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.35.21-2026-08-06",
+      "date": "2026-08-06",
+      "version": "0.35.21",
+      "tag": "novidade",
+      "title": "Igualar fundo do chat head ao chat",
+      "body": "Painel da bolha (chat head) agora usa o mesmo grafite do ChatScreen — composer e timeline ficam visualmente colados na conversa nativa."
+    },
     {
       "id": "lab-0.35.20-2026-08-05",
       "date": "2026-08-05",
