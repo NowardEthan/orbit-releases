@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.3-debug",
-  "latestVersionCode": 137,
+  "latestVersion": "0.36.4-debug",
+  "latestVersionCode": 138,
   "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.4-debug-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.4-debug",
+      "tag": "debug",
+      "title": "Atelie - continuar editando",
+      "body": "Corrige o follow-up do Atelie: conversas com artefato agora mantem o alvo salvo e enviam a instrucao oculta nos proximos turnos, inclusive em respostas curtas como 'pode fazer'."
+    },
     {
       "id": "lab-0.36.3-debug-2026-08-07",
       "date": "2026-08-07",
