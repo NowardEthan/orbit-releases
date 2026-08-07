@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.0",
-  "latestVersionCode": 134,
+  "latestVersion": "0.36.1-debug",
+  "latestVersionCode": 135,
   "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.1-debug-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.1-debug",
+      "tag": "debug",
+      "title": "Canvas debug - permissoes e contexto",
+      "body": "Build debug para testar o Canvas sem tocar no canal estavel: libera workspaces no Firestore, corrige abertura do chat com contexto do canvas e ajusta contagem/stream dos elementos."
+    },
     {
       "id": "lab-0.36.0-2026-08-07",
       "date": "2026-08-07",
