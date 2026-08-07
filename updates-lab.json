@@ -1,20 +1,20 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.35.21",
-  "latestVersionCode": 128,
-  "publishedAt": "2026-08-06",
+  "latestVersion": "0.36.0",
+  "latestVersionCode": 134,
+  "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
     {
-      "id": "lab-0.35.21-2026-08-06",
-      "date": "2026-08-06",
-      "version": "0.35.21",
+      "id": "lab-0.36.0-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.0",
       "tag": "novidade",
-      "title": "Igualar fundo do chat head ao chat",
-      "body": "Painel da bolha (chat head) agora usa o mesmo grafite do ChatScreen — composer e timeline ficam visualmente colados na conversa nativa."
+      "title": "Canvas - editor visual de UI",
+      "body": "Novo módulo Canvas no OrbitLab: crie workspaces visuais, adicione elementos (cards, shapes, texto, imagens), use ferramentas de layout, histórico de versões e conversei com a Luna sobre seu design."
     },
     {
       "id": "lab-0.35.20-2026-08-05",
