@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.2-debug",
-  "latestVersionCode": 136,
+  "latestVersion": "0.36.3-debug",
+  "latestVersionCode": 137,
   "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.3-debug-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.3-debug",
+      "tag": "debug",
+      "title": "Atelie - artefatos de verdade",
+      "body": "O Atelie agora cria um rascunho na Estante ao iniciar um brief e manda a Luna trabalhar no artefato em modo agentico, em vez de responder so em mensagem."
+    },
     {
       "id": "lab-0.36.2-debug-2026-08-07",
       "date": "2026-08-07",
