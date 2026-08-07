@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.1-debug",
-  "latestVersionCode": 135,
+  "latestVersion": "0.36.2-debug",
+  "latestVersionCode": 136,
   "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.2-debug-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.2-debug",
+      "tag": "debug",
+      "title": "Atelie - artefatos de design",
+      "body": "Pivot do Canvas manual para o Atelie da Luna: briefs de folder, identidade, landing, tela de app e post agora abrem conversas orientadas a criar artefatos de design renderizaveis."
+    },
     {
       "id": "lab-0.36.1-debug-2026-08-07",
       "date": "2026-08-07",
