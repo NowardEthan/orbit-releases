@@ -1,13 +1,21 @@
 {
   "app": "orbit-lab",
   "manifestVersion": 1,
-  "latestVersion": "0.36.4-debug",
-  "latestVersionCode": 138,
+  "latestVersion": "0.36.5-debug",
+  "latestVersionCode": 139,
   "publishedAt": "2026-08-07",
   "apkUrl": "https://github.com/NowardEthan/orbit-releases/releases/download/lab/orbit.apk",
   "minSupportedVersion": "0.1.0",
   "mandatory": false,
   "news": [
+    {
+      "id": "lab-0.36.5-debug-2026-08-07",
+      "date": "2026-08-07",
+      "version": "0.36.5-debug",
+      "tag": "debug",
+      "title": "Artefatos - Markdown sem escapes",
+      "body": "Corrige artefatos que vinham com \\n e aspas escapadas: o leitor agora reidrata o Markdown antes de renderizar, inclusive em artefatos ja criados."
+    },
     {
       "id": "lab-0.36.4-debug-2026-08-07",
       "date": "2026-08-07",
