@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NowardEthan/orbit-releases/releases/latest">
-    <img alt="Última versão" src="https://img.shields.io/github/v/release/NowardEthan/orbit-releases?label=vers%C3%A3o&color=7D3FD0">
+  <a href="https://github.com/NowardEthan/orbit-lab-releases/releases">
+    <img alt="Versão do Lab" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNowardEthan%2Forbit-releases%2Fmain%2Fupdates-lab.json&query=%24.latestVersion&label=Lab&color=7D3FD0">
   </a>
   <img alt="Android" src="https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/status-beta-F5D047">
@@ -40,7 +40,11 @@ O **Orbit** é o app que leva a Luna pro seu bolso.
 
 ## Baixar (Android)
 
-1. **[Baixe o APK mais recente](https://github.com/NowardEthan/orbit-releases/releases/latest)**
+> Este repo ficou como **ponte legado**. A produção atual do OrbitLab agora vive em
+> [`orbit-lab-releases`](https://github.com/NowardEthan/orbit-lab-releases), e o debug em
+> [`orbit-lab-debug-releases`](https://github.com/NowardEthan/orbit-lab-debug-releases).
+
+1. **[Abra as releases de produção do Lab](https://github.com/NowardEthan/orbit-lab-releases/releases)**
 2. Ao instalar, ative **"instalar apps de fontes desconhecidas"** (só na primeira vez).
 3. Abra e converse. **As próximas atualizações chegam sozinhas**, direto no app.
 
@@ -48,7 +52,7 @@ O **Orbit** é o app que leva a Luna pro seu bolso.
 
 ## Feito com
 
-`React Native` · `Expo` · `TypeScript` · `Firebase` · backend próprio (**Luna Core**, Node/TypeScript)
+`Kotlin` · `Jetpack Compose` · `Firebase` · backend próprio (**Luna Core**, Node/TypeScript)
 integrando LLMs. O app se auto-atualiza checando este repositório — sem loja de apps.
 
 ---
@@ -61,8 +65,10 @@ integrando LLMs. O app se auto-atualiza checando este repositório — sem loja 
 Este é o **canal público de distribuição** do Orbit — o código-fonte é privado; aqui ficam só as
 coisas que o app precisa baixar sem login:
 
-- **[Releases](https://github.com/NowardEthan/orbit-releases/releases)** — os instaladores (APK).
-- **`updates.json`** — o manifesto que o app lê pra saber se há versão nova e o que mostrar no mural.
+- **[Produção atual](https://github.com/NowardEthan/orbit-lab-releases/releases)** — releases versionadas do OrbitLab.
+- **[Debug](https://github.com/NowardEthan/orbit-lab-debug-releases/releases)** — releases versionadas de teste/debug.
+- **`updates-lab.json` neste repo** — ponte de migração para apps antigos.
+- **`updates.json`** — manifesto legado do Orbit mobile/Expo.
 
 Esquema resumido do `updates.json`:
 
